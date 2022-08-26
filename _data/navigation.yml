@@ -1,10 +1,16 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Example Folder
     collection: example-folder
   - title: About Us
     collection: about-us
+  - title: curriculum
+    collection: curriculum
+  - title: CCA
+    collection: cca
+  - title: Events & Achievements
+    collection: events-and-achievements
+  - title: Parents
+    collection: parents
+  - title: MOE Kindergaten @ Northoaks
+    collection: moe-kindergaten
