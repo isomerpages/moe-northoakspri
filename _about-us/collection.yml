@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - eBrochure 2022.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
       - School History.md
