@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Phiplosphy.md
       - Our Staff/MOE Kindergaten Educators.md
       - Our Staff/Executive & Admin Staff.md
       - Our Staff/P6 Teachers.md
