@@ -80,4 +80,3 @@ The school’s Environmental Science Club is made up of selected Primary 4, 5 an
   
 
 **Disclaimer**: Some of the photos were taken during Pre-Covid times.
-
