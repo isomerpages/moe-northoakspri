@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - General Information.md
       - eOpen House 2022.md
       - eBrochure 2022.md
       - Learning for Life Programme.md
