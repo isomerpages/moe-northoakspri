@@ -19,3 +19,15 @@ The school adopts a **4E**\-Approach, **E**nrich, **E**ducate, **E**xcel and
 
 **E**nrich<br>
 _Broadening the students’ learning experiences through a wide range of sports and outdoor activities beyond the PE curriculum._
+![](/images/lp2.png)
+![](/images/lp3.png)
+![](/images/lp4.png)
+![](/images/lp5.png)
+![](/images/lp6.png)
+![](/images/lp7.png)
+ **Excel**
+
+_Platforms for students to pursue a mind-set of excellence in sports_
+![](/images/lp8.png)
+![](/images/lp9.png)
+![](/images/lp10.png)
