@@ -3,7 +3,7 @@ title: Aesthetics
 permalink: /curriculum/aesthetics
 description: ""
 ---
-**The Northoaks Art Curriculum:**
+![](/images/aest1.png)**The Northoaks Art Curriculum:**
 
 **Young Artists' Programme**
 
@@ -21,7 +21,17 @@ ii) **Confidence**, **Curiosity,** ~and~ **Imagination** and **Enjoyment**
 
 iii) **Awareness** and **Respect** for histories and cultures of key **Artworks** and **Artists** in Singapore and the World.
 
-The following are the themes and topics for each of our art modules. 
+The following are the themes and topics for each of our art modules. ![](/images/aest2.png)
+
+**The Northoaks Art Curriculum:**
+
+Young Artists' Programme
+
+
+**Our Pupils in Action.....**
+	![](/images/aest4.png)
+	![](/images/aest5a.png)
+	
 ### The SchoolARTS@SCH project
 
   
@@ -35,8 +45,13 @@ The Singapore Community Hospitals are Bright Vision Hospital, Outram Community 
   
 
 Please view our students' artworks in the virtual art gallery below: ((Visual art gallery how how how))
-<br>**Aim of GMP  
-**  
+<br> 
+
+**Music Curriculum** ![](/images/aest5.png)
+<p style="text-align: center">
+Framework for Teaching and Learning in the General Music Programme (GMP)
+
+	Aim of GMP
 1\. Develop awareness and appreciation of music in local and global cultures.  
 2\. Develop ability for creative expression and communication through music  
 3\. Provide the basis to develop an informed and life-long involvement in music.  
@@ -54,4 +69,4 @@ Northoaks Primary School has a structured **whole-school approach** to implem
 
   
 
-*   To equip our students with **Social Emotional Learning (SEL)** and to reinforce the school values of **‘H.E.A.R.T’** (Honesty, Empathy, Appreciation, Respect, Tenacity).
+*   To equip our students with **Social Emotional Learning (SEL)** and to reinforce the school values of **‘H.E.A.R.T’** (Honesty, Empathy, Appreciation, Respect, Tenacity).![](/images/aest6.png)![](/images/aest7.png)![](/images/aest8.png)
