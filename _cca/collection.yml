@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Modern Dance.md
       - Percussion Ensemble.md
