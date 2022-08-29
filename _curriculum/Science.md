@@ -3,8 +3,8 @@ title: Science
 permalink: /curriculum/science
 description: ""
 ---
-![](/images/sci1.png)
 
+<img src="/images/sci1.png" style="width:60%">
 ### The Science Curriculum
 
 Aligned with the MOE Primary Science Syllabus and the emphasis on 21st Century Competencies, the Science curriculum aims to inspire students and fascinate them with everyday science phenomena that occur in everyday activities. It also aims to nurture students as active inquirers and creative problem-solvers. Leveraging children’s curiosity and their sense of wonderment and exploration, the curriculum seeks to fuel this spirit of curiosity.
