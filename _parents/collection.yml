@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - MOE Kindergarten @ Northoaks.md
       - School Newsletters.md
       - MOE Sexuality Education.md
       - Cyber Wellness.md
