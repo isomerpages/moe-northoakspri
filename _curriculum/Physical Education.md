@@ -3,8 +3,9 @@ title: Physical Education
 permalink: /curriculum/physical-education
 description: ""
 ---
-![](/images/pe1.png)
+<img src="/images/pe1.png" style="width:60%">
 
+<p style=“text-align:center;“> <strong>PE Curriculum</strong></p>
 <p style="text-align: center"> PE Curriculum
 	
 ![](/images/pe2.png)
