@@ -3,8 +3,10 @@ title: Aesthetics
 permalink: /curriculum/aesthetics
 description: ""
 ---
-![](/images/aest1.png)**The Northoaks Art Curriculum:**
+<img src="/images/aest1.png" style="width:60%">
 
+### **The Northoaks Art Curriculum:**
+###
 **Young Artists' Programme**
 
 _A Journey in Artistic Exploration....._
