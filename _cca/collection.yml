@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - netball.md
       - Wushu.md
       - Art Club.md
       - Environment Science Club.md
