@@ -2,4 +2,5 @@ collections:
   events-and-achievements:
     output: true
     order:
+      - School Achievements/.keep
       - School Events/.keep
