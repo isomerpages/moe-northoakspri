@@ -31,5 +31,13 @@ The Environment Science Club hopes to engage our community in the efforts to sus
 
 **Tray Return Campaign @ Kampung Admiralty**
 
-Environment Science Club student ambassadors have collaborated with the CCE department to partner with NTUC Foodfare to reach out to the community at Admiralty’s hawker centre to promote and educate the residents on the importance of self-tray returning.
+Environment Science Club student ambassadors have collaborated with the CCE department to partner with NTUC Foodfare to reach out to the community at Admiralty’s hawker centre to promote and educate the residents on the importance of self-tray returning.![](/images/env01.png)
+**2019 Earth Day @ Marina Barrage**
+
+Environment Science Club members participated in the annual EarthFest held in Marina Barrage. During this outreach, our members were able to promote Northoaks’s environment education as well as educating members of the public. Some of our members got a chance to present their learning to their family members as well.
+![](/images/env1.png)
+
+**2019 Canberra Day @ Sembawang**
+
+Environment Science Club members and student helpers from the Friend of Singha project (CCE, ViA) were invited by Sembawang GRC to promote Northoak’s environment education. Both groups used recycled materials to promote Northoaks’s upcycling efforts. Our Eco-team leaders were actively educating Sembawang residents on how to upcycle plastic bottles into a “self-watering” garden. One of our student ambassadors showed Dr Lim Wee Kiak (MP for Sembawang GRC) our upgraded version of “self-watering” garden. They innovated the bottled garden using Design Thinking protocols in their creation.
 
