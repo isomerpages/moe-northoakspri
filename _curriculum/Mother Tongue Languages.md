@@ -3,7 +3,7 @@ title: Mother Tongue Languages
 permalink: /curriculum/mtl
 description: ""
 ---
-![](/images/mtl1.png)
+<img src="/images/mtl1.png" style="width:60%">
 
 ### Our Goals
 
