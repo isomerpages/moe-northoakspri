@@ -3,6 +3,8 @@ title: Mathematics
 permalink: /curriculum/mathematics
 description: ""
 ---
+<img src="/images/math1.png" style="width:60%">
+
 ### Learning through the Concrete-Pictorial-Abstract (C-P-A) Approach
 
 Our students learn and understand mathematical concepts using concrete manipulatives, practical pictorial examples and collaborative group work and activities.
