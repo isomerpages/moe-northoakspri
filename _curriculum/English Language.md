@@ -3,6 +3,7 @@ title: English Language
 permalink: /curriculum/english-language
 description: ""
 ---
+![](/images/eng1.png)
 ### English Curriculum  
 
 The English Department adopts the STELLAR (STrategies for English Language Learning And Reading) 2.0 approach in the teaching and learning of English language. STELLAR 2.0 aims to strengthen students’ foundation in both receptive and productive skills and knowledge of the language through:
