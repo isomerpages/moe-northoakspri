@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Service Providers.md
+      - NKPS Bouquets of Appreciation.md
       - General Information.md
       - eOpen House 2022.md
       - eBrochure 2022.md
