@@ -40,4 +40,17 @@ Environment Science Club members participated in the annual EarthFest held in Ma
 **2019 Canberra Day @ Sembawang**
 
 Environment Science Club members and student helpers from the Friend of Singha project (CCE, ViA) were invited by Sembawang GRC to promote Northoak’s environment education. Both groups used recycled materials to promote Northoaks’s upcycling efforts. Our Eco-team leaders were actively educating Sembawang residents on how to upcycle plastic bottles into a “self-watering” garden. One of our student ambassadors showed Dr Lim Wee Kiak (MP for Sembawang GRC) our upgraded version of “self-watering” garden. They innovated the bottled garden using Design Thinking protocols in their creation.
+![](/images/env2.png)
+
+**2019 Hosting China Schools in collaboration with NEA**
+
+Environment Science Club has collaborated with NEA to co-host visitors from China. Students presented on Northoak’s Environment Education confidently to the visitors from the four visiting schools. The visitors also shared their school’s environment education with us. After the sharing, our student ambassadors took the visitors to tour our school environment and thereafter co-hosted an upcycling workshop to the staff and students from China.
+![](/images/env3.png)
+
+**2019 Our Recognitions as an Eco-school**
+
+**World Wide Fund for Nature (WWF) – Green Flag Award 2019 (International)**
+
+With sustained practices in the school, Northoaks clinched the first Green Flag awarded by WWF Singapore among the primary school category. This is a recognition given to the school by WWF and it is recognized internationally.
+![](/images/env4.png)
 
