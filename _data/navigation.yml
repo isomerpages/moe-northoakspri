@@ -12,8 +12,3 @@ links:
     collection: events-and-achievements
   - title: Parents
     collection: parents
-  - title: About US
-    url: /about-us/
-    sublinks:
-      - title: Our Staff
-        url: /about-us/our-staff
