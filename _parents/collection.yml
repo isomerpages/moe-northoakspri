@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - School Newsletters.md
       - MOE Sexuality Education.md
       - Cyber Wellness.md
       - Useful Links.md
