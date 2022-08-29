@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Cyber Wellness.md
       - Useful Links.md
       - Student Learning Space.md
