@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - School Achievements/.keep
+      - School Events/Chinese New Year Celebrations.md
       - School Events/Breakfast with Parents.md
       - School Events/.keep
