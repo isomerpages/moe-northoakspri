@@ -3,7 +3,7 @@ title: eOpen House 2022
 permalink: /about-us/eopen-house/
 description: ""
 ---
-**Welcome to our e-Open House 2022**
+## Welcome to our e-Open House 2022
 <br>!!video to be uploaded on youtube!! <br><br>**Our School Philosophy**![](/images/openhouse1.jpg) Every child matters at Northoaks Primary School. The philosophy of the school is to provide a holistic and meaningful education with character building as the focal point for every child who enters the school.&nbsp;[\[More...\]](/about-us/school-philosophy)<br>
 
 
