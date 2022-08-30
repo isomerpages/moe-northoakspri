@@ -2,15 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - NKPS Bouquets of Appreciation.md
-      - General Information.md
-      - eOpen House 2022.md
-      - eBrochure 2022.md
-      - Learning for Life Programme.md
-      - Applied Learning Programme.md
-      - School History.md
-      - School VMH.md
-      - School Phiplosphy.md
+      - Principal's Message.md
+      - Our Staff/.keep
       - Our Staff/MOE Kindergaten Educators.md
       - Our Staff/Executive & Admin Staff.md
       - Our Staff/P6 Teachers.md
@@ -20,5 +13,12 @@ collections:
       - Our Staff/P2 Teachers.md
       - Our Staff/P1 Teachers.md
       - Our Staff/Key Personnel.md
-      - Our Staff/.keep
-      - Principal's Message.md
+      - School Phiplosphy.md
+      - School VMH.md
+      - School History.md
+      - General Information.md
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - eBrochure 2022.md
+      - eOpen House 2022.md
+      - NKPS Bouquets of Appreciation.md
