@@ -22,13 +22,3 @@ Skit by Tamil students entitled “The Enormous Turnip”
 Mr Kanthan teaching the art of The Tarik (Pulling Tea)
 ![](/images/rhd6.jpg)
 Parents from our PSG, providing students with the opportunity to try their hands in making “muruku”.
-
-
-
-
-
-
-
-
-
-
