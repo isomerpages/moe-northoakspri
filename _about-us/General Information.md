@@ -87,6 +87,8 @@ Students, who need **urgent** treatment on days where the dental clinic is not
 </tbody>
 </table>
 
+![](/images/schoolmap.jpg)
+
 
 
 
