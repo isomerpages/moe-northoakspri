@@ -13,6 +13,3 @@ To experience Total Defence Day in a more meaningful way, students and teachers 
 
 A skit was also put up by teachers and students to illustrate the importance and significance of Total Defence Day to the students. Total Defence Day is definitely alive in Northoaks Primary School.
 ![](/images/td3.png)
-
-
-
