@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Achievements/.keep
+      - School Events/International Friendship Day.md
       - School Events/Total Defence Day.md
       - School Events/Deepavali Celebrations.md
       - School Events/Hari Raya Puasa Celebrations.md
