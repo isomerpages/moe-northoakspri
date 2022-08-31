@@ -4,7 +4,6 @@ permalink: /events-and-achievements/school-events/health-n-aesthetics-week/
 description: ""
 third_nav_title: School Events
 ---
-  
 <p style="text-align: justify">The Health & Aesthetics Week was held in Term 2 Week 2. The event is a collaboration between the PE Department and the Aesthetics Department to celebrate our learning. Students were treated to a wide range of PAM (PE, Music & Art) activities during recess and PAM lessons.
 
 <p style="text-align: justify">For PE, the Lower Primary pupils experienced the Roving Carnival Exhibition by HPB. They learnt health tips through the interactive boards and activities. The students also went through the active recess activities such as the Nerf Gun shooting and playground. Lastly, during PE lesson, pupils made use of the map reading
@@ -17,8 +16,3 @@ skills to navigate around the school and complete a plethora of tasks that inclu
 	
 ![](/images/healthwk3.png)
 <p style="text-align: justify">The myriad of activities helped to bring greater awareness of student’s appreciation in the Arts and to promote an active and healthy lifestyle in the school.
-	
-
-	
-	
-	
