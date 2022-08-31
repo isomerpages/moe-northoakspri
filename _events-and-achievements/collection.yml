@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Achievements/.keep
+      - School Events/Learning Fiesta.md
       - School Events/Appreciation Day.md
       - School Events/ACORN Day.md
       - School Events/Cyber Wellness Week.md
