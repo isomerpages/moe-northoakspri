@@ -39,4 +39,3 @@ The students had a great time bonding with their peers. Some students mentioned 
 
 ![](/images/p5camp12.png)
 <p style=“text-align:center;“>Our 1st P5 Camp 2018</p>
-
