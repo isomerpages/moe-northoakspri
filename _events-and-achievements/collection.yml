@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Achievements/.keep
+      - School Events/Example Title.md
       - School Events/Children's Day.md
       - School Events/National Day.md
       - School Events/Racial Harmony.md
