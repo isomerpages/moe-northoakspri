@@ -16,6 +16,7 @@ third_nav_title: School Achievements
 
 
 ## 2021
-
+* [Singapore Science Buskers 2021](/2021/singapore-science-buskers-2021/)
 
 ## 2022
+* [20th Science Elementz Competition](/2022/20th-science-elementz-competition/)
