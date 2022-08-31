@@ -2,6 +2,7 @@ collections:
   events-and-achievements:
     output: true
     order:
+      - Hello/.keep
       - School Events/.keep
       - School Events/Breakfast with Parents.md
       - School Events/Chinese New Year Celebrations.md
