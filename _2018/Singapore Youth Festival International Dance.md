@@ -8,3 +8,4 @@ This year, our dancers took part in the Singapore Youth Festival (SYF) Arts Pres
 
 ![](/images/2018id1.jpg)
 ![](/images/2018id2.jpg)
+Our Teachers & Students working hard together for SYF
