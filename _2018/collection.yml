@@ -2,5 +2,6 @@ collections:
   "2018":
     output: true
     order:
+      - Gambas Tamil Language Festival.md
       - 12th YMCA Mandarin Speaking Award.md
       - Chinese MooO Competition.md
