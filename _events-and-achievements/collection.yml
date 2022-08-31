@@ -3,23 +3,23 @@ collections:
     output: true
     order:
       - School Achievements/.keep
-      - School Events/National Education (NE) Show.md
-      - School Events/Primary 5 Camp.md
-      - School Events/Primary 4 Camp.md
-      - School Events/Health & Aesthetics Week.md
-      - School Events/Hong Kong Immersion Trip.md
-      - School Events/Learning Fiesta.md
-      - School Events/Appreciation Day.md
-      - School Events/ACORN Day.md
-      - School Events/Cyber Wellness Week.md
-      - School Events/Teacher's Day.md
-      - School Events/Children's Day.md
-      - School Events/National Day.md
-      - School Events/Racial Harmony.md
-      - School Events/International Friendship Day.md
-      - School Events/Total Defence Day.md
-      - School Events/Deepavali Celebrations.md
-      - School Events/Hari Raya Puasa Celebrations.md
-      - School Events/Chinese New Year Celebrations.md
-      - School Events/Breakfast with Parents.md
       - School Events/.keep
+      - School Events/Breakfast with Parents.md
+      - School Events/Chinese New Year Celebrations.md
+      - School Events/Hari Raya Puasa Celebrations.md
+      - School Events/Deepavali Celebrations.md
+      - School Events/Total Defence Day.md
+      - School Events/International Friendship Day.md
+      - School Events/Racial Harmony.md
+      - School Events/National Day.md
+      - School Events/Children's Day.md
+      - School Events/Teacher's Day.md
+      - School Events/Cyber Wellness Week.md
+      - School Events/ACORN Day.md
+      - School Events/Appreciation Day.md
+      - School Events/Learning Fiesta.md
+      - School Events/Hong Kong Immersion Trip.md
+      - School Events/Health & Aesthetics Week.md
+      - School Events/Primary 4 Camp.md
+      - School Events/Primary 5 Camp.md
+      - School Events/National Education (NE) Show.md
