@@ -2,6 +2,7 @@ collections:
   "2018":
     output: true
     order:
+      - National Swimming Championship 2018.md
       - Gambas Tamil Language Festival.md
       - 12th YMCA Mandarin Speaking Award.md
       - Chinese MooO Competition.md
