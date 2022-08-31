@@ -16,5 +16,3 @@ The Learning Fiesta is an annual learning event in Northoaks Primary School. Stu
 
 ![](/images/learningfiesta4.png) 
 <p style=“text-align:center;“>Forming words using word tiles.</p>
-
-
