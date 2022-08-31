@@ -1,4 +1,5 @@
 collections:
   "2017":
     output: true
-    order: []
+    order:
+      - 9th Super Outdoor Adventure Race National Challenge2017.md
