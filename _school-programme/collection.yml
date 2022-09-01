@@ -2,4 +2,5 @@ collections:
   school-programme:
     output: true
     order:
+      - Active Recess Programme.md
       - Program for Active Learning.md
