@@ -10,8 +10,6 @@ sections:
       title: Hero title
       subtitle: Hero subtitle
       background: /images/oakgifhomepage.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: E-open house 2022
           description: Our Stories
