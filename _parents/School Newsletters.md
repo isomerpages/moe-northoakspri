@@ -5,7 +5,7 @@ description: ""
 ---
 link link link do by 1 Sept
 
-**June** [2021 Issue](https://northoakspri-moe-edu-sg-admin.cwp.sg/qql/slot/u323/NKPS%20Newsletter%20Term%203_24%20Jun%202021.pdf)
+**June** [](/files/NKPS%20Newsletter%20Term%203_24%20Jun%202021.pdf)
 **Newsletter to Parents (Term 3)****
 <br>March** [**2021 Issue**](https://northoakspri.moe.edu.sg/qql/slot/u162/Newsletter%202021/NKPS%20Newsletter%20Term%202.pdf) 
 **Newsletter to Parents (Term 2)****
