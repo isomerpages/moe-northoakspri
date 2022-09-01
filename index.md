@@ -19,9 +19,6 @@ sections:
         - title: School Programme
           description: Inspiring Excellene
           url: /school-programme
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Latest News
       subtitle: school updates
