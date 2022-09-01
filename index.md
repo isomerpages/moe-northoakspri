@@ -18,7 +18,7 @@ sections:
           url: https://google.com
         - title: School Programme
           description: Inspiring Excellene
-          url: https://gmail.com
+          url: /school-programme
         - title: Page A
           description: Page A is important too
           url: /privacy/
