@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Active Recess Programme.md
       - Active Reading Programme.md
       - MOE Kindergarten @ Northoaks.md
       - School Newsletters.md
