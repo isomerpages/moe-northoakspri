@@ -1,9 +1,9 @@
 ---
 title: Physical Education
-permalink: /curriculum/physical-education
+permalink: /curriculum/physical-education/
 description: ""
 ---
-<img src="/images/pe1.png" style="width:60%">
+<img src="/images/pe1.png" style="width:30%">
 
 <p style=“text-align:center;“> <strong>PE Curriculum</strong></p>
 <p style="text-align: center"> PE Curriculum
