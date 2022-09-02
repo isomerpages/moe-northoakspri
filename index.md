@@ -25,7 +25,8 @@ sections:
       url: /https://go.gov.sg/northoaks-brochure/
   - infobar:
       title: NKPS Bouquets of Appreciation
-      description: We strive to do better, for our staff, students & even stakeholders
+      description: "We strive to do better, for our staff, students & even
+        stakeholders! Your feedback is important to us "
       button: Appreciation messages
-      url: /about-us/nkps-bouquets-of-appreciation/
+      url: https://docs.google.com/forms/d/e/1FAIpQLSfYDGy53q_Z19kgt-maq_tKplr3voe34Lno9PyozZwLjTRTVw/viewform
 ---
