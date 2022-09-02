@@ -1,9 +1,9 @@
 ---
 title: English Language
-permalink: /curriculum/english-language
+permalink: /curriculum/english-language/
 description: ""
 ---
-<img src="/images/eng1.png" style="width:60%">
+<img src="/images/eng1.png" style="width:30%">
 
 
 ### English Curriculum  
