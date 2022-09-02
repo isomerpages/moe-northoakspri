@@ -53,9 +53,6 @@ As cultural awareness is integral to learning of MTL, our yearly Mother Tongue F
   
 The English Language and Mother Tongue Languages Departments collaborate to design a fun and structured reading programme for our students. Every student is given a Reading Passport which contains fun activities for them to complete after reading a book. The Mother Tongue Languages Department also leverages the Class Library Programme to provide books of different genres for our students to read during their free time. We hope our students will cultivate the love and passion for reading through these activities.   
 
-###   
-
-[](https://vle.learning.moe.edu.sg/login)
 
 ### Useful Links :
 
