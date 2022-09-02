@@ -10,9 +10,13 @@ third_nav_title: School Events
 skills to navigate around the school and complete a plethora of tasks that include the health and physical domains.
 	
 ![](/images/healthwk1.png)
+<br>
 <p style="text-align: justify">For Music, the Upper Primary students played the Ukulele with backing tracks, while the lower primary pupils enjoyed the dance machine activity during recess. The students also took part in the Music Quiz and uploaded snippets of their music performance via the SLS padlet, as part of the school’s efforts to encourage student’s participation in the Talent Showcase.
 	
-![](/images/healthwk2.png)<p style="text-align: justify">For Art, the pupils' artistic senses were put to good use through various hands-on activities.  There was the P4 Museum-Based Learning (via Zoom) for the Primary 4 pupils. There was the Art SYF showcase at the school compound and Art quizzes/learning stations. These activities further enhance the appreciation of the Arts among our pupils.
+![](/images/healthwk2.png)
+<br>
+<p style="text-align: justify">For Art, the pupils' artistic senses were put to good use through various hands-on activities.  There was the P4 Museum-Based Learning (via Zoom) for the Primary 4 pupils. There was the Art SYF showcase at the school compound and Art quizzes/learning stations. These activities further enhance the appreciation of the Arts among our pupils.
 	
 ![](/images/healthwk3.png)
+<br>
 <p style="text-align: justify">The myriad of activities helped to bring greater awareness of student’s appreciation in the Arts and to promote an active and healthy lifestyle in the school.
