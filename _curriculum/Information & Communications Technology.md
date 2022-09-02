@@ -1,10 +1,9 @@
 ---
 title: Information & Communications Technology
-permalink: /curriculum/ict
+permalink: /curriculum/ict/
 description: ""
 ---
-
-<img src="/images/ictleaf.png" style="width:60%">
+<img src="/images/ictleaf.png" style="width:30%">
 
 											
 ### ICT Curriculum
