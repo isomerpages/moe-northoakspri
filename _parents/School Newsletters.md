@@ -61,15 +61,15 @@ link link link do by 1 Sept
 <br>**February** [2019 Issue](/files/24_NKPS%20Newsletter%20_P6%20Foundation.pdf) **Newsletter to Parents - P6 Foundation**  
 **February** [2019 Issue](/files/24_NKPS%20Newsletter%20_P5.pdf) **Newsletter to Parents - P5** 
 <br>**February** [2019 Issue](/files/24_NKPS%20Newsletter%20_P5%20Foundation.pdf) **Newsletter to Parents - P5 Foundation**
-**February** [2019 Issue](https://northoakspri.moe.edu.sg/qql/slot/u375/24_NKPS%20Newsletter%20_P4.pdf) [](http://august%202018%20issue%20%20newsletter%20to%20parents/) **Newsletter to Parents - P4**
-<br>**February** [2019 Issue](https://northoakspri.moe.edu.sg/qql/slot/u375/24_NKPS%20Newsletter%20_P3.pdf) [](http://august%202018%20issue%20%20newsletter%20to%20parents/) **Newsletter to Parents - P3**
-<br>**February** [2019 Issue](https://northoakspri.moe.edu.sg/qql/slot/u375/24_NKPS%20Newsletter%20_P1%20&%20P2.pdf) [](http://august%202018%20issue%20%20newsletter%20to%20parents/) **Newsletter to Parents - P1 & P2** 
-<br>**January** [2019 Issue](https://northoakspri.moe.edu.sg/qql/slot/u375/15%20-%20NKPS%20Enrichment%20Letter%202019%20-%20%20P6.pdf) [](http://august%202018%20issue%20%20newsletter%20to%20parents/) **Newsletter to Parents - P6 Enrichment**
-<br>**January** [2019 Issue](https://northoakspri.moe.edu.sg/qql/slot/u375/14%20-%20NKPS%20Enrichment%20Letter%202019%20-%20%20P5.pdf) [](http://august%202018%20issue%20%20newsletter%20to%20parents/) **Newsletter to Parents - P5 Enrichment**
-<br>**January** [2019 Issue](https://northoakspri.moe.edu.sg/qql/slot/u375/13%20-%20NKPS%20Enrichment%20Letter%202019%20-%20%20P4.pdf) [](http://august%202018%20issue%20%20newsletter%20to%20parents/) **Newsletter to Parents - P4 Enrichment**
-<br>**January** [2019 Issue](https://northoakspri.moe.edu.sg/qql/slot/u375/12%20-%20NKPS%20Enrichment%20Letter%202019%20-%20%20P3.pdf) [](http://august%202018%20issue%20%20newsletter%20to%20parents/) **Newsletter to Parents - P3 Enrichment**
-<br>**January** [2019 Issue](https://northoakspri.moe.edu.sg/qql/slot/u375/11%20-%20NKPS%20Enrichment%20Letter%202019%20-%20%20P2.pdf) [](http://august%202018%20issue%20%20newsletter%20to%20parents/) **Newsletter to Parents - P2 Enrichment**
-<br>**January** [2019 Issue](https://northoakspri.moe.edu.sg/qql/slot/u375/10%20-%20NKPS%20Enrichment%20Letter%202019%20-%20%20P1.pdf) [](http://august%202018%20issue%20%20newsletter%20to%20parents/) **Newsletter to Parents - P1 Enrichment**
-<br>**January** [2019 Issue](https://northoakspri.moe.edu.sg/qql/slot/u375/09%20-%20P5%20&%20P6%20CCA%202019.pdf) [](http://august%202018%20issue%20%20newsletter%20to%20parents/) **Newsletter to Parents - P5 & P6 CCA**
-<br>**January** [2019 Issue](https://northoakspri.moe.edu.sg/qql/slot/u375/08-Newsletter%20to%20Parents%20(15%20Jan).pdf) [](http://august%202018%20issue%20%20newsletter%20to%20parents/) **Newsletter to Parents (08/2019)**
-<br>**January** [2019 Issue](https://northoakspri.moe.edu.sg/qql/slot/u375/01%20-%20NKPS%20Newsletter%201-2019%20(Jan).pdf) [](http://august%202018%20issue%20%20newsletter%20to%20parents/) **Newsletter to Parents (01/2019)**
+**February** [2019 Issue](/files/24_NKPS%20Newsletter%20_P4.pdf) **Newsletter to Parents - P4**
+<br>**February** [2019 Issue](/files/24_NKPS%20Newsletter%20_P3.pdf) **Newsletter to Parents - P3**
+<br>**February** [2019 Issue](/files/24_NKPS%20Newsletter%20_P1%20&%20P2.pdf) **Newsletter to Parents - P1 & P2** 
+<br>**January** [2019 Issue](/files/15%20-%20NKPS%20Enrichment%20Letter%202019%20-%20%20P6.pdf)  **Newsletter to Parents - P6 Enrichment**
+<br>**January** [2019 Issue](/files/14%20-%20NKPS%20Enrichment%20Letter%202019%20-%20%20P5.pdf) **Newsletter to Parents - P5 Enrichment**
+<br>**January** [2019 Issue ](/files/13%20-%20NKPS%20Enrichment%20Letter%202019%20-%20%20P4.pdf) **Newsletter to Parents - P4 Enrichment**
+<br>**January** [2019 Issue](/files/12%20-%20NKPS%20Enrichment%20Letter%202019%20-%20%20P3.pdf) **Newsletter to Parents - P3 Enrichment**
+<br>**January** [2019 Issue](/files/11%20-%20NKPS%20Enrichment%20Letter%202019%20-%20%20P2.pdf) **Newsletter to Parents - P2 Enrichment**
+<br>**January** [2019 Issue ](/files/10%20-%20NKPS%20Enrichment%20Letter%202019%20-%20%20P1.pdf) **Newsletter to Parents - P1 Enrichment**
+<br>**January** [2019 Issue](/files/09%20-%20P5%20&%20P6%20CCA%202019.pdf) **Newsletter to Parents - P5 & P6 CCA**
+<br>**January** 2019 Issue broken link **Newsletter to Parents (08/2019)**
+<br>**January** 2019 Issue broken link **Newsletter to Parents (01/2019)**
