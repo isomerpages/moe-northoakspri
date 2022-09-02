@@ -1,9 +1,9 @@
 ---
 title: Science
-permalink: /curriculum/science
+permalink: /curriculum/science/
 description: ""
 ---
-<img src="/images/sci1.png" style="width:60%">
+<img src="/images/sci1.png" style="width:30%">
 
 ### The Science Curriculum
 
