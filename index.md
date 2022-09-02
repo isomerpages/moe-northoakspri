@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: E-open house 2022
           description: Our Stories
-          url: https://google.com
+          url: /about-us/eopen-house/
         - title: MOE Kindergaten  @ Northoaks
           description: A Strong Start for Every Child
           url: /parents/moe-kindergarten-at-northoaks/
@@ -22,7 +22,7 @@ sections:
       subtitle: school updates
       description: Where children Grow and Glow Makes Northoaks Your School Of Choice!
       button: e-brochure 2022
-      url: /https://go.gov.sg/northoaks-brochure/
+      url: https://docs.google.com/presentation/d/e/2PACX-1vRUGs3q3G-kn_zqB-iFtiZT2z-Ci0ErKG6z4MKW7UUDyhs-LOTbqwoTxFyBRxb3p9HI14xHMq8R5__E/pub?start=true&loop=true&delayms=10000&slide=id.p
   - infobar:
       title: NKPS Bouquets of Appreciation
       description: "We strive to do better, for our staff, students & even
