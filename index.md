@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: NKPS
+      subtitle: to omit or not
       background: /images/oakgifhomepage.gif
       key_highlights:
         - title: E-open house 2022
