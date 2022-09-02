@@ -1,9 +1,9 @@
 ---
 title: Mother Tongue Languages
-permalink: /curriculum/mtl
+permalink: /curriculum/mtl/
 description: ""
 ---
-<img src="/images/mtl1.png" style="width:60%">
+<img src="/images/mtl1.png" style="width:30%">
 
 ### Our Goals
 
