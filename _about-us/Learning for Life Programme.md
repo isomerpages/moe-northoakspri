@@ -1,9 +1,9 @@
 ---
 title: Learning for Life Programme
-permalink: /about-us/learning-for-life-programme
+permalink: /about-us/learning-for-life-programme/
 description: ""
 ---
-Learning for Life Programme (LLP)<br>STRIVE@<br>Northoaks
+### Learning for Life Programme (LLP)<br>STRIVE@Northoaks
 ---------------------------------------------------
 
 The school’s LLP, STRIVE@Northoaks is a broad-based sports and outdoor education programme that provides learning experiences that would enrich the lives of our students and develop their character. The school firmly believes that exposing every child to a good sports and outdoor education facilitates the learning of important life skills and values which are critical for the holistic development of the child. By placing the school’s HEART values at the centre, we hope that it will ignite the passion for life-long learning and inspire excellence in sports and outdoor education. With this in mind, the desired student outcomes and the 21st century competencies of STRIVE@Northoaks are as follows:
