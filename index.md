@@ -23,4 +23,9 @@ sections:
       description: Where children Grow and Glow Makes Northoaks Your School Of Choice!
       button: e-brochure 2022
       url: /https://go.gov.sg/northoaks-brochure/
+  - infobar:
+      title: NKPS Bouquets of Appreciation
+      description: We strive to do better, for our staff, students & even stakeholders
+      button: Appreciation messages
+      url: /about-us/nkps-bouquets-of-appreciation/
 ---
