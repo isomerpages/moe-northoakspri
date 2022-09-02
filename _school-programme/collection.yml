@@ -1,5 +1,4 @@
 collections:
   school-programme:
     output: true
-    order:
-      - Program for Active Learning.md
+    order: []
