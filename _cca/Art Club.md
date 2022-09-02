@@ -1,6 +1,6 @@
 ---
 title: Art Club
-permalink: /cca/art-club
+permalink: /cca/art-club/
 description: ""
 ---
 **ABOUT THE CCA**
@@ -15,6 +15,7 @@ In Term One 2021, our members were engaged in an artistic journey to create artw
  All these completed artworks were also exhibited in the school (at the Spiral Staircase) from 26 March to 1 April 2021 as part of the Health & Aesthetics Week event to create awareness of our students’ participation in this nationwide exhibition and also to motivate all our students (not just our Art Club members) to have an even greater love for art.
  
  ![](/images/artclub2.png)
+ <br>
  **TEACHERS’ IN CHARGE (2021)**  
 Mr Ang Kok Leong (Main Teacher in-charge)
 <br>Mdm Shereena
