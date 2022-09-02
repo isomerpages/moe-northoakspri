@@ -14,9 +14,9 @@ sections:
         - title: E-open house 2022
           description: Our Stories
           url: https://google.com
-        - title: School Programme
-          description: Inspiring Excellene
-          url: /school-programme
+        - title: MOE Kindergaten  @ Northoaks
+          description: A Strong for Every Child
+          url: /parents/moe-kindergarten-at-northoaks/
   - infobar:
       title: Latest News
       subtitle: school updates
