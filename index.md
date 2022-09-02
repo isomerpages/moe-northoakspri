@@ -15,7 +15,7 @@ sections:
           description: Our Stories
           url: https://google.com
         - title: MOE Kindergaten  @ Northoaks
-          description: A Strong for Every Child
+          description: A Strong Start for Every Child
           url: /parents/moe-kindergarten-at-northoaks/
   - infobar:
       title: Latest News
