@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Programme/.keep
-      - Program for Active Learning.md
       - Active Recess Programme.md
       - Active Reading Programme.md
       - MOE Kindergarten @ Northoaks.md
