@@ -1,9 +1,9 @@
 ---
 title: Aesthetics
-permalink: /curriculum/aesthetics
+permalink: /curriculum/aesthetics/
 description: ""
 ---
-<img src="/images/aest1.png" style="width:60%">
+<img src="/images/aest1.png" style="width:30%">
 
 ### **The Northoaks Art Curriculum:**
 ###
