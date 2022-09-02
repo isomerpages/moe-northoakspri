@@ -1,6 +1,6 @@
 ---
 title: Student Learning Space
-permalink: /parents/student-learning-space
+permalink: /parents/student-learning-space/
 description: ""
 ---
 Students can access Student Learning Space (SLS) for the learning packages at [SLS](https://vle.learning.moe.edu.sg/login) .  
@@ -29,5 +29,5 @@ SLS Helpdesk: 6702 6513   
   
 Mondays - Fridays: 4:00 pm - 9:00 pm   
 Saturdays: 9:00 am - 9:00 pm   
-\*Closed on Sundays & Public Holidays     
+**Closed on Sundays & Public Holidays**  
 Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
