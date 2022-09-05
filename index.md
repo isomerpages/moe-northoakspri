@@ -18,7 +18,7 @@ sections:
   - infobar:
       title: Latest News
       subtitle: school updates
-      description: Where children Grow and Glow Makes Northoaks Your School Of Choice!
+      description: Where children Grow and Glow Makes Northoaks Your School of Choice!
       button: e-brochure 2022
       url: https://docs.google.com/presentation/d/e/2PACX-1vRUGs3q3G-kn_zqB-iFtiZT2z-Ci0ErKG6z4MKW7UUDyhs-LOTbqwoTxFyBRxb3p9HI14xHMq8R5__E/pub?start=true&loop=true&delayms=10000&slide=id.p
   - infobar:
@@ -28,5 +28,3 @@ sections:
       button: Appreciation messages
       url: https://docs.google.com/forms/d/e/1FAIpQLSfYDGy53q_Z19kgt-maq_tKplr3voe34Lno9PyozZwLjTRTVw/viewform
 ---
-
-
