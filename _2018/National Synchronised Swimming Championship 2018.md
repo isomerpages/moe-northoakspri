@@ -15,5 +15,8 @@ Our students took part in the National Synchronized Swimming Championship 2018 o
 | Ashley Tang Jia En (Primary 5M)     | Duet & Team Category: Silver     | 
 | Valerie Tan (Primary 4E)     | Duet & Team Category: Silver| 
 
-
-![](/images/2018syncwim.jpg)
+<br>
+<img src="/images/2018syncwim.jpg" 
+         style="width:350px"
+			/>
+<br>
