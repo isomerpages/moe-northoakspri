@@ -40,4 +40,3 @@ After the Observance Ceremony, our students, together with the children from our
 	 style="text-align:center"><strong>We ‘Heart’ ♥ Singapore!</strong>
 	</p>
 	
-<p style="text-align:center;"><strong>8 am to 5 pm</strong></p>
