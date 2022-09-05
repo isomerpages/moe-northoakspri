@@ -4,8 +4,6 @@ permalink: /school-programme/program-for-active-learning/
 description: ""
 third_nav_title: School Programme
 ---
-
-
 Program for Active Learning (PAL) for Primary 1 and Primary 2
 -------------------------------------------------------------
 
@@ -26,25 +24,61 @@ PAL consists of modules of activities in these broad areas:
 > 
 > o   Visual Arts
 
-![](/images/PAL1.png)
-![](/images/PAL2.png)
+<br>
+<img src="/images/PAL1.png" 
+         style="width:400px"
+			/>
+<br>
+<br>
+<img src="/images/PAL2.png" 
+         style="width:400px"
+			/>
+<br>
 
-3 videos to be uploaded on YouTube
+/////3 videos to be uploaded on YouTube
 
 **P1 Music (New in 2021)**
 
 This year, the school has designed the P1 PAL Music module with the aim of enhancing the learning experience of our students through musical activities. The learning experiences would help the students to develop their ability to listen, sing, dance, play and express themselves musically.
 
-![](/images/PAL3.png)
+<br>
+<img src="/images/PAL3.png" 
+         style="width:400px"
+			/>
+<br>
 
 1 video to be uploaded on YouTube
 
-![](/images/PAL4.png)
-![](/images/PAL5.png)
-![](/images/PAL6.png)
-![](/images/PAL7.png)
-![](/images/PAL8.png)
-![](/images/PAL9.png)
+<br>
+<img src="/images/PAL4.png" 
+         style="width:400px"
+			/>
+<br>
+<br>
+<img src="/images/PAL5.png" 
+         style="width:400px"
+			/>
+<br>
+<br>
+<img src="/images/PAL6.png" 
+         style="width:400px"
+			/>
+<br>
+<br>
+<img src="/images/PAL7.png" 
+         style="width:400px"
+			/>
+<br>
+<br>
+<img src="/images/PAL8.png" 
+         style="width:400px"
+			/>
+<br>
+<br>
+<img src="/images/PAL9.png" 
+         style="width:400px"
+			/>
+<br>
 
 
 **Disclaimer**: Some of the photos were taken during Pre-Covid times.  
