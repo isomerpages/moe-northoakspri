@@ -1,6 +1,6 @@
 ---
 title: Modern Dance
-permalink: /cca/modern-dance
+permalink: /cca/modern-dance/
 description: ""
 ---
 **About**
@@ -19,6 +19,14 @@ Teachers in-charge:
 *   Miss Rochelle Loo
 *   Miss Tan Woan Mey 
 *   Mdm Nazurah
-![](/images/moderndance1a.png)
-![](/images/moderndance2a.png)
 
+<br>
+<img src="/images/moderndance1a.png" 
+         style="width:400px"
+			/>
+<br>
+<br>
+<img src="/images/moderndance2a.png" 
+         style="width:400px"
+			/>
+<br>
