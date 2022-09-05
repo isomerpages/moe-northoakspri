@@ -29,7 +29,18 @@ The objectives of the Science curriculum are to:          
 
  - stimulate students’ curiosity and interest in the world around them as concerned citizens.
 
-![](/images/sci2.png)![](/images/sci3.png)
+
+<br>
+<img src="/images/sci2.png" 
+         style="width:430px"
+			/>
+<br>
+<br>
+<img src="/images/sci3.png" 
+         style="width:430px"
+			/>
+<br>
+
 
 
 ### **Early Experiences**          
@@ -38,15 +49,24 @@ At Primary 1 and 2, students are introduced to selected scientific concepts and 
 
 Students learn to use their sense of smell and taste during their writing activities such as making a sandwich and ice-cream party. During English Language lessons, students observe the different stages in the life cycle of a butterfly and learn concepts on magnetism through the books, ‘A Butterfly is Born’ and ‘Magnetic Max’ respectively. During PAL lessons, they also make observations around the school using a magnifying glass.
 
-![](/images/sci4.png)
+<br>
+<img src="/images/sci4.png" 
+         style="width:430px"
+			/>
+<br>
+
 
 ### Collaborative Learning Experiences
 
 Students collaborate with knowledgeable others such as their teachers, peers and parents to make learning authentic and meaningful. In many deliberate attempts to connect Science learning to everyday phenomena, students go through experiential and active learning in formal and informal contexts.  
 
 Teachers also explored the use of seamless learning, learning study and active learning using Student Learning Space as key pedagogical approaches and strategies to deepen learning.
+<br>
+<img src="/images/sci5.png" 
+         style="width:430px"
+			/>
+<br>
 
-![](/images/sci5.png)
 
 ### **Enrichment Programme**
 
@@ -54,7 +74,12 @@ The Excellence 2000 (E2K) Science Programme aims to develop scientific inquiry p
 
 Students learn Science by going through the same process that scientists use to generate knowledge in Science. Through collaborative learning and guidance provided by the teacher, students practise scientific thinking and reasoning, develop confidence and independence in carrying out scientific inquiry as well as scientific habits, attitudes and dispositions.
 
-![](/images/sci6.png)
+<br>
+<img src="/images/sci6.png" 
+         style="width:430px"
+			/>
+<br>
+
 
 ### Environment Education
 
@@ -62,15 +87,32 @@ The Environment Education is concerned with providing students the opportunities
 
 In school, every class has green leaders to look into conversation of energy and recycled materials were brought to school by students and staff for use during school programmes such as P3 modular enrichment, VIA programmes by CCE department and CI+I. Recyclable items are also collected in our continuous efforts to keep our environment sustainable. Assembly programmes are also conducted by teachers and student ambassadors to educate our school community.
 
-![](/images/sci7.jpg)
+<br>
+<img src="/images/sci7.jpg" 
+         style="width:430px"
+			/>
+<br>
+
 For the Primary 3, a 5-session module on Environment and Outdoor Education is conducted as part of the Primary 3 Modular Enrichment Programme. In the module, students learn to understand environmental issues through Problem-Based Learning (PBL). They take on roles as Northoaks Town residents, Scientists and Environmentalists to investigate i the  environmental challenges the town faced and redesign it into one that is more environmentally-friendly at the end of the module.
 
 They also learn about the benefits of EM Composting in the treatment of food waste and how they can turn food waste into useful products (compost soil) to enhance the growth of plants. The students grow vegetables using the compost soil they have made. Through the programme, students learn to appreciate resources around them and develop a sense of responsibility by taking care of the plants they grow.
-![](/images/sci8.png)
+
+<br>
+<img src="/images/sci8.png" 
+         style="width:430px"
+			/>
+<br>
+
 ### Gardens in the School
 
 Students are surrounded by the lush greenery in the school. Experiences with nature will stimulate their natural curiosity and they will learn to appreciate living things and come to understand the importance of the relationships among them. The students have an area in school for growing food plants. The middle primary students will learn to grow and take care of various types of vegetables and herbs. They will collect data to study the growth of the plants.
-![](/images/sci9.png)
+
+<br>
+<img src="/images/sci9.png" 
+         style="width:430px"
+			/>
+<br>
+
 
 
 ### The Environmental Science Club
