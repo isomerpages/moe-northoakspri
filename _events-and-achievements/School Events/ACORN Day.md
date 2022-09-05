@@ -13,15 +13,18 @@ The school believes that a strong partnership between school and parents is one 
          style="width:400px"
 			/>
 <br>
-<strong>Acorn Day 2017 was celebrated on 17th November 2017</strong>
+
+<p style="text-align: center"><strong>
+	Acorn Day 2017 was celebrated on 17th November 2017</strong></p>
 <br><br>
 <img src="/images/acorn2.jpg" 
          style="width:400px"
 			/>
 <br>
-<strong>Our 1st EAGLES Award Recipient</strong>
-<br>
-<br>
+
+<p style="text-align: center"><strong>
+	Our 1st EAGLES Award Recipient</strong></p>
+<br><br>
 <img src="/images/acorn3.jpg" 
          style="width:400px"
 			/>
@@ -31,34 +34,49 @@ The school believes that a strong partnership between school and parents is one 
 <img src="/images/acorn4.jpg" 
          style="width:400px"
 			/>
-<strong>A candid shot at our Acorn Day Photo Booth.
-<br><br>
-Performances from CCA Groups</strong>
+
+<p style="text-align: center"><strong>
+	A candid shot at our Acorn Day Photo Booth.</strong></p>
+
+<br>
+
+**Performances from CCA Groups**
 <br>
 <br>
 <img src="/images/acorn5.jpg" 
          style="width:400px"
 			/>
-<br><strong>Wushu</strong>
-<br>
+
+<p style="text-align: center"><strong>
+Wushu</strong></p>
+
 <br>
 <img src="/images/acorn6.jpg" 
          style="width:400px"
 			/>
-<br><strong>Percussion Ensemble</strong>
+
+<p style="text-align: center"><strong>
+	Percussion Ensemble</strong></p>
 <br>
 <br>
 <img src="/images/acorn7.jpg" 
          style="width:400px"
 			/>
-<br><strong>International Dance</strong><br>
+
+<p style="text-align: center"><strong>
+	International Dance</strong></p>
+
 <br>
 <img src="/images/acorn8.jpg" 
          style="width:400px"
 			/>
-<br><strong>Token of Appreciation for the Parent</strong><br>
+<p style="text-align: center"><strong>
+	Token of Appreciation for the Parent</strong></p>
+
 <br>
 <img src="/images/acorn9.jpg" 
          style="width:400px"
 			/>
-<br><strong>Presentation of Long Service Award to SAC Member, Mr Foong Yew Wai</strong>
+
+<p style="text-align: center"><strong>
+	Presentation of Long Service Award to SAC Member, Mr Foong Yew Wa</strong></p>
