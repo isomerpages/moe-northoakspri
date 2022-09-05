@@ -12,11 +12,19 @@ Selected students participated in National School Games Wushu Championships and 
 | Avyln Lee Xin Ern (Primary 5E)     | Sportsmanship Award     | 
 | Kong Jing Chun (Primary 5F)     | Sportsmanship Award     | 
 
-
-![](/images/2018wushu1.jpg)
-
-![](/images/2018wushu2.jpg)
-
-![](/images/2018wushu3.jpg)
-
-![](/images/2018wushu4.jpg)
+<br>
+<img src="/images/2018wushu1.jpg" 
+         style="width:350px"
+			/>
+<br>
+<img src="/images/2018wushu2.jpg" 
+         style="width:350px"
+			/>
+<br>
+<img src="/images/2018wushu3.jpg" 
+         style="width:350px"
+			/>
+<br>
+<img src="/images/2018wushu4.jpg" 
+         style="width:350px"
+			/>
