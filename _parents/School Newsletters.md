@@ -3,7 +3,6 @@ title: School Newsletters
 permalink: /parents/school-newsletters/
 description: ""
 ---
-
 **June** 
 [2021 Issue](/files/NKPS%20Newsletter%20Term%203_24%20Jun%202021.pdf)
 **Newsletter to Parents (Term 3)**
