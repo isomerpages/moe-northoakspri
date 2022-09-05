@@ -8,7 +8,7 @@ third_nav_title: School Events
 
 The 2017 National Day Celebrations at Northoaks witnessed the first students-led Observance Ceremony. Students Representatives led the school on the march-past as well as commanded the ceremony. It was a proud moment for both the parade commander and the school. 
 
-<p style=“text-align:center“><strong>Observance Ceremony</strong></p>
+<p style="text-align:center;"><strong>Observance Ceremony</strong></p>
 
  <br>
 <img src="/images/nd1.jpg" 
@@ -23,7 +23,7 @@ After the Observance Ceremony, our students, together with the children from our
 			/>
 <br>
 
-<p style=“text-align:center“><strong>Our Recollections – Led by Mrs Thiam and student representatives</strong></p>
+<p style="text-align:center"><strong>Our Recollections – Led by Mrs Thiam and student representatives</strong></p>
 
 
  <br>
@@ -31,12 +31,12 @@ After the Observance Ceremony, our students, together with the children from our
          style="width:400px"
 			/>
 <br>
-<p style=“text-align:center“><strong>Singapore! All the way!</strong></p>
+<p style="text-align:center"><strong>Singapore! All the way!</strong></p>
 
  <br>
 <img src="/images/nd4.jpg" 
          style="width:400px"
 			>
 <p 
-	 style=“text-align:center“><strong>We ‘Heart’ ♥ Singapore!</strong>
+	 style="text-align:center"><strong>We ‘Heart’ ♥ Singapore!</strong>
 	</p>
