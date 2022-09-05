@@ -95,4 +95,6 @@ Northoaks Primary School has a structured **whole-school approach** to implem
 
   
 
-*   To equip our students with **Social Emotional Learning (SEL)** and to reinforce the school values of **‘H.E.A.R.T’** (Honesty, Empathy, Appreciation, Respect, Tenacity).![](/images/aest6.png)![](/images/aest7.png)![](/images/aest8.png)
+*   To equip our students with **Social Emotional Learning (SEL)** and to reinforce the school values of **‘H.E.A.R.T’** (Honesty, Empathy, Appreciation, Respect, Tenacity).
+
+![](/images/aest6.png)![](/images/aest7.png)![](/images/aest8.png)
