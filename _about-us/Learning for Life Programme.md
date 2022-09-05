@@ -14,20 +14,25 @@ The school’s LLP, STRIVE@Northoaks is a broad-based sports and outdoor educat
 *   Mastery of skills for personal development and sports excellence through meaningful experience.
 
 The school adopts a **4E**\-Approach, **E**nrich, **E**ducate, **E**xcel and **E**mpower, to cater to the different needs, interests and abilities of the students.
-![](/images/lp1.jpg)
+<br>
+<img src="/images/lp1.jpg" 
+         style="width:400px"
+			/>
 **STRIVE@Northoaks Learning Experiences**
 
-**E**nrich<br>
-_Broadening the students’ learning experiences through a wide range of sports and outdoor activities beyond the PE curriculum._
+<p style=“text-align:center;“><strong>E</strong>nrich</p>
+*Broadening the students’ learning experiences through a wide range of sports and outdoor activities beyond the PE curriculum.*
+
 ![](/images/lp2.png)
 ![](/images/lp3.png)
 ![](/images/lp4.png)
 ![](/images/lp5.png)
 ![](/images/lp6.png)
 ![](/images/lp7.png)
- **Excel**
+<br>
+<p style=“text-align:center;“><strong>E</strong>xcel</p><br>
+*Platforms for students to pursue a mind-set of excellence in sports*
 
-_Platforms for students to pursue a mind-set of excellence in sports_
 ![](/images/lp8.png)
 ![](/images/lp9.png)
 ![](/images/lp10.png)
