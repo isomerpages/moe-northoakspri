@@ -23,16 +23,31 @@ ii) **Confidence**, **Curiosity,** ~and~ **Imagination** and **Enjoyment**
 
 iii) **Awareness** and **Respect** for histories and cultures of key **Artworks** and **Artists** in Singapore and the World.
 
-The following are the themes and topics for each of our art modules. ![](/images/aest2.png)
+The following are the themes and topics for each of our art modules.
+<br>
+<img src="/images/aest2.png" 
+         style="width:430px"
+			/>
+<br>
 
-**The Northoaks Art Curriculum:**
 
-Young Artists' Programme
+### **The Northoaks Art Curriculum:**
+
+**Young Artists' Programme**
 
 
-**Our Pupils in Action.....**
-	![](/images/aest4.png)
-	![](/images/aest5a.png)
+_Our Pupils in Action....._
+<br>
+<img src="/images/aest4.png" 
+         style="width:430px"
+			/>
+<br>
+<br>
+<img src="/images/aest5a.png" 
+         style="width:430px"
+			/>
+<br>
+
 	
 ### The SchoolARTS@SCH project
 
@@ -46,14 +61,22 @@ The Singapore Community Hospitals are Bright Vision Hospital, Outram Community 
 
   
 
-Please view our students' artworks in the virtual art gallery below: ((Visual art gallery how how how))
+Please view our students' artworks in the virtual art gallery below: ((Visual art gallery help))
 <br> 
 
-**Music Curriculum** ![](/images/aest5.png)
+**Music Curriculum** 
+<br>
+<img src="/images/aest5.png" 
+         style="width:400px"
+			/>
+<br>
 <p style="text-align: center">
 Framework for Teaching and Learning in the General Music Programme (GMP)
+<br>
+<br>
+	
+**Aim of GMP**
 
-	Aim of GMP
 1\. Develop awareness and appreciation of music in local and global cultures.  
 2\. Develop ability for creative expression and communication through music  
 3\. Provide the basis to develop an informed and life-long involvement in music.  
