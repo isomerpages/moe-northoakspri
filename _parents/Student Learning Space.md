@@ -19,8 +19,13 @@ Mondays - Fridays: 8:00 am - 4:00 pm**   
 
 [](https://form.gov.sg/5e801afd883ba500112336f1)
 
-Alternatively, you may also alert the school administrators through the following link: [Nkpsslshelp](https://go.gov.sg/nkpsslshelp)   
-  ![](/images/qrcodenkpsslshelp.png)
+Alternatively, you may also alert the school administrators through the following [link](https://go.gov.sg/nkpsslshelp)
+<br>
+<br>
+<img src="/images/qrcodenkpsslshelp.png" 
+         style="width:500px"
+			/>
+
    
 **Non-School Operating Hours**     
 Students can only contact the **SLS Helpdesk** outside the school operating hours.     
