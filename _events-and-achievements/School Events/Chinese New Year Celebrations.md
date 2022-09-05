@@ -14,15 +14,21 @@ Weeks before the celebrations, students synergised with their classmates to desi
 
 On the day of the celebrations, everyone participated actively. Other than learning about the traditions relating to the Lunar New Year, and appreciating the Chinese culture and beliefs, students were entertained with delightful performances. Some of these performances included an exciting showcase of Wushu moves by our Wushu Team, delightful dance item by our K2 children, and a Chinese ethnic costume parade by our kindergarten and our Primary 1 children together with their parents or members of our parent support group. The highlight of the day was definitely the Lion Dance Troupe performing for the children.
 
-![](/images/cny1.png)
-![](/images/cny2.png)
-![](/images/cny3.png)
-![](/images/cny4.png)
-
-
-
-
-
-
-
-
+<br>
+<img src="/images/cny1.png" 
+         style="width:500px"
+			/>
+<br>
+<img src="/images/cny2.png" 
+         style="width:500px"
+			/>
+<br>
+<br>
+<img src="/images/cny3.png" 
+         style="width:500px"
+			/>
+<br>
+<img src="/images/cny4.png" 
+         style="width:500px"
+			/>
+<br>
