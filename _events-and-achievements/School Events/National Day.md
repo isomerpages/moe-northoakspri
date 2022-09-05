@@ -36,9 +36,7 @@ After the Observance Ceremony, our students, together with the children from our
  <br>
 <img src="/images/nd4.jpg" 
          style="width:400px"
-			/>
-<br>
-
+			>
 <p 
-	 style=“text-align:center;“>We ‘Heart’ ♥ Singapore!
+	 style=“text-align:center;“><strong>We ‘Heart’ ♥ Singapore!</strong>
 	</p>
