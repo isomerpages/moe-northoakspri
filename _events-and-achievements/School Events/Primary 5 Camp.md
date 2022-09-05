@@ -28,7 +28,8 @@ The students had a great time bonding with their peers. Some students mentioned 
 			/>
 <br>
 
-**Students taking part in the Rafting Activity**
+<p style="text-align: center"><strong>
+	Students taking part in the Rafting Activity</strong></p>
 
 <br>
 <img src="/images/p5camp4.png" 
@@ -44,7 +45,8 @@ The students had a great time bonding with their peers. Some students mentioned 
 			/>
 <br>
 
-**Students taking part in Lazer and Archery Activities**
+<p style="text-align: center"><strong>
+	Students taking part in Lazer and Archery Activities</strong></p>
 
 <br>
 <img src="/images/p5camp7.png" 
@@ -52,23 +54,26 @@ The students had a great time bonding with their peers. Some students mentioned 
 			/>
 <br>
 
-**Students helping out to serve dinner to fellow campers**
+<p style="text-align: center"><strong>
+	Students helping out to serve dinner to fellow campers</strong></p>
 
 <br>
-<img src="/images/p5camp8.png" 
+<img src="/images/p5camp8.jpg" 
          style="width:400px"
 			/>
 <br>
 
-**Cleaning up after themselves after every meal**
-
+<p style="text-align: center"><strong>
+	Cleaning up after themselves after every meal</strong></p>
+	
 <br>
 <img src="/images/p5camp9.jpg" 
          style="width:400px"
 			/>
 <br>
 
-**Token of appreciation given to students who had submitted the camp T-shirt designs**
+<p style="text-align: center"><strong>
+	Token of appreciation given to students who had submitted the camp T-shirt designs</strong></p>
 
 <br>
 <img src="/images/p5camp10.jpg" 
@@ -76,7 +81,8 @@ The students had a great time bonding with their peers. Some students mentioned 
 			/>
 <br>
 
-**The winning design**
+<p style="text-align: center"><strong>
+	The winning design</strong></p>
 
 <br>
 <img src="/images/p5camp11.jpg" 
@@ -84,7 +90,8 @@ The students had a great time bonding with their peers. Some students mentioned 
 			/>
 <br>
 
-**Best Camper from each team**
+<p style="text-align: center"><strong>
+	Best Camper from each team</strong></p>
 
 <br>
 <img src="/images/p5camp12.png" 
@@ -92,4 +99,5 @@ The students had a great time bonding with their peers. Some students mentioned 
 			/>
 <br>
 
-**Our 1st P5 Camp 2018**
+<p style="text-align: center"><strong>
+	Our 1st P5 Camp 2018</strong></p>
