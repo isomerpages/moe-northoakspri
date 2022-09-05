@@ -12,30 +12,84 @@ The campfire was held on the second night of the camp where parents and staff we
   
 The students had a great time bonding with their peers. Some students mentioned that they appreciated the experience and got to know one another better. These experiences created fond memories of their Primary School education and this was positive affirmation that the camp had achieved its objectives.
 
-![](/images/p5camp1.jpg)
-![](/images/p5camp2.jpg)
-![](/images/p5camp3.jpg)
-<p style=“text-align:center;“> Students taking part in the Rafting Activity</p>
+<br>
+<img src="/images/p5camp1.jpg" 
+         style="width:400px"
+			/>
+<br>
+<br>
+<img src="/images/p5camp2.jpg" 
+         style="width:400px"
+			/>
+<br>
+<br>
+<img src="/images/p5camp3.jpg" 
+         style="width:400px"
+			/>
+<br>
 
-![](/images/p5camp4.png)
-![](/images/p5camp5.png)
-![](/images/p5camp6.jpg)
-<p style=“text-align:center;“>Students taking part in Lazer and Archery Activities.</p>
+**Students taking part in the Rafting Activity**
 
-![](/images/p5camp7.png)
-<p style=“text-align:center;“>Students helping out to serve dinner to fellow campers.</p>
+<br>
+<img src="/images/p5camp4.png" 
+         style="width:400px"
+			/>
+<br>
+<img src="/images/p5camp5.png" 
+         style="width:400px"
+			/>
+<br>
+<img src="/images/p5camp6.jpg" 
+         style="width:400px"
+			/>
+<br>
 
-![](/images/p5camp8.jpg)
-<p style=“text-align:center;“>Cleaning up after themselves after every meal.</p>
+**Students taking part in Lazer and Archery Activities**
 
-![](/images/p5camp9.jpg)
-<p style=“text-align:center;“> Token of appreciation given to students who had submitted the camp T-shirt designs.</p>
+<br>
+<img src="/images/p5camp7.png" 
+         style="width:400px"
+			/>
+<br>
 
-![](/images/p5camp10.jpg)
-<p style=“text-align:center;“>The winning design</p>
+**Students helping out to serve dinner to fellow campers**
 
-![](/images/p5camp11.jpg)
-<p style=“text-align:center;“>Best Camper from each team</p>
+<br>
+<img src="/images/p5camp8.png" 
+         style="width:400px"
+			/>
+<br>
 
-![](/images/p5camp12.png)
-<p style=“text-align:center;“>Our 1st P5 Camp 2018</p>
+**Cleaning up after themselves after every meal**
+
+<br>
+<img src="/images/p5camp9.jpg" 
+         style="width:400px"
+			/>
+<br>
+
+**Token of appreciation given to students who had submitted the camp T-shirt designs**
+
+<br>
+<img src="/images/p5camp10.jpg" 
+         style="width:400px"
+			/>
+<br>
+
+**The winning design**
+
+<br>
+<img src="/images/p5camp11.jpg" 
+         style="width:400px"
+			/>
+<br>
+
+**Best Camper from each team**
+
+<br>
+<img src="/images/p5camp12.png" 
+         style="width:400px"
+			/>
+<br>
+
+**Our 1st P5 Camp 2018**
