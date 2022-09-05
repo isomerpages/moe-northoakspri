@@ -3,13 +3,16 @@ title: eOpen House 2022
 permalink: /about-us/eopen-house/
 description: ""
 ---
-
 ## Welcome to our e-Open House 2022
-<br>!!video to be uploaded on youtube!! <br><br>**Our School Philosophy**![](/images/openhouse1.jpg) Every child matters at Northoaks Primary School. The philosophy of the school is to provide a holistic and meaningful education with character building as the focal point for every child who enters the school.&nbsp;[\[More...\]](/about-us/school-philosophy)<br>
+<br>!!video to be uploaded on youtube!! <br>
+<br>
+**Our School Philosophy**
+
+![](/images/openhouse1.jpg) Every child matters at Northoaks Primary School. The philosophy of the school is to provide a holistic and meaningful education with character building as the focal point for every child who enters the school.&nbsp;[\[More...\]](/about-us/school-philosophy)<br>
 
 
 
-<p style=“text-align:center;“> <strong>Our Northoaks Curriculum</strong></p>
+<p style=“text-align:center;“><strong>Our Northoaks Curriculum</strong></p>
 
 <table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; color: rgb(69, 69, 69); font-family: Raleway, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: bold; width: 850px;" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(250, 250, 250); color: rgb(69, 69, 69); width: 60px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 335px; height: 323px;" class="ive_eobj_center" alt="e-brochure.jpg" src="images/openhouse2.jpg"></td></tr></tbody></table>
 
