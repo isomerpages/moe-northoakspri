@@ -16,8 +16,7 @@ The 2017 National Day Celebrations at Northoaks witnessed the first students-led
 			/>
 <br>
 After the Observance Ceremony, our students, together with the children from our MOE Kindergarten, sang a medley of National Day songs and were treated with stage performances and quizzes. The Students were also engaged with exciting classroom activities to celebrate the nation’s 52nd birthday
-
- <br>
+<br><br>
 <img src="/images/nd2.jpg" 
          style="width:400px"
 			/>
@@ -40,3 +39,5 @@ After the Observance Ceremony, our students, together with the children from our
 <p 
 	 style="text-align:center"><strong>We ‘Heart’ ♥ Singapore!</strong>
 	</p>
+	
+<p style="text-align:center;"><strong>8 am to 5 pm</strong></p>
