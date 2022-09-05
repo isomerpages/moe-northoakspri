@@ -1,10 +1,9 @@
 ---
 title: Useful Links
-permalink: /parents/useful-links
+permalink: /parents/useful-links/
 description: ""
 ---
 *   [MOE Website](http://www.moe.gov.sg/)
-*   [Schoolbag Website](http://schoolbag.sg/)
 *   [Schoolbag Website](http://schoolbag.sg/)
 *   [Student Care](https://singaporeedusmart.com.sg/) <br> Singapore EduSmart Learning Hub Pte Ltd  
 Office Tel: 98626300
