@@ -7,7 +7,11 @@ description: ""
 
 ### **The Northoaks Art Curriculum:**
 ###
+<br>
+
 **Young Artists' Programme**
+
+<br>
 
 _A Journey in Artistic Exploration....._
 
@@ -61,7 +65,7 @@ The Singapore Community Hospitals are Bright Vision Hospital, Outram Community 
 
   
 
-Please view our students' artworks in the virtual art gallery below: 
+Please view our students' artworks in the [virtual art gallery](https://www.artsteps.com/view/622b02f1c4bc55e6c124af17)
 <br> 
 
 <p style="text-align: center"><strong>
