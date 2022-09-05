@@ -11,8 +11,9 @@ description: ""
 
 	
 Please watch the video to learn more about us from our parents and children.<br><br>
+<br>
+### MK Open House 2022 Information
 	
-##### MK Open House 2022 Information
 <br>
 <br>Please watch the video below to find out more about our Open House:
 <br>
