@@ -9,22 +9,28 @@ Total Defence Day is commemorated annually to mark the fall of Singapore to the 
 <img src="/images/td1a.jpg" 
          style="width:400px"
 			/>
-<h6 style=“color:blue” align=“center”>Students solving puzzles on crime prevention</h6>
+
+<p style="text-align: center"><strong>
+	Students solving puzzles on crime prevention</strong></p>
 <br>
 <img src="/images/td1b.jpg" 
          style="width:400px"
 			/>
-<h6 style=“color:blue” align=“center”>Students viewing the interior of a police car</h6>
+			
+<h6 style="text-align: center">Students viewing the interior of a police car</h6>
 <br>
+
 To experience Total Defence Day in a more meaningful way, students and teachers had to go through a food rationing exercise in 2017. Coupons were used to redeem sweet potato porridge from the canteen vendors. Students had a taste of the food our forefathers had during war time.
 <br>
 <img src="/images/td2a.jpg" 
          style="width:400px"
 			/>
-<h6 style=“color:blue” align=“center”>Food Rationing - students queuing up eagerly for sweet potato porridge</h6>
+<p style="text-align: center"><strong>
+	Food Rationing - students queuing up eagerly for sweet potato porridge</strong></p>
 <br>
 
 A skit was also put up by teachers and students to illustrate the importance and significance of Total Defence Day to the students. Total Defence Day is definitely alive in Northoaks Primary School. A quiz was also included as part of the skit on Total Defence Day
+
 <br>
 <img src="/images/td3a.jpg" 
          style="width:400px"
