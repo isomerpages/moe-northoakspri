@@ -11,8 +11,8 @@ The school sent a team of three Primary 3 students to participate in the annual 
 <img src="/images/2018engmooo1.jpg" 
          style="width:400px"
 			/>
-<br>
-The Team preparing for the competition
+<p style="text-align: center"><strong>
+	The Team preparing for the competition</strong></p>
 <br>
 <br>
 <img src="/images/2018engmooo2.jpg" 
