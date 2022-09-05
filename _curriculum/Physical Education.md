@@ -5,8 +5,8 @@ description: ""
 ---
 <img src="/images/pe1.png" style="width:30%">
 
-<p style=“text-align:center;“> <strong>PE Curriculum</strong></p>
-<p style="text-align: center"> PE Curriculum
+<p style="text-align:center;"><strong>PE Curriculum</strong></p>
+
 	
 ![](/images/pe2.png)
 <br>A vibrant and inclusive programmes that provides character building experience through physical education.Goals of Physical Education
