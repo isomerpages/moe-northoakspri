@@ -1,9 +1,11 @@
 ---
 title: School History
-permalink: /about-us/school-history
+permalink: /about-us/school-history/
 description: ""
 ---
-![](/images/oakchool%20logo.png)<br>
+<img src="/images/oakchool%20logo.png" 
+         style="width:350px"
+			/>
 
 <p style="text-align: justify">Northoaks Primary School started in 2014. The school aims to provide a holistic and meaningful education with character building as the focal point for every child who enters the school. With its first batch of teachers, the school envisioned our students to be leaders who learn and lead with HEART. HEART stands for our core values - Honesty, Empathy, Appreciation, Respect and Tenacity.
   
