@@ -11,7 +11,9 @@ The school’s environmental efforts led by the Primary 4 CCA ECO Team included 
          style="width:400px"
 			/>
 <br>
-**SEC-SGA Award Ceremony on 8 November 2017 - Student and teacher representatives from the ECO Team**
+<p style="text-align: center"><strong>
+	SEC-SGA Award Ceremony on 8 November 2017 - Student and teacher representatives from the ECO Team</strong></p>
+<br>
 
 <br>
 <img src="/images/greenaward2.jpg" 
@@ -19,7 +21,8 @@ The school’s environmental efforts led by the Primary 4 CCA ECO Team included 
 			/>
 <br>
 
-**Exhibits on “Food Waste Minimisation” - Showcasing alternative ways of dealing with food waste that help move towards “Zero Waste”**
+<p style="text-align: center"><strong>
+	Exhibits on “Food Waste Minimisation” - Showcasing alternative ways of dealing with food waste that help move towards “Zero Waste”</strong></p>
 
 <br>
 <img src="/images/greenaward3.jpg" 
@@ -32,7 +35,8 @@ The school’s environmental efforts led by the Primary 4 CCA ECO Team included 
 			/>
 <br>
 
-**Recyclng projects have never been more fun at Northoaks Primary School!**
+<p style="text-align: center"><strong>
+	Recyclng projects have never been more fun at Northoaks Primary School!</strong></p>
 
 
 <br>
@@ -41,4 +45,5 @@ The school’s environmental efforts led by the Primary 4 CCA ECO Team included 
 			/>
 <br>
 
-**Students from the ECO Team with their ‘fruits of labour’**
+<p style="text-align: center"><strong>
+Students from the ECO Team with their ‘fruits of labour’</strong></p>
