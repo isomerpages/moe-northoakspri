@@ -1,6 +1,6 @@
 ---
 title: Netball
-permalink: /cca/netball
+permalink: /cca/netball/
 description: ""
 ---
 **About**
@@ -33,4 +33,8 @@ Mdm Xu Wenli
 
 ●      Netball Development Programme NETSSPLAY 2021 (for P6s) by Singapore Sports School in April 2021
 
-![](/images/netball1.png)
+<br>
+<img src="/images/netball1.png" 
+         style="width:400px"
+			/>
+<br>
