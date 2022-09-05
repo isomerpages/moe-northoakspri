@@ -8,7 +8,7 @@ description: ""
 The Art Club is, and has always been, the CCA of choice for students with the love and passion for the Visual Arts. Our members get to enjoy an enriching experience as they learn art theories and put these theories to good use in the creation of their own artworks using various media such as Ceramics, Mixed Media Sculpturing and painting. They also have the opportunity to get inspirations from professional artists and other student artists, and take part in external events such as the Singapore Youth Festival (SYF) and other external competitions.
 <br>
 <img src="/images/artclub1.png" 
-         style="width:400px"
+         style="width:500px"
 			/>
 <br>
 
@@ -21,7 +21,7 @@ In Term One 2021, our members were engaged in an artistic journey to create artw
  All these completed artworks were also exhibited in the school (at the Spiral Staircase) from 26 March to 1 April 2021 as part of the Health & Aesthetics Week event to create awareness of our students’ participation in this nationwide exhibition and also to motivate all our students (not just our Art Club members) to have an even greater love for art.
  <br>
 <img src="/images/artclub2.png" 
-         style="width:400px"
+         style="width:500px"
 			/>
 <br>
 
