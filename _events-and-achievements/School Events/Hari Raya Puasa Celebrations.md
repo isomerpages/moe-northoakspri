@@ -8,10 +8,10 @@ It was a fun-filled Hari Raya Puasa celebration for everyone in Northoaks. We we
 
 <br>
 <img src="/images/hariraya1.jpg" 
-         style="width:500px"
+         style="width:450px"
 			/>
 <img src="/images/hariraya2.png" 
-         style="width:500px"
+         style="width:450px"
 			/>
 <br>
 <img src="/images/hariraya3.jpg" 
