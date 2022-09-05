@@ -8,8 +8,12 @@ description: ""
 ### Learning through the Concrete-Pictorial-Abstract (C-P-A) Approach
 
 Our students learn and understand mathematical concepts using concrete manipulatives, practical pictorial examples and collaborative group work and activities.
+<br>
+<img src="/images/math2.png" 
+         style="width:400px"
+			/>
+<br>
 
-![](/images/math2.png)
 
 ### **Mathematics is Everywhere!**
 
