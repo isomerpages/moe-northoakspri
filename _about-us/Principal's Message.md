@@ -4,8 +4,8 @@ permalink: /about-us/permalink/
 description: ""
 ---
 <img src="/images/principal.jpg" 
-         width="50" 
-         height="50"/>
+         style="width:250px"
+			/>
 				 
 
 <p style="text-align: justify">Northoaks Primary School started in 2014 and in 2016, the school community expanded with the set-up of MOE Kindergarten @ Northoaks.  Over the past years, the school has grown and has celebrated many milestones and achievements.  These are testimony to the dedication of the staff of the school as well as the strong support of our parents and partners.
