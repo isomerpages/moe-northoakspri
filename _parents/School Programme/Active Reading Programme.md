@@ -12,7 +12,7 @@ The Active Reading Programme is a joint initiative between the Mother Tongue Lan
 Reading under the Stars is an annual school event held to encourage our Primary One students to read extensively in both the English and MTL. It also aims to promote parent-child bonding through reading. This year’s theme “Express Yourself” aimed to get our children to find creative ways to share their feelings, thoughts and ideas about themselves. Students and parents were treated to a book-sharing session by local author J.H. Low, as well as storytelling sessions and hands-on activities conducted by our teachers. Though it was conducted via Zoom this year due to the pandemic, students enjoyed themselves and it was heartening to see their bright smiles on the screen.
 <br>
 <img src="/images/activereading1.png" 
-         style="width:400px"
+         style="width:600px"
 			/>
 		<br>
 **Mobile Library @ Foyer**
