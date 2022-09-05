@@ -13,32 +13,33 @@ Children’s Day is a day to celebrate the joy of childhood. In Northoaks, stude
          style="width:400px"
 			/>
 <br>
-<p style=“text-align:center;“><strong>One of our students attempting the leopard crawl activity!</strong></p>
+<p style="text-align: center"><strong>
+One of our students attempting the leopard crawl activity!</strong></p>
 
 <br>
 <img src="/images/childrenday2.jpg" 
          style="width:400px"
 			/>
 <br>
-<p style=“text-align:center;“><strong>Check out the fun students had on the bouncing playground!</strong></p>
+<p style="text-align:center;"><strong>Check out the fun students had on the bouncing playground!</strong></p>
 
 <br>
 <img src="/images/childrenday3.jpg" 
          style="width:400px"
 			/>
 <br>
-<p style=“text-align:center;“><strong>Not forgetting the importance of teamwork while having fun!</strong></p>
+<p style="text-align:center;"><strong>Not forgetting the importance of teamwork while having fun!</strong></p>
 
 <br>
 <img src="/images/childrenday4.jpg" 
          style="width:400px"
 			/>
 <br>
-<p style=“text-align:center;“><strong>Our teachers having fun performing to the tune of Baby Shark!</strong></p>
+<p style="text-align:center;"><strong>Our teachers having fun performing to the tune of Baby Shark!</strong></p>
 
 <br>
 <img src="/images/childrenday5.jpg" 
          style="width:400px"
 			/>
 <br>
-<p style=“text-align:center;“><strong>Highest energy level when teachers and students twirl and dance together!</strong></p>
+<p style="text-align:center;"><strong>Highest energy level when teachers and students twirl and dance together!</strong></p>
