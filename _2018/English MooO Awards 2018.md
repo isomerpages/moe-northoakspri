@@ -19,3 +19,6 @@ The school sent a team of three Primary 3 students to participate in the annual 
          style="width:400px"
 			/>
 <br>
+<p style="text-align: center"><strong>
+	Teacher and Students receiving the awards</strong></p>
+<br>
