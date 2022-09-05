@@ -12,5 +12,5 @@ Award Certificates and plaques are given to participants with exceptionally outs
 			/>
 <br>
 
-
-We are proud to have our student, Ong Zun Hong (Primary 5 Eucalyptus), achieve the SMOPS Bronze Award for 2018.
+<p style="text-align: center"><strong>
+	We are proud to have our student, Ong Zun Hong (Primary 5 Eucalyptus), achieve the SMOPS Bronze Award for 2018</strong></p>
