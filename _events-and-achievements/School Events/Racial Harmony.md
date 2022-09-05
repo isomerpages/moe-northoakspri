@@ -10,23 +10,51 @@ Activities throughout the week included ethnic performances such as “Kuai Ban�
 
 **Truly The Singapore Way!**
 
-![](/images/rhd1.jpg)
-<p style=“text-align:center;“> <strong>Students performing the “Kuai-Ban”</strong></p>
-
-![](/images/rhd2.jpg)
-<p style=“text-align:center;“> <strong>Choral recitation by students of different nationalities</strong></p>
-
-![](/images/rhd3.jpg)
-<p style=“text-align:center;“> <strong>Dikir barat performed by our Malay students.</strong></p>
+ <br>
+<img src="/images/rhd1.jpg" 
+         style="width:400px"
+			/>
 <br>
 
-![](/images/rhd4.jpg)
-<p style=“text-align:center;“> <strong>Skit by Tamil students entitled “The Enormous Turnip”</strong></p>
+<p style=“text-align:center;“><strong>Students performing the “Kuai-Ban”</strong></p>
 
-![](/images/rhd5.jpg)
-<br>
-<p style=“text-align:center;“> <strong>Mr Kanthan teaching the art of The Tarik (Pulling Tea)</strong></p>
+ <br>
+<img src="/images/rhd2.jpg" 
+         style="width:400px"
+			/>
 <br>
 
-![](/images/rhd6.jpg)
-<p style=“text-align:center;“> <strong>Parents from our PSG, providing students with the opportunity to try their hands in making “muruku”</strong></p>
+<p style=“text-align:center;“><strong>Choral recitation by students of different nationalities</strong></p>
+
+ <br>
+<img src="/images/rhd3.jpg" 
+         style="width:400px"
+			/>
+<br>
+
+<p style=“text-align:center;“><strong>Dikir barat performed by our Malay students.</strong></p>
+<br>
+
+ <br>
+<img src="/images/rhd4.jpg" 
+         style="width:400px"
+			/>
+<br>
+
+<p style=“text-align:center;“><strong>Skit by Tamil students entitled “The Enormous Turnip”</strong></p>
+
+ <br>
+<img src="/images/rhd5.jpg" 
+         style="width:300px"
+			/>
+<br>
+
+<p style=“text-align:center;“><strong>Mr Kanthan teaching the art of The Tarik (Pulling Tea)</strong></p>
+
+ <br>
+<img src="/images/rhd6.jpg" 
+         style="width:300px"
+			/>
+<br>
+
+<p style=“text-align:center;“><strong>Parents from our PSG, providing students with the opportunity to try their hands in making “muruku”</strong></p>
