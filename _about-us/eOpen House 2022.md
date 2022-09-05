@@ -4,13 +4,16 @@ permalink: /about-us/eopen-house/
 description: ""
 ---
 ## Welcome to our e-Open House 2022
-<br>!!video to be uploaded on youtube!! <br>
+
+!!video to be uploaded on youtube!!<br>
 <br>
 **Our School Philosophy**
 
-![](/images/openhouse1.jpg) Every child matters at Northoaks Primary School. The philosophy of the school is to provide a holistic and meaningful education with character building as the focal point for every child who enters the school.&nbsp;[\[More...\]](/about-us/school-philosophy)<br>
+<img src="/images/openhouse1.jpg" 
+         style="width:400px"
+			/>
 
-
+Every child matters at Northoaks Primary School. The philosophy of the school is to provide a holistic and meaningful education with character building as the focal point for every child who enters the school.&nbsp;[\[More...\]](/about-us/school-philosophy)<br>
 
 <p style=“text-align:center;“><strong>Our Northoaks Curriculum</strong></p>
 
@@ -32,4 +35,5 @@ description: ""
 
 **Our School Facilities**  
 Please [click here](https://www.klapty.com/tour/GmT0i2HfWR) to visit our school.
+<br><br>
 ![](/images/openhouse5.jpg)  **Disclaimer**: Some of the photos and video footages were taken before COVID-19 pandemic.
