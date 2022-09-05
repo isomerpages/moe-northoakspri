@@ -11,7 +11,10 @@ The Learning Fiesta is an annual learning event in Northoaks Primary School. Stu
          style="width:400px"
 			/>
 <br>
-**Let's fish for the right "Adjective"!**
+
+<p style="text-align: center"><strong>
+	Let's fish for the right "Adjective"!</strong></p>
+
 
 <br>
 <img src="/images/learningfiesta2.png" 
@@ -19,7 +22,8 @@ The Learning Fiesta is an annual learning event in Northoaks Primary School. Stu
 			/>
 <br>
 
-**Having fun in matching the right word!**
+<p style="text-align: center"><strong>
+	Having fun in matching the right word!</strong></p>
 
 <br>
 <img src="/images/learningfiesta3.png" 
@@ -27,7 +31,9 @@ The Learning Fiesta is an annual learning event in Northoaks Primary School. Stu
 			/>
 
 
-**Solving word puzzles!**
+<p style="text-align: center"><strong>
+	Solving word puzzles!</strong></p>
+
 
 <br>
 <img src="/images/learningfiesta4.png" 
@@ -35,4 +41,5 @@ The Learning Fiesta is an annual learning event in Northoaks Primary School. Stu
 			/>
 <br>
 
-**Forming words using word tiles**
+<p style="text-align: center"><strong>
+Forming words using word tiles</strong></p>
