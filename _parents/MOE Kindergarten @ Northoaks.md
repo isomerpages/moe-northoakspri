@@ -3,23 +3,22 @@ title: MOE Kindergarten @ Northoaks
 permalink: /parents/moe-kindergarten-at-northoaks/
 description: ""
 ---
-
 ##### **A strong start for every child at MOE Kindergarten.**
 
 <p style="text-align: justify">It takes a big heart to teach little minds. At MOE Kindergarten @ Northoaks, our children learn through purposeful play. Through the variety of learning experiences which include neighbourhood walks, field trips, Weeks of Wonder (WoW) projects and Celebrations, the children get to learn through different experiences and discover the joy of learning. These experiences engage the children in discovering and appreciating the world around them and allow them to share their learning experiences with their peers.  
 
 <p style="text-align: justify">A well-designed physical environment will enhance children’s development through learning and play. Find out how at MOE Kindergarten @ Northoaks, we strive to provide a conducive learning environment for the children where every space is a learning space.  
 
-Please watch the video to learn more about us from our parents and children.<br>note: 3x videos to be uploaded on youtube
+Please watch the video to learn more about us from our parents and children.<br><br>
 	
-**MK Open House 2022 Information**
-	<br>Please watch the video below to find out more about our Open House:
+**MK Open House 2022 Information**<br>
+<br>Please watch the video below to find out more about our Open House:
 	
 	
 To find out more about our school at Northoaks, please watch the video below:
 	
 	
-Please submit your interest to register via this [link](https://form.gov.sg/61fb60419641550013240604). 
+Please submit your interest to register via this [link.](https://form.gov.sg/61fb60419641550013240604)
 
 
 Click on the links below to discover the learning environment of MK @ Northoaks.
