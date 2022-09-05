@@ -16,24 +16,24 @@ Kyaw Zwe Han, Kayne Wong Jia Je, Rajamohan Zhivani Shi and Siti Faeqa Binte Shaz
          style="width:450px"
 			/>
 <br>
-Exploring the different possibilities to improve on the design of the zero electricity air cooler.
+<p style="text-align: center">Exploring the different possibilities to improve on the design of the zero electricity air cooler</p>
 <br>
 
 <img src="/images/16elementz3.jpg" 
          style="width:400px"
 			/>
 <br>
-The completed artefact of the zero electricity air cooler displayed at the competition.
+<p style="text-align: center">The completed artefact of the zero electricity air cooler displayed at the competition</p>
 <br>
 <img src="/images/16elementz4.jpg" 
          style="width:400px"
 			/>
 <br>
-“Are Healthier Choice Snacks Indeed A Healthier Choice?” was the focus question for the team Ooi Kai Yuan Nigel, Lai Wai Lun, Tan Yu Rou (Team Leader) and Reygan Low Cheng En.
+<p style="text-align: center">Are Healthier Choice Snacks Indeed A Healthier Choice?” was the focus question for the team Ooi Kai Yuan Nigel, Lai Wai Lun, Tan Yu Rou (Team Leader) and Reygan Low Cheng En</p>“
 <br>
 
 <img src="/images/16elementz5.jpg" 
          style="width:450px"
 			/>
 <br>
-An overview of the investigative approach which the team has undertaken to present their findings.
+<p style="text-align: center">An overview of the investigative approach which the team has undertaken to present their findings</p>
