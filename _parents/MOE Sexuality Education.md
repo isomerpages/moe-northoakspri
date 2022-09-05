@@ -1,6 +1,6 @@
 ---
 title: MOE Sexuality Education
-permalink: /parents/moe-sexuality-education
+permalink: /parents/moe-sexuality-education/
 description: ""
 ---
 ### MOE SEXUALITY EDUCATION IN SCHOOLS
