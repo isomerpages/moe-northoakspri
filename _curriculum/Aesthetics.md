@@ -71,7 +71,8 @@ Please view our students' artworks in the virtual art gallery below: ((Visual ar
 			/>
 <br>
 <p style="text-align: center">
-Framework for Teaching and Learning in the General Music Programme (GMP)
+Framework for Teaching and Learning in the General Music Programme (GMP) </p>
+
 <br>
 <br>
 	
