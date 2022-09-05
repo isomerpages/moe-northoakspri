@@ -51,7 +51,7 @@ Students learn to use their sense of smell and taste during their writing activi
 
 <br>
 <img src="/images/sci4.png" 
-         style="width:430px"
+         style="width:500px"
 			/>
 <br>
 
@@ -63,7 +63,7 @@ Students collaborate with knowledgeable others such as their teachers, peers and
 Teachers also explored the use of seamless learning, learning study and active learning using Student Learning Space as key pedagogical approaches and strategies to deepen learning.
 <br>
 <img src="/images/sci5.png" 
-         style="width:430px"
+         style="width:500px"
 			/>
 <br>
 
@@ -76,7 +76,7 @@ Students learn Science by going through the same process that scientists use to 
 
 <br>
 <img src="/images/sci6.png" 
-         style="width:430px"
+         style="width:500px"
 			/>
 <br>
 
@@ -89,7 +89,7 @@ In school, every class has green leaders to look into conversation of energy and
 
 <br>
 <img src="/images/sci7.jpg" 
-         style="width:430px"
+         style="width:500px"
 			/>
 <br>
 
@@ -99,7 +99,7 @@ They also learn about the benefits of EM Composting in the treatment of food was
 
 <br>
 <img src="/images/sci8.png" 
-         style="width:430px"
+         style="width:500px"
 			/>
 <br>
 
@@ -109,7 +109,7 @@ Students are surrounded by the lush greenery in the school. Experiences with nat
 
 <br>
 <img src="/images/sci9.png" 
-         style="width:430px"
+         style="width:500px"
 			/>
 <br>
 
