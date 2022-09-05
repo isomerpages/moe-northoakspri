@@ -29,31 +29,43 @@ Students conduct group interviews to understand needs of their users. They artic
 	
 **Innovation Protocol Stage 3 – Ideate** <br>Students come up with as many ideas as possible before selecting the best solution. They use SCAMPER strategies to help them with the ideas. Innovation Protocol <br><br>**Innovation Stage Stage 4 – Experiment/ Prototyping** <br>Students use recycled materials to build their prototypes specially designed to meet the needs of the users.  
 
-<img src="/images/ip2.jpg" 
+<img src="/images/ip4.jpg" 
          style="width:400px"
 				 ><br>
 **Innovation Protocol Stage 5** 
 
  Assess Students share their prototypes, obtain feedback from their peers on the effectiveness of the prototypes.  
 <br>
-![](/images/ip5.jpg)<br>
-![](/images/ip6.jpg)<br>
-![](/images/ip7s.png)
-
+<img src="/images/ip5.jpg" 
+         style="width:400px"
+			/>
+<br>
+<img src="/images/ip6.jpg" 
+         style="width:400px"
+			/>
+	<br>
+<img src="/images/ip7s.png" 
+         style="width:400px"
+			/>
+<br>
 At the end of the 6-year CI+I programme in 2019, our students creatively applied the innovation protocol towards Singapore’s sustainability movement through upcycling. They transformed recycled materials into functional upcycled items. They presented the innovation to their peers and provided feedback to one another as well as helped others improve their innovation. The The Primary 6 classes also involved the residents in the community in making upcycled products.
 
-![](/images/ip8s.png)
+<img src="/images/ip8s.png" 
+         style="width:400px" />
 <br>
 Students researched on the efforts taken by Singapore in sustaining the environment.  
 
-  
 
-![](/images/ip9.png)
+<img src="/images/ip9.png" 
+         style="width:400px"
+			/>
 <br>
 Students used the CI+I innovation protocol and SCAMPER strategy to create more upcycled products.  
 <br>
-  
-![](/images/ip10.png)<br>
+<img src="/images/ip10.png" 
+         style="width:400px"
+			/>
+<br>
 Students shared their knowledge with the residents in our neighbourhood. They also taught them to make the upcycled wallets. 
 
 **Disclaimer:** Some of the photos were taken during Pre-Covid times.
