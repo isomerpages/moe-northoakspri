@@ -61,10 +61,12 @@ The Singapore Community Hospitals are Bright Vision Hospital, Outram Community 
 
   
 
-Please view our students' artworks in the virtual art gallery below: ((Visual art gallery help))
+Please view our students' artworks in the virtual art gallery below: 
 <br> 
 
-**Music Curriculum** 
+<p style="text-align: center"><strong>
+	Music Curriculum</strong></p>
+	
 <br>
 <img src="/images/aest5.png" 
          style="width:400px"
@@ -96,5 +98,18 @@ Northoaks Primary School has a structured **whole-school approach** to implem
   
 
 *   To equip our students with **Social Emotional Learning (SEL)** and to reinforce the school values of **‘H.E.A.R.T’** (Honesty, Empathy, Appreciation, Respect, Tenacity).
-
-![](/images/aest6.png)![](/images/aest7.png)![](/images/aest8.png)
+<br>
+<img src="/images/aest6.png" 
+         style="width:430px"
+			/>
+<br>
+<br>
+<img src="/images/aest7.png" 
+         style="width:430px"
+			/>
+<br>
+<br>
+<img src="/images/aest8.png" 
+         style="width:430px"
+			/>
+<br>
