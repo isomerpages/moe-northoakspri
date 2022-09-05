@@ -20,8 +20,8 @@ The school adopts a **4E**\-Approach, **E**nrich, **E**ducate, **E**xcel and
 			/>
 **STRIVE@Northoaks Learning Experiences**
 
-<p style=“text-align:center;“><strong>E</strong>nrich</p>
-*Broadening the students’ learning experiences through a wide range of sports and outdoor activities beyond the PE curriculum.*
+<h4 style=“color:red” align=“center”>Enrich</h4>
+_Broadening the students’ learning experiences through a wide range of sports and outdoor activities beyond the PE curriculum._
 
 ![](/images/lp2.png)
 ![](/images/lp3.png)
@@ -30,8 +30,8 @@ The school adopts a **4E**\-Approach, **E**nrich, **E**ducate, **E**xcel and
 ![](/images/lp6.png)
 ![](/images/lp7.png)
 <br>
-<p style=“text-align:center;“><strong>E</strong>xcel</p><br>
-*Platforms for students to pursue a mind-set of excellence in sports*
+<h4 style=“color:red” align=“center”>Excel</h4>
+_Platforms for students to pursue a mind-set of excellence in sports_
 
 ![](/images/lp8.png)
 ![](/images/lp9.png)
