@@ -12,7 +12,7 @@ skills to navigate around the school and complete a plethora of tasks that inclu
 <br>
 <br>
 <img src="/images/healthwk1.png" 
-         style="width:450px"
+         style="width:550px"
 			/>
 <br>
 <br>
@@ -24,7 +24,7 @@ skills to navigate around the school and complete a plethora of tasks that inclu
 <br>
 <br>
 <img src="/images/healthwk2.png" 
-         style="width:450px"
+         style="width:550px"
 			/>
 <br>
 
@@ -34,7 +34,7 @@ skills to navigate around the school and complete a plethora of tasks that inclu
 <br>
 <br>
 <img src="/images/healthwk3.png" 
-         style="width:450px"
+         style="width:550px"
 			/>
 <br>
 <br>
