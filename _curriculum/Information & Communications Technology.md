@@ -28,8 +28,8 @@ In addition, students have access to online learning resources in the Student Le
 			/>
 <br>
 
- 
- ### Cyber Wellness
+### Cyber Wellness
+<br>
 
 The school aims to help students to become responsible digital users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. Our school leader emphasises these through her communications with the students. During assembly talks, teachers also stress important Cyber Wellness messages. The students discussed on Cyber Wellness issues during their lessons and key Cyber Wellness messages are highlighted termly.
 
