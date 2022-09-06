@@ -5,8 +5,8 @@ description: ""
 ---
 <img src="/images/aest1.png" style="width:30%">
 
-### **The Northoaks Art Curriculum:**
-###
+### The Northoaks Art Curriculum:
+
 <br>
 
 **Young Artists' Programme**
