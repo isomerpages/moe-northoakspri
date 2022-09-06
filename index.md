@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Northoaks Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -28,3 +28,4 @@ sections:
       button: Appreciation messages
       url: https://docs.google.com/forms/d/e/1FAIpQLSfYDGy53q_Z19kgt-maq_tKplr3voe34Lno9PyozZwLjTRTVw/viewform
 ---
+
