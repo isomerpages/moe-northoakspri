@@ -24,4 +24,4 @@ The annual Appreciation Day is a celebration of the efforts and contributions ma
 <br>
 
 <p style="text-align: center"><strong>
-	Our student receiving their certificates proudly!</strong></p>
+	Our students receiving their certificates proudly!</strong></p>
