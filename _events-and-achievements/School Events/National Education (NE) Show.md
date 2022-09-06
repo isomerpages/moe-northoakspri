@@ -28,4 +28,4 @@ third_nav_title: School Events
          style="width:400px"
 			/>
 
-	Our Students and Teachers enjoying the NE show
+<p style="text-align: center"><strong>Our Students and Teachers enjoying the NE show</strong></p>
