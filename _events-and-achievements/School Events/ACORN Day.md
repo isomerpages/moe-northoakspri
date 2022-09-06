@@ -28,7 +28,8 @@ The school believes that a strong partnership between school and parents is one 
 <img src="/images/acorn3.jpg" 
          style="width:400px"
 			/>
-<br><strong>One of our Good Conduct Award Recipients from Primary 2</strong>
+<p style="text-align: center"><strong>
+	One of our Good Conduct Award Recipients from Primary 2</strong></p>
 <br>
 <br>
 <img src="/images/acorn4.jpg" 
@@ -40,7 +41,7 @@ The school believes that a strong partnership between school and parents is one 
 
 <br>
 
-**Performances from CCA Groups**
+#### Performances from CCA Groups
 <br>
 <br>
 <img src="/images/acorn5.jpg" 
