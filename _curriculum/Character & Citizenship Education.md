@@ -9,6 +9,7 @@ description: ""
 
 <p style="text-align: justify">The school believes strongly in providing our students opportunities to lead and learn with H.E.A.R.T. (Honesty, Empathy, Appreciation, Respect and Tenacity). Our Morning Starts with H.E.A.R.T. a pre-assembly programme enhances the authentic learning  of values and social skills through inspirational stories and current affairs from the news and social media. In this programme, students are given the opportunity to discuss age-appropriate contemporary issues such as the COVID-19 pandemic, environmental conservation and social inclusivity with their Form Teachers.<br>
 <br>
+
 **Leading with H.E.A.R.T.**
 
 <p style="text-align: justify">In NKPS, we believe that every student is a potential leader. 
