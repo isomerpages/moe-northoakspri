@@ -17,7 +17,7 @@ Total Defence Day is commemorated annually to mark the fall of Singapore to the 
          style="width:400px"
 			/>
 			
-<h6 style="text-align: center">Students viewing the interior of a police car</h6>
+<p style="text-align: center"><strong>Students viewing the interior of a police car</strong></p>
 <br>
 
 To experience Total Defence Day in a more meaningful way, students and teachers had to go through a food rationing exercise in 2017. Coupons were used to redeem sweet potato porridge from the canteen vendors. Students had a taste of the food our forefathers had during war time.
