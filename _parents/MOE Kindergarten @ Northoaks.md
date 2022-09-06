@@ -10,25 +10,32 @@ description: ""
 <p style="text-align: justify">A well-designed physical environment will enhance children’s development through learning and play. Find out how at MOE Kindergarten @ Northoaks, we strive to provide a conducive learning environment for the children where every space is a learning space.  
 
 	
-Please watch the video to learn more about us from our parents and children.<br><br>
+Please watch the video to learn more about us from our parents and children.<br><br>//1video to be uploaded here//
 <br>
-### MK Open House 2022 Information
+	<br>
+### 	MK Open House 2022 Information
+<br>
+<br>
+Please watch the video below to find out more about our Open House: 
 	
+//1 video to be uploaded here//
 <br>
-<br>Please watch the video below to find out more about our Open House:
 <br>
-<br>
+	
 To find out more about our school at Northoaks, please watch the video below:
+	
+//1 video to be uploaded here//
 <br>
 <br>
+Please submit your interest to register via this [link](https://form.gov.sg/#!/61fb60419641550013240604).
 
-Please submit your interest to register via this [link.](https://form.gov.sg/61fb60419641550013240604)
-
 <br>
 <br>
 <br>
+	
 Click on the links below to discover the learning environment of **MK@Northoaks**.
 <br><br>
+	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
