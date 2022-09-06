@@ -56,7 +56,3 @@ With the aims to enable students to exercise social responsibility within their 
          style="width:400px"
 	/>
 <br>
-
-
-
-
