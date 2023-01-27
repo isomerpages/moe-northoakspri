@@ -15,10 +15,10 @@ Our dancers took part in the Singapore Youth Festival (SYF) Arts Presentation fo
 
 Teachers in-charge:
 
-*   Miss Ang Huei Minn
+*   Mdm Nazurah
 *   Miss Rochelle Loo
 *   Miss Tan Woan Mey 
-*   Mdm Nazurah
+*   Miss Farzianah
 
 <br>
 <img src="/images/moderndance1a.png" 
