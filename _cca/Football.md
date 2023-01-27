@@ -9,7 +9,7 @@ description: ""
 We do not only focus on developing and honing football technical skills of our players, such as dribbling, passing, tackling and football strategy, but also to develop them into responsible leaders and  active contributors to the society.
 
 **Teachers in-charge:** 
-<br\>Mr Lakshmikanthan (Main teacher-in-charge)
+<br>Mr Lakshmikanthan (Main teacher-in-charge)
 <br>Mr Mohamad Rizal Bin Marof 
 <br>Ms Priya
 <br>Ms Shalini
