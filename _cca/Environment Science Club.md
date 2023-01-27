@@ -15,9 +15,9 @@ Students are also tasked to engage the community to promote upcycling and work t
 
 Mr Eric Tan Aik Hong (teacher-in-charge)
 
-Ms Faith Yee Xue Ying
+Miss Lim Wan Rong
 
-Mdm Cecilia Ang Ping Ping
+Mdm Nirwani
 
 Mrs Chow-Choo Chai Leng
 
