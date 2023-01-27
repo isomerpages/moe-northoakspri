@@ -15,5 +15,5 @@ Chew Zi Yue (P6C) participated in National School Games Wushu Championships on 3
 **Teachers in-charge**:          
 <br>Mdm Yuan Meizhen (Main teacher-in-charge)
 <br>Miss Jacqueline Oh
-<br>Miss Khoo Wan Xin
-<br>Miss Lim Wan Rong
+<br>Miss Ang Lay Chen
+<br>Mr Ng Chan Siong
