@@ -1,6 +1,6 @@
 ---
 title: Football
-permalink: /cca/football
+permalink: /cca/football/
 description: ""
 ---
 **About**
@@ -9,8 +9,10 @@ description: ""
 We do not only focus on developing and honing football technical skills of our players, such as dribbling, passing, tackling and football strategy, but also to develop them into responsible leaders and  active contributors to the society.
 
 **Teachers in-charge:** 
-<br>Mr Mohamad Rizal Bin Marof (Main teacher-in-charge)
-<br>Mr Lakshmikanthan
-<br>Mr Chan Kah Kit
-<br>Ms Nurdiyanah Samsuri
+<br\>Mr Lakshmikanthan (Main teacher-in-charge)
+<br>Mr Mohamad Rizal Bin Marof 
+<br>Ms Priya
+<br>Ms Shalini
+<br>Ms Jess Yong
+<br>Ms Evon Lee
 ![](/images/football1.png)
