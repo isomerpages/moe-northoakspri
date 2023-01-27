@@ -23,6 +23,12 @@ Mrs Juliana Lee (Main teacher-in-charge)
 
 Mdm Xu Wenli
 
+Mdm Ren Lina
+
+Mdm Saedah
+
+Ms Gayathry
+
   
 
 **Programme and Activities in 2021**
