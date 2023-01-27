@@ -1,6 +1,6 @@
 ---
 title: Floorball
-permalink: /cca/floorball
+permalink: /cca/floorball/
 description: ""
 ---
 **About**
@@ -8,8 +8,9 @@ description: ""
 
 **Information**
 <br>Teachers in-charge:
-<br>Mr Bryan Mai (Main teacher-in-charge)
-<br>Miss Christine Ang
-<br>Mdm Nirwani
-<br>Mdm Shalini
+<br>Miss Christine Ang (Main teacher-in-charge)
+<br>Mr Gan Tiong Beng
+<br>Mr Adrian Poon
+<br>Mr Enrico
+<br>Mr Ghafur
 ![](/images/floorball1.png)
