@@ -34,7 +34,7 @@ Ms. Tanty
 
  **Head of Department - PE & CCA**
 
- Mr Jasni bin Mahmood Jasmin                                 jasni_mahmood_jasmin@moe.edu.sg
+ Mr Jasni bin Mahmood Jasmin                        jasni_mahmood_jasmin@moe.edu.sg
 
  **Head of Department - Infocomm** **Technology**
 
@@ -44,23 +44,23 @@ Ms. Tanty
 
 **Head of Department - Character and Citizenship Education**
 
-Mrs Pang-Ang Huei Minn                                         ang_huei_minn@moe.edu.sg
+Mrs Pang-Ang Huei Minn                                ang_huei_minn@moe.edu.sg
 
 **School Staff Developer**
 
-Ms Ong Sir Yan                                      ong_sir_yan@moe.edu.sg
+Ms Ong Sir Yan                                                ong_sir_yan@moe.edu.sg
 
 **Level Head - Mother Tongue Languages**
 
   
 
-Miss Queck Mei Hui                                                   queck_mei_hui@moe.edu.sg
+Miss Queck Mei Hui                                         queck_mei_hui@moe.edu.sg
 
 **Level Head - Character and Citizenship Education**                           
 
   
 
-Mdm Saedah Bte Saad                                              saedah_saad@moe.edu.sg
+Mdm Saedah Bte Saad                                     saedah_saad@moe.edu.sg
 
   
 
@@ -68,7 +68,7 @@ Mdm Saedah Bte Saad                                   �
 
   
 
-Mr Adrian Poon                                                           poon_wei_sung_adrian@moe.edu.sg
+Mr Adrian Poon                                                 poon_wei_sung_adrian@moe.edu.sg
 
   
 
@@ -76,7 +76,7 @@ Mr Adrian Poon                                      
 
   
 
-Ms Evon Lee                                                               lee_seok_hui_evon@moe.edu.sg
+Ms Evon Lee                                                     lee_seok_hui_evon@moe.edu.sg
 
   
 
@@ -84,7 +84,7 @@ Ms Evon Lee                                             
 
   
 
- Mrs Lim Mei Leng                                                      lim_mei_leng@moe.edu.sg
+ Mrs Lim Mei Leng                                            lim_mei_leng@moe.edu.sg
 
   
 
@@ -92,13 +92,13 @@ Ms Evon Lee                                             
 
   
 
-Mr Thamilselvan s/o Narayasamy                        thamilselvan_narayanasamy@moe.edu.sg
+Mr Thamilselvan s/o Narayasamy                  thamilselvan_narayanasamy@moe.edu.sg
 
 **Subject Head - Discipline**
 
   
 
-Mr Rizal Marof Mohamad                                         mohamad_rizal_marof@moe.edu.sg
+Mr Rizal Marof Mohamad                               mohamad_rizal_marof@moe.edu.sg
 
   
 
