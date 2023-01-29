@@ -4,18 +4,17 @@ permalink: /about-us/our-staff/
 description: ""
 third_nav_title: Our Staff
 ---
-
 **School Leaders**
 
 Mr Melvin Cher Teck Yiang                        Principal
 
 Mrs Hee-Jun Lynn Ho                                   Vice - Principal                                        
 
-Mr Chng Siew Chye                                      Vice - Principal &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Administration)
+Mr Chng Siew Chye                                      Vice - Principal  (Administration)
 
 **Head of Department - English Language**
 
-Mr Daniel Teo Ee Wee                                        teo\_ee\_wee\_daniel@moe.edu.sg
+Mr Daniel Teo Ee Wee                                        teo_ee_wee_daniel@moe.edu.sg
 
   
 
@@ -23,49 +22,45 @@ Mr Daniel Teo Ee Wee                                  �
 
   
 
- Ms Valerie Tan                                                         tan\_hui\_ling\_valerie@moe.edu.sg 
+ Ms Valerie Tan                                                         tan_hui_ling_valerie@moe.edu.sg 
 
   
 
  **Head of Department - Science**  
 
   
-
- Mr Toh Kian Chong                                                 toh\_kian\_chong@moe.edu.sg
-
-**Head of Department - Mother Tongue Languages**  
-
-Ms Ong Sir Yan                                                          ong\_sir\_yan@moe.edu.sg
+Ms. Tanty
+                                                      
 
  **Head of Department - PE & CCA**
 
- Mr Jasni bin Mahmood Jasmin                                 jasni\_mahmood\_jasmin@moe.edu.sg
+ Mr Jasni bin Mahmood Jasmin                                 jasni_mahmood_jasmin@moe.edu.sg
 
  **Head of Department - Infocomm** **Technology**
 
- Mr Clarence Chang Ngai Seng                        chang\_ngai\_seng\_clarence@moe.edu.sg
+ Mr Clarence Chang Ngai Seng                        chang_ngai_seng_clarence@moe.edu.sg
 
   
 
 **Head of Department - Character and Citizenship Education**
 
-Mrs Pang-Ang Huei Minn                                         ang\_huei\_minn@moe.edu.sg
+Mrs Pang-Ang Huei Minn                                         ang_huei_minn@moe.edu.sg
 
 **School Staff Developer**
 
-Miss Noor Alinah Bte Ismail                                      noor\_alinah\_ismail@moe.edu.sg  
+Ms Ong Sir Yan                                      ong_sir_yan@moe.edu.sg
 
 **Level Head - Mother Tongue Languages**
 
   
 
-Miss Queck Mei Hui                                                   queck\_mei\_hui@moe.edu.sg
+Miss Queck Mei Hui                                                   queck_mei_hui@moe.edu.sg
 
 **Level Head - Character and Citizenship Education**                           
 
   
 
-Mdm Saedah Bte Saad                                              saedah\_saad@moe.edu.sg
+Mdm Saedah Bte Saad                                              saedah_saad@moe.edu.sg
 
   
 
@@ -73,7 +68,7 @@ Mdm Saedah Bte Saad                                   �
 
   
 
-Mr Adrian Poon                                                           poon\_wei\_sung\_adrian@moe.edu.sg
+Mr Adrian Poon                                                           poon_wei_sung_adrian@moe.edu.sg
 
   
 
@@ -81,7 +76,7 @@ Mr Adrian Poon                                      
 
   
 
-Ms Evon Lee                                                               lee\_seok\_hui\_evon@moe.edu.sg
+Ms Evon Lee                                                               lee_seok_hui_evon@moe.edu.sg
 
   
 
@@ -89,7 +84,7 @@ Ms Evon Lee                                             
 
   
 
- Mrs Lim Mei Leng                                                      lim\_mei\_leng@moe.edu.sg
+ Mrs Lim Mei Leng                                                      lim_mei_leng@moe.edu.sg
 
   
 
@@ -97,13 +92,13 @@ Ms Evon Lee                                             
 
   
 
-Mr Thamilselvan s/o Narayasamy                        thamilselvan\_narayanasamy@moe.edu.sg
+Mr Thamilselvan s/o Narayasamy                        thamilselvan_narayanasamy@moe.edu.sg
 
 **Subject Head - Discipline**
 
   
 
-Mr Rizal Marof Mohamad                                         mohamad\_rizal\_marof@moe.edu.sg
+Mr Rizal Marof Mohamad                                         mohamad_rizal_marof@moe.edu.sg
 
   
 
@@ -111,12 +106,12 @@ Mr Rizal Marof Mohamad                                 
 
   
 
-Ms Lim Hui San (ST- Mathematics)                        lim\_hui\_san@moe.edu.sg
+Ms Lim Hui San (ST- Mathematics)                        lim_hui_san@moe.edu.sg
 
   
-
-Mrs Mable James (ST - Music)                                cynthia\_mable\_j\_stephen@moe.edu.sg
+Mrs Mable James (ST - Music)                                cynthia_mable_j_stephen@moe.edu.sg
 
   
+Mdm Noor Aini (ST-Malay Language)                    noor_aini_jamin@moe.edu.sg
 
-Mdm Noor Aini (ST-Malay Language)                    noor\_aini\_jamin@moe.edu.sg
+ Mr Toh Kian Chong                                                 toh_kian_chong@moe.edu.sg
