@@ -1,4 +1,5 @@
 collections:
   moe-kindergaten-at-northoaks:
     output: true
-    order: []
+    order:
+      - MOE Kindergaten @ Northoaks.md
