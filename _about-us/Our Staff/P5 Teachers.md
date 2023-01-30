@@ -10,7 +10,8 @@ third_nav_title: Our Staff
 | P5 CYPRESS    | MR. ENRICO ELIFH ABDUL LATHIF MARICAN   |MS. JESS YONG SIO CHIN |
 | P5 DAHLIA     | MRS. CHUA CHIEW YIN   | MS. NG XIN YI    |
 | P5 EUCALYPTUS    | MDM. FAZNIM BINTE MOHD NAZIR    | MISS ROCHE LOO YUH YAN    |
-| P5 JUNIPER   | MRS.  JULIANA LEE   | MR. MUHAMAD SABAR BIN ADAM   | MISS QUECK MEI HUI
+| P5 JUNIPER   | MRS.  JULIANA LEE   | MR. MUHAMAD SABAR BIN ADAM 
+ | | |        MISS QUECK MEI HUI   | 
 
 Please allow teachers up to 3 days to reply to your email queries. 
 For urgent matters, please contact the teacher through the General Office at 6753 8835.
