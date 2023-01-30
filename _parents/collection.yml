@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - MOE Kindergaten @ Northoaks.md
       - School Newsletters.md
       - School Programme/.keep
       - School Programme/Active Reading Programme.md
