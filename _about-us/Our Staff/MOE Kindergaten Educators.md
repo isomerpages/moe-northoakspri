@@ -4,19 +4,19 @@ permalink: /about-us/our-staff/moe-kindergaten-educators/
 description: ""
 third_nav_title: Our Staff
 ---
-**Center Head**                                    Ms Jezmin Mumtaz Binte &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; Juseri     
+**Center Head**                                    Ms Jezmin Mumtaz Binte Juseri     
 
-**MK Educator (EL)**                            Ms Surya Tewi binte &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Zulkipli
+**MK Educator (EL)**                            Ms Surya Tewi binte Zulkipli
 
-**MK Educator (EL)**                            Ms Nur Hidayah binte &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Mohd Hisham  
+**MK Educator (EL)**                            Ms Nur Hidayah binte Mohd Hisham  
 
-**MK Educator (EL)**                            Ms Vanessa Vinodhani &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; d/o Selvaraj  
+**MK Educator (EL)**                            Ms Vanessa Vinodhani d/o Selvaraj  
 
-**MK Educator (EL)**                            Ms Nur Syazana Binti &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jumadi
+**MK Educator (EL)**                            Ms Nur Syazana Binti Jumadi
 
-**MK Educator (EL)**                            Ms Junaidah Binte &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Ramlee  
+**MK Educator (EL)**                            Ms Junaidah Binte Ramlee  
 
-**MK Educator (MTL)**                        Ms Zarinah Begum &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Binte  Liaqat Ali  
+**MK Educator (MTL)**                        Ms Zarinah Begum Binte  Liaqat Ali  
 
 **MK Educator (MTL)**                        Ms Guo Li
 
