@@ -28,8 +28,6 @@ _To find out more about our school at Northoaks, please watch the video below:_
 <br>
 (((1 video to be uploaded)))<br>
 
-Please submit your interest to register via this [form](https://form.gov.sg/#!/61fb60419641550013240604).
-<br>
 
 Click on the links below to discover the learning environment at **MK @ Northoaks**
 
