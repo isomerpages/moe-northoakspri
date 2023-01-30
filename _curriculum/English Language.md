@@ -28,8 +28,9 @@ For lower primary, each unit is structured across 2 weeks and taught in 3 stages
 
 •       Differentiated Focused Lessons (DFL): which include word study lessons to strengthen word recognition skills, one reading period set aside each week to promote extensive reading and other extension activities
 
-<table border="0" width="100%" class="ives_tab_kosong" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; table-layout: fixed;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; vertical-align: top; border: none; background: rgb(250, 250, 250); color: rgb(69, 69, 69);"><img src="images/eng01.jpg" alt="English_1" width="298" height="225" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;"></td><td style="margin: 0px; outline: 0px; padding: 5px; vertical-align: top; border: none; background: rgb(250, 250, 250); color: rgb(69, 69, 69);"><img src="images/eng02.png" alt="English_2" width="298" height="225" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;"></td></tr></tbody></table>
 
+| ![](/images/eng01.jpg) | ![](/images/eng02.png) | 
+| -------- | -------- | 
   
 
 **Active Reading Programme**
