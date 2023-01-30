@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - School Newsletters.md
       - School Programme/.keep
       - School Programme/Active Reading Programme.md
       - School Programme/Active Recess Programme.md
