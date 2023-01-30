@@ -3,7 +3,6 @@ title: MOE Kindergaten @ Northoaks
 permalink: /parents/moe-kindergarten-at-northoaks/
 description: ""
 ---
-
 ##### A strong start for every child at MOE Kindergaten
 
 It takes a big heart to teach little minds. At MOE Kindergarten @ Northoaks, our children learn through purposeful play. Through the variety of learning experiences which include neighbourhood walks, field trips, Weeks of Wonder (WoW) projects and Celebrations, the children get to learn through different experiences and discover the joy of learning. These experiences engage the children in discovering and appreciating the world around them and allow them to share their learning experiences with their peers.
