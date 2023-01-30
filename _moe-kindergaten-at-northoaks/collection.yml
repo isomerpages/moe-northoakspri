@@ -2,5 +2,4 @@ collections:
   moe-kindergaten-at-northoaks:
     output: true
     order:
-      - Example Title.md
       - MOE Kindergaten @ Northoaks.md
