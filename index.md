@@ -8,8 +8,4 @@ notification: ""
 sections:
   - hero:
       background: /images/oakgifhomepage.gif
-      key_highlights:
-        - title: MOE Kindergaten  @ Northoaks
-          description: A Strong Start for Every Child
-          url: /parents/moe-kindergarten-at-northoaks/
 ---
