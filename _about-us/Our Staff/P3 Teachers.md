@@ -10,3 +10,5 @@ third_nav_title: Our Staff
 | P3 CYPRESS    | MRS. MICHELLE CHOW    | MISS  NUR SHEREENA BINTE ABIDIN   |
 | P3 DAHLIA     | MISS NURHANISAH BINTE AHMAD JALANI     | MS. REN LINA     |
 | P3 EUCALYPTUS    | MISS LIM WAN RONG     | MDM.  NIRWANI BTE YUSOF    |
+
+Please allow teachers up to 3 days to reply to your email queries. <br>For urgent matters, please contact the teacher through the General Office at 6753 8835.</td>
