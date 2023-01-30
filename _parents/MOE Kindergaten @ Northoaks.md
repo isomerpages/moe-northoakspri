@@ -12,7 +12,13 @@ A well-designed physical environment will enhance children’s development throu
 
 (((1 video to be uploaded)))<br>
 
-##### MK Open House 2022 Information
+##### MK Open House 2023 Information
+
+![](/images/MK%20CNY2.png) 
+
+![](/images/MK%20CNY3.png)
+
+https://www.moe.gov.sg/preschool/moe-kindergarten/2023-open-house
 
 _Please watch the video below to find out more about our Open House:_
 <br>
