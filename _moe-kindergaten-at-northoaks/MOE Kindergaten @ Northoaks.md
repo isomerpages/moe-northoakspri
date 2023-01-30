@@ -8,9 +8,7 @@ description: ""
 It takes a big heart to teach little minds. At MOE Kindergarten @ Northoaks, our children learn through purposeful play. Through the variety of learning experiences which include neighbourhood walks, field trips, Weeks of Wonder (WoW) projects and Celebrations, the children get to learn through different experiences and discover the joy of learning. These experiences engage the children in discovering and appreciating the world around them and allow them to share their learning experiences with their peers.
 <br>
 
-A well-designed physical environment will enhance children’s development through learning and play. Find out how at MOE Kindergarten @ Northoaks, we strive to provide a conducive learning environment for the children where every space is a learning space. Please watch the video to learn more about us from our parents and children. <br>
-
-(((1 video to be uploaded)))<br>
+A well-designed physical environment will enhance children’s development through learning and play. Find out how at MOE Kindergarten @ Northoaks, we strive to provide a conducive learning environment for the children where every space is a learning space. 
 
 ##### MK Open House 2023 Information
 
@@ -20,13 +18,6 @@ A well-designed physical environment will enhance children’s development throu
 
 https://www.moe.gov.sg/preschool/moe-kindergarten/2023-open-house
 
-_Please watch the video below to find out more about our Open House:_
-<br>
-(((1 video to be uploaded)))<br>
-
-_To find out more about our school at Northoaks, please watch the video below:_
-<br>
-(((1 video to be uploaded)))<br>
 
 
 Click on the links below to discover the learning environment at **MK @ Northoaks**
