@@ -4,15 +4,12 @@ permalink: /about-us/our-staff/p4-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-
-
-| Column 1 | Column 2 | Column 3 |
+| Class of 2023 | Form Teacher | Form Teacher |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| P3 ANGSANA    | MISS  FAITH YEE XUE YING   | MR. POON WEI SUNG ADRIAN     |
+| P3 CYPRESS    | MRS. MICHELLE CHOW    | MISS  NUR SHEREENA BINTE ABIDIN   |
+| P3 DAHLIA     | MISS NURHANISAH BINTE AHMAD JALANI     | MS. REN LINA     |
+| P3 EUCALYPTUS    | MISS LIM WAN RONG     | MDM.  NIRWANI BTE YUSOF    |
 
 
 
