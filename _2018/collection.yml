@@ -2,6 +2,8 @@ collections:
   "2018":
     output: true
     order:
+      - 2018 Achievements/Singapore Mathematical Olympiad for Primary Schools
+        (SMOPS).md
       - 2018 Achievements/.keep
       - English MooO Awards 2018.md
       - N8 Cluster Toy Sail Car Challenge 2018.md
