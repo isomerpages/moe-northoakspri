@@ -4,22 +4,6 @@ permalink: /events-and-achievements/school-achievements/yearly-school-achievemen
 description: ""
 third_nav_title: School Achievements
 ---
-## 2023
-
-* 8th National Primary School "Picture Book Creation" 
-
-## 2022
-* [20th Science Elementz Competition](/2022/20th-science-elementz-competition/)
-
-
-## 2021
-* [Singapore Science Buskers 2021](/2021/singapore-science-buskers-2021/)
-
-## 2019
-* [Our Achievements in Green Efforts](/2019/our-achievements-in-green-efforts/)
-
-* [Our Achievements in Competitions](/2019/our-achievements-in-competitions/)
-
 
 ## 2018
 * [Singapore Mathematical Olympiad for Primary Schools (SMOPS)](/2018/singapore-mathematical-olympiad-smops/)
