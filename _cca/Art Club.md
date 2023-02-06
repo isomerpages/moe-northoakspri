@@ -25,7 +25,7 @@ In Term One 2021, our members were engaged in an artistic journey to create artw
 			/>
 <br>
 
- **TEACHERS’ IN CHARGE (2021)**  
+ **TEACHERS’ IN CHARGE **  
 Mr Ang Kok Leong (Main Teacher in-charge)
 <br>Mdm Shereena
 <br>Miss Hafizhah
