@@ -1,5 +1,4 @@
 collections:
   "2019":
     output: true
-    order:
-      - Our Achievements in Green Efforts.md
+    order: []
