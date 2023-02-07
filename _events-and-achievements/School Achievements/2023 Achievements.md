@@ -4,9 +4,9 @@ permalink: /events-and-achievements/School-Achievements/permalink/
 description: ""
 third_nav_title: School Achievements
 ---
-**8th National Primary School "Picture Book Creation"**
+#### **8th National Primary School "Picture Book Creation"**
 
-Bronze Award: 
+##### Bronze Award: 
 1)	Lin Yichen 6A
 2)	Chai Xiu Qian Chleo 6C
 3)	Wu Tian 6C
@@ -15,7 +15,7 @@ Bronze Award:
 You may view their picture boo by clicking on this [link](https://drive.google.com/file/d/1ZrO2YbFNgdkjJCceevfKEbe831WSKGcn/view?usp=sharing).
  
 
-Merit Award:
+#### Merit Award:
 1)	Xie Jialing 6A
 2)	Koh Si Han Charlotte 6A
 3)	Poon Chee Yan 6A
