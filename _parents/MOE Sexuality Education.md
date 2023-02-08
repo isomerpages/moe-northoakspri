@@ -54,6 +54,6 @@ You may click here [here](https://go.gov.sg/moe-sexuality-education-scope) for m
 
 9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out [form](https://go.gov.sg/sed2023nkps). This form will be distributed to parents at the start of the year and is also downloadable here. [Parent Opt Out Form 2022](https://northoakspri.moe.edu.sg/qql/slot/u323/SeD/Annex%20A%20Parent%20Opt%20Out%20Form%20NKPS%202022.pdf) 
 
-The completed opt-out form is to be submitted by** 15/02/2023**.
+The completed opt-out form is to be submitted by **15/02/2023**.
 
 10.	Parents can contact the school at 6753 8835 for discussion or to seek clarification about the school’s Sexuality Education programme.
