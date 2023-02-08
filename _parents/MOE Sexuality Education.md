@@ -57,5 +57,3 @@ You may click here [here](https://go.gov.sg/moe-sexuality-education-scope) for m
 The completed opt-out form is to be submitted by** 15/02/2023**.
 
 10.	Parents can contact the school at 6753 8835 for discussion or to seek clarification about the school’s Sexuality Education programme.
-
-
