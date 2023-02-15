@@ -9,8 +9,8 @@ third_nav_title: Our Staff
 | P4 ANGSANA    | MISS  SHALINI D/O VICKRAMAN  shalini_vickraman@moe.edu.sg  | MS.  YUAN MEIZHEN yuan_meizhen@moe.edu.sg    |
 | P4 CYPRESS    | MDM. NURDIYANAH BTE SAMSURI nurdiyanah_samsuri@moe.edu.sg  | MDM. TAN WAI LI DOREEN tan_wai_li_doreen@moe.edu.sg  |
 | P4 DAHLIA     | MRS. THIAM KWAI LIN  fan_kwai_lin@moe.edu.sg | MS. TAN WOAN MEY tan_woan_mey@moe.edu.sg    |
-| P4 EUCALYPTUS    | MR. LAKSHMIKANTHAN     | MS. LEE SEOK HUI EVON    |
-| P4 JUNIPER    | MISS ANG POH POH CHRISTINE | MR. NG CHAN SIONG   |
+| P4 EUCALYPTUS    | MR. LAKSHMIKANTHAN  lakshmikanthan_s@moe.edu.sg   | MS. LEE SEOK HUI EVON  lee_seok_hui_evon@moe.edu.sg  |
+| P4 JUNIPER    | MISS ANG POH POH CHRISTINE ang_poh_poh_christine@moe.edu.sg | MR. NG CHAN SIONG ng_chan_siong@moe.edu.sg  |
 
 
 
