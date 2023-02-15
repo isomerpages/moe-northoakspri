@@ -8,10 +8,10 @@ third_nav_title: Our Staff
 | -------- | -------- | -------- |
 | P6 ANGSANA    | MR. ANG KOK LEONG ang_kok_leong@moe.edu.sg  | MR. GAN TIONG BENG  gan_tiong_beng@moe.edu.sg
 |||MS. XU WENLI                xu_wenli@moe.edu.sg  |
-| P6 CYPRESS    | MDM. NOOR AINI BINTE JAMIN    | MS. JACQUELINE OH    |
-| P6 DAHLIA     | MS. CYNTHIA MABLE D/O J STEPHEN    | MRS. JONG-BIN WERN HWEI  |
-| P6 EUCALYPTUS    | MRS. AMY ONG-ANG LAY HON     | MDM.NAZURAH BINTE MOHAMED MAJEED
- |  |  |  MRS. SIVA LIM HUI SAN   |
+| P6 CYPRESS    | MDM. NOOR AINI BINTE JAMIN  noor_aini_jamin@moe.edu.sg  | MS. JACQUELINE OH   oh_bee_tin@moe.edu.sg |
+| P6 DAHLIA     | MS. CYNTHIA MABLE D/O J STEPHEN  cynthia_mable_j_stephen@moe.edu.sg  | MRS. JONG-BIN WERN HWEI ong_bin_wern_hwei@moe.edu.sg |
+| P6 EUCALYPTUS    | MRS. AMY ONG-ANG LAY HON  amy_ang_lay_hon@moe.edu.sg    | MDM.NAZURAH BINTE MOHAMED MAJEED nazurah_mohamed_majeed@moe.edu.sg 
+|  |  |  MRS. SIVA LIM HUI SAN lim_hui_san@moe.edu.sg   |
 
 
 
