@@ -6,8 +6,8 @@ third_nav_title: Our Staff
 ---
 | Class of 2023 | Form Teacher | Form Teacher |
 | -------- | -------- | -------- |
-| P5 ANGSANA    | MS. ANG PING PING CECILIA  | MDM. HAMEETA D/O MYDEN PILLAI    |
-| P5 CYPRESS    | MR. ENRICO ELIFH ABDUL LATHIF MARICAN   |MS. JESS YONG SIO CHIN |
+| P5 ANGSANA    | MS. ANG PING PING CECILIA ang_ping_ping_cecilia@moe.edu.sg | MDM. HAMEETA D/O MYDEN PILLAI hameeta_myden_pillai@moe.edu.sg   |
+| P5 CYPRESS    | MR. ENRICO ELIFH ABDUL LATHIF MARICAN enrico_elifh_abdul_lathif@moe.edu.sg  |MS. JESS YONG SIO CHIN yong_sio_chin@moe.edu.sg  |
 | P5 DAHLIA     | MRS. CHUA CHIEW YIN   | MS. NG XIN YI    |
 | P5 EUCALYPTUS    | MDM. FAZNIM BINTE MOHD NAZIR    | MISS ROCHE LOO YUH YAN    |
 | P5 JUNIPER   | MRS.  JULIANA LEE   | MR. MUHAMAD SABAR BIN ADAM 
