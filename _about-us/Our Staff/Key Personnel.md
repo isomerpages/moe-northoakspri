@@ -29,7 +29,7 @@ Mr Daniel Teo Ee Wee                                  �
  **Head of Department - Science**  
 
   
-Ms. Tanty
+Mdm. Tanty Mardiyani Rohani                             tanty_mardiyani_rohani@moe.edu.sg
                                                       
 
  **Head of Department - PE & CCA**
