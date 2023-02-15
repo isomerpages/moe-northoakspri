@@ -6,9 +6,9 @@ third_nav_title: Our Staff
 ---
 | Class of 2023 | Form Teacher | Form Teacher |
 | -------- | -------- | -------- |
-| P4 ANGSANA    | MISS  SHALINI D/O VICKRAMAN   | MS.  YUAN MEIZHEN    |
-| P4 CYPRESS    | MDM. NURDIYANAH BTE SAMSURI  | MDM. TAN WAI LI DOREEN  |
-| P4 DAHLIA     | MRS. THIAM KWAI LIN   | MS. TAN WOAN MEY    |
+| P4 ANGSANA    | MISS  SHALINI D/O VICKRAMAN  shalini_vickraman@moe.edu.sg  | MS.  YUAN MEIZHEN yuan_meizhen@moe.edu.sg    |
+| P4 CYPRESS    | MDM. NURDIYANAH BTE SAMSURI nurdiyanah_samsuri@moe.edu.sg  | MDM. TAN WAI LI DOREEN tan_wai_li_doreen@moe.edu.sg  |
+| P4 DAHLIA     | MRS. THIAM KWAI LIN  fan_kwai_lin@moe.edu.sg | MS. TAN WOAN MEY tan_woan_mey@moe.edu.sg    |
 | P4 EUCALYPTUS    | MR. LAKSHMIKANTHAN     | MS. LEE SEOK HUI EVON    |
 | P4 JUNIPER    | MISS ANG POH POH CHRISTINE | MR. NG CHAN SIONG   |
 
