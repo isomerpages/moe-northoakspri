@@ -6,8 +6,8 @@ third_nav_title: Our Staff
 ---
 | Class of 2023 | Form Teacher | Form Teacher |
 | -------- | -------- | -------- |
-| P6 ANGSANA    | MR. ANG KOK LEONG   | MR. GAN TIONG BENG  
-|||MS. XU WENLI|
+| P6 ANGSANA    | MR. ANG KOK LEONG ang_kok_leong@moe.edu.sg  | MR. GAN TIONG BENG  gan_tiong_beng@moe.edu.sg
+|||MS. XU WENLI                xu_wenli@moe.edu.sg  |
 | P6 CYPRESS    | MDM. NOOR AINI BINTE JAMIN    | MS. JACQUELINE OH    |
 | P6 DAHLIA     | MS. CYNTHIA MABLE D/O J STEPHEN    | MRS. JONG-BIN WERN HWEI  |
 | P6 EUCALYPTUS    | MRS. AMY ONG-ANG LAY HON     | MDM.NAZURAH BINTE MOHAMED MAJEED
