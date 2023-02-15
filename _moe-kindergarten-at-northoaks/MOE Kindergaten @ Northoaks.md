@@ -10,6 +10,8 @@ It takes a big heart to teach little minds. At MOE Kindergarten @ Northoaks, our
 
 A well-designed physical environment will enhance children’s development through learning and play. Find out how at MOE Kindergarten @ Northoaks, we strive to provide a conducive learning environment for the children where every space is a learning space. 
 
+P{ease view the [briefing slides]() for our 2023 Open House.
+
 ****MK Registration Exercise 17 Feb 2023, 9am – 21 Feb 2023, 4pm
 
 Open to Singapore Citizen and Permanent Resident children born between 2 Jan 2019 and 1 Jan 2020 (both dates inclusive) 
