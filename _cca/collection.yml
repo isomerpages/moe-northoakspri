@@ -1,0 +1,12 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Floorball.md
+      - Football.md
+      - Netball.md
+      - Wushu.md
+      - Art Club.md
+      - Environment Science Club.md
+      - ICT Club.md
+      - Modern Dance.md
