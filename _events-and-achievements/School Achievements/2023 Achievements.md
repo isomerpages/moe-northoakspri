@@ -12,7 +12,7 @@ third_nav_title: School Achievements
 3)	Wu Tian 6C
 4)	Wong Yu Hao 6D 
 
-You may view their picture boo by clicking on this [link](https://drive.google.com/file/d/1ZrO2YbFNgdkjJCceevfKEbe831WSKGcn/view?usp=sharing).
+You may view their picture book by clicking on this [link](https://drive.google.com/file/d/1ZrO2YbFNgdkjJCceevfKEbe831WSKGcn/view?usp=sharing).
  
 
 #### Merit Award:
@@ -22,4 +22,4 @@ You may view their picture boo by clicking on this [link](https://drive.google.c
 4)	Seng Yuan Yu 6A
 5)	Yu Zhuoyu 6C
 
-You may view their picture boo by clicking on this [link](https://drive.google.com/file/d/1z7huB7saDzEhVsMyAOygk-qL5e2lcI1n/view?usp=share_link).
+You may view their picture book by clicking on this [link](https://drive.google.com/file/d/1z7huB7saDzEhVsMyAOygk-qL5e2lcI1n/view?usp=share_link).
