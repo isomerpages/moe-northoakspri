@@ -114,4 +114,4 @@ Mrs Mable James (ST - Music)                             �
   
 Mdm Noor Aini (ST-Malay Language)                    noor_aini_jamin@moe.edu.sg
 
- Mr Toh Kian Chong                                                 toh_kian_chong@moe.edu.sg
+ Mr Toh Kian Chong (ST -Science)                          toh_kian_chong@moe.edu.sg
