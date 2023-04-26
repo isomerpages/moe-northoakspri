@@ -50,6 +50,14 @@ Mrs Pang-Ang Huei Minn                                ang
 
 Ms Ong Sir Yan                                                ong_sir_yan@moe.edu.sg
 
+
+**Level Head - English Language**
+
+  
+
+Ms Ng Xin Yi                                    ng_xin_yi_p@moe.edu.sg
+
+
 **Level Head - Mother Tongue Languages**
 
   
@@ -60,15 +68,8 @@ Miss Queck Mei Hui                                   �
 
   
 
-Mdm Saedah Bte Saad                                     saedah_saad@moe.edu.sg
+Mdm Saedah Bte Saad                                     saedah_saad@moe.edu.sg  
 
-  
-
-**Subject Head -** **PE & CCA**                        
-
-  
-
-Mr Adrian Poon                                                 poon_wei_sung_adrian@moe.edu.sg
 
   
 
