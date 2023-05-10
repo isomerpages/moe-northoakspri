@@ -13,7 +13,4 @@ links:
   - title: Moe Kindergarten At Northoaks
     collection: moe-kindergarten-at-northoaks
   - title: Other Information
-    url: /permalink
-    sublinks:
-      - title: School Bus Service
-        url: /other-information/school-bus-service/permalink/
+    collection: other-information
