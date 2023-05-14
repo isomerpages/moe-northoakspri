@@ -1,0 +1,6 @@
+collections:
+  other-information:
+    output: true
+    order:
+      - School Bus Service/School Bus Service.md
+      - School Bus Service/.keep
