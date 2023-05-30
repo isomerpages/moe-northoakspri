@@ -2,6 +2,7 @@ collections:
   northoaks-family:
     output: true
     order:
+      - NKPS Bouquets of Appreciation.md
       - Principal's Message.md
       - Our Staff/.keep
       - Our Staff/Key Personnel.md
