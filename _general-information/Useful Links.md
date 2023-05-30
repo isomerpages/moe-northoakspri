@@ -5,6 +5,8 @@ description: ""
 ---
 *   [MOE Website](http://www.moe.gov.sg/)
 *   [Schoolbag Website](http://schoolbag.sg/)
+*   [Parent Gateway](https://pg.moe.edu.sg/)
+*   [MySkillsFuture Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 *   [Student Care](https://singaporeedusmart.com.sg/) <br> Singapore EduSmart Learning Hub Pte Ltd  
 Office Tel: 98626300
 
