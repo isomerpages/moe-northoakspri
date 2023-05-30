@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Useful Links.md
       - School Information.md
       - School Bus Service/School Bus Service.md
       - School Bus Service/.keep
