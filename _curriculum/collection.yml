@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Learning for Life Programme.md
       - Applied Learning Programme.md
       - English Language.md
       - Mother Tongue Languages.md
