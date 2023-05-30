@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Floorball.md
       - Football.md
       - Netball.md
       - Wushu.md
