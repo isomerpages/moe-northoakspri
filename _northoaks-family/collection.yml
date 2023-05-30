@@ -2,7 +2,6 @@ collections:
   northoaks-family:
     output: true
     order:
-      - NKPS Bouquets of Appreciation.md
       - Principal's Message.md
       - Our Staff/.keep
       - Our Staff/Key Personnel.md
@@ -16,3 +15,4 @@ collections:
       - Our Staff/MOE Kindergaten Educators.md
       - School Philosophy and VMH.md
       - Our Story.md
+      - NKPS Bouquets of Appreciation.md
