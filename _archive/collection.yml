@@ -2,4 +2,5 @@ collections:
   archive:
     output: true
     order:
+      - Active Recess Programme.md
       - Active Reading Programme.md
