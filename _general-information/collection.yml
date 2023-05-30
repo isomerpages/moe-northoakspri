@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - School Canteen.md
       - School Information.md
       - Student Learning Space.md
       - Useful Links.md
