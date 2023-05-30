@@ -2,5 +2,6 @@ collections:
   archive:
     output: true
     order:
+      - Program for Active Learning.md
       - Active Recess Programme.md
       - Active Reading Programme.md
