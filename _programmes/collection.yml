@@ -1,5 +1,5 @@
 collections:
-  curriculum:
+  programmes:
     output: true
     order:
       - Cyber Wellness.md
