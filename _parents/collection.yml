@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - School Programme/.keep
-      - School Programme/Program for Active Learning.md
       - MOE Sexuality Education.md
       - Cyber Wellness.md
