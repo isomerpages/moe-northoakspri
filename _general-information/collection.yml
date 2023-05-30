@@ -2,8 +2,8 @@ collections:
   general-information:
     output: true
     order:
-      - Student Learning Space.md
       - School Information.md
+      - Student Learning Space.md
       - School Bus Service/.keep
       - School Bus Service/School Bus Service.md
       - Useful Links/.keep
