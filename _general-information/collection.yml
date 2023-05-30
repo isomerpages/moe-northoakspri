@@ -1,5 +1,5 @@
 collections:
-  other-information:
+  general-information:
     output: true
     order:
       - School Information.md
