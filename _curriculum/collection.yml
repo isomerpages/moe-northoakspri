@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Science.md
       - Mother Tongue Languages.md
       - Mathematics.md
       - English Language.md
