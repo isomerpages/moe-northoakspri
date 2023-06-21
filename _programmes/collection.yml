@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Co Curriculum/Netball.md
       - Co Curriculum/Environment Science Club.md
       - Co Curriculum/ICT Club.md
       - Co Curriculum/Modern Dance.md
