@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Co Curriculum/Cyber Wellness.md
       - Co Curriculum/Floorball.md
       - Co Curriculum/Football.md
       - Co Curriculum/Art Club.md
