@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Mathematics.md
       - Mother Tongue Languages.md
       - Science.md
       - Information & Communications Technology.md
