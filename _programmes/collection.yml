@@ -3,23 +3,11 @@ collections:
     output: true
     order:
       - Curriculum/.keep
-      - Curriculum/Information & Communications Technology.md
-      - Curriculum/Science.md
-      - Curriculum/Mother Tongue Languages.md
-      - Curriculum/Mathematics.md
       - Curriculum/English Language.md
-      - Co Curriculum/.keep
-      - Co Curriculum/Aesthetics.md
-      - Co Curriculum/Physical Education.md
-      - Co Curriculum/Floorball.md
-      - Co Curriculum/Football.md
-      - Co Curriculum/Netball.md
-      - Co Curriculum/Wushu.md
-      - Co Curriculum/Modern Dance.md
-      - Co Curriculum/Cyber Wellness.md
-      - Co Curriculum/Art Club.md
-      - Co Curriculum/Environment Science Club.md
-      - Co Curriculum/ICT Club.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Mother Tongue Languages.md
+      - Curriculum/Science.md
+      - Curriculum/Information & Communications Technology.md
       - Character Development/.keep
       - Character Development/MOE Sexuality Education.md
       - Character Development/Character & Citizenship Education.md
