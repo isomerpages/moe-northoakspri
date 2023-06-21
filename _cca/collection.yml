@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Art Club.md
       - Environment Science Club.md
       - ICT Club.md
       - Modern Dance.md
