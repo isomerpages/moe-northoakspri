@@ -2,17 +2,14 @@ collections:
   programmes:
     output: true
     order:
-      - CDL/MOE Sexuality Education.md
-      - CDL/Character & Citizenship Education.md
-      - CDL/.keep
       - Curriculum/.keep
       - Curriculum/Information & Communications Technology.md
       - Curriculum/Science.md
       - Curriculum/Mother Tongue Languages.md
       - Curriculum/Mathematics.md
       - Curriculum/English Language.md
-      - Co Curriculum/Aesthetics.md
       - Co Curriculum/.keep
+      - Co Curriculum/Aesthetics.md
       - Co Curriculum/Physical Education.md
       - Co Curriculum/Floorball.md
       - Co Curriculum/Football.md
@@ -23,5 +20,8 @@ collections:
       - Co Curriculum/Art Club.md
       - Co Curriculum/Environment Science Club.md
       - Co Curriculum/ICT Club.md
-      - Learning for Life Programme.md
+      - CDL/.keep
+      - CDL/MOE Sexuality Education.md
+      - CDL/Character & Citizenship Education.md
       - Applied Learning Programme.md
+      - Learning for Life Programme.md
