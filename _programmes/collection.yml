@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Environment Science Club.md
       - Art Club.md
       - Wushu.md
       - Netball.md
