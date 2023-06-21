@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Co Curriculum/.keep
-      - Modern Dance.md
       - ICT Club.md
       - Environment Science Club.md
       - Art Club.md
