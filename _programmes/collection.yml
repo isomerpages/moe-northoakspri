@@ -2,16 +2,16 @@ collections:
   programmes:
     output: true
     order:
-      - Co Curriculum/Cyber Wellness.md
+      - Co Curriculum/.keep
       - Co Curriculum/Floorball.md
       - Co Curriculum/Football.md
-      - Co Curriculum/Art Club.md
-      - Co Curriculum/Wushu.md
       - Co Curriculum/Netball.md
+      - Co Curriculum/Wushu.md
+      - Co Curriculum/Modern Dance.md
+      - Co Curriculum/Cyber Wellness.md
+      - Co Curriculum/Art Club.md
       - Co Curriculum/Environment Science Club.md
       - Co Curriculum/ICT Club.md
-      - Co Curriculum/Modern Dance.md
-      - Co Curriculum/.keep
       - Curriculum/Information & Communications Technology.md
       - Curriculum/Science.md
       - Curriculum/Mother Tongue Languages.md
