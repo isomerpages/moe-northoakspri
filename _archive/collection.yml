@@ -2,7 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - Cyber Wellness.md
       - Program for Active Learning.md
       - Active Recess Programme.md
       - Active Reading Programme.md
