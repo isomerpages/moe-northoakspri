@@ -1,5 +1,4 @@
 collections:
   cca:
     output: true
-    order:
-      - Modern Dance.md
+    order: []
