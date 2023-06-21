@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Information & Communications Technology.md
       - Science.md
       - Mother Tongue Languages.md
       - Mathematics.md
