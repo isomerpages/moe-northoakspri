@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Curriculum.md
       - Cyber Wellness.md
       - MOE Sexuality Education.md
       - Learning for Life Programme.md
