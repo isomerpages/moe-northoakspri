@@ -1,5 +1,5 @@
 collections:
-  "2017":
+  archive-2017:
     output: true
     order:
       - School Green Awards 2017.md
