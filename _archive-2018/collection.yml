@@ -1,5 +1,5 @@
 collections:
-  "2018":
+  archive-2018:
     output: true
     order:
       - 2018 Achievements/Gambas Tamil Language Festival.md
