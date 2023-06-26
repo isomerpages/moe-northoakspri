@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Curriculum/Program for Active Learning.md
       - Curriculum/.keep
       - Curriculum/English Language.md
       - Curriculum/Mathematics.md
