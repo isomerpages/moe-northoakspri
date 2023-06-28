@@ -2,4 +2,4 @@ collections:
   e-open-house:
     output: true
     order:
-      - e Open house.md
+      - e Brochure.md
