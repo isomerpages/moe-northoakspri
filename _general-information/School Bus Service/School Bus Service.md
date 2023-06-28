@@ -32,8 +32,3 @@ Address: 61 Sembawang Drive Singapore 757622
 **How to get there?**
 <br>Nearest MRT: Sembawang MRT <br>(NS11 line)
 Bus number: 962 - 3 minutes walking distance
-
-
-
-
-
