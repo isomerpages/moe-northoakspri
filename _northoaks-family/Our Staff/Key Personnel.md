@@ -51,8 +51,7 @@ Mrs Lim Mei Leng&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&
  
 **Year Head (Middle Primary)**
  
- Miss Anne Wong
- 
+ Miss Anne Wong<br> 
  wong_siew_yin_anne@moe.edu.sg
 
   
