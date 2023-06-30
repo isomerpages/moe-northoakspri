@@ -87,10 +87,12 @@ Ms Evon Lee&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &
 
 Mr Rizal Marof Mohamad&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;mohamad_rizal_marof@moe.edu.sg
 
-Miss Rochelle Loo, Assistant Year Head (Upper Primary)<br>
+**Assistant Year Head (Upper Primary)**<br>
+Miss Rochelle Loo
 loo_yuh_yan@moe.edu.sg
 
-Mr Eric Tan, Assistant Year Head (Lower Primary)
+**Assistant Year Head (Lower Primary)**<br>
+Mr Eric Tan<br>
 eric_tan_aik_hong@moe.edu.sg
 
 
