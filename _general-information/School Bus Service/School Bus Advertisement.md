@@ -17,16 +17,16 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **Application Procedure**
 
-1.  Complete the [Call for Proposal - Annex A](https://staging.d3a4uwe9mg5j01.amplifyapp.com/files/call%20for%20proposal%20annex%20a.pdf)
+1.  Complete the&nbsp;[Call for Proposal - Annex A](https://staging.d3a4uwe9mg5j01.amplifyapp.com/files/call%20for%20proposal%20annex%20a.pdf)
     
 2.  Submit the completed Call for Proposal - Annex A by closing date, 12 July 2023 to the School’s General Office
     
 
 Address: 61 Sembawang Drive Singapore 757622  
 Contact No: 6753 8835  
-Email: Northoaks\_ps@moe.edu.sg  
+Email: northoaks\_ps@moe.edu.sg  
 Contact Person: Chloe Lee
 
 **How to get there?**  
-Nearest MRT: Sembawang MRT  
-(NS11 line) Bus number: 962 - 3 minutes walking distance
+Nearest MRT: Sembawang MRT  (NS11 line) - 15 minutes walking distance
+<br>Bus number: 962 - 1 minute walking distance
