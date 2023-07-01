@@ -2,6 +2,6 @@ collections:
   e-open-house:
     output: true
     order:
-      - E brochure/2023 Embracing the future.md
-      - E brochure/e Brochure.md
       - E brochure/.keep
+      - E brochure/e Brochure.md
+      - E brochure/2023 Embracing the future.md
