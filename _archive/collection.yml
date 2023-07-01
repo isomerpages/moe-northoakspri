@@ -2,7 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - e Brochure.md
       - Cyber Wellness.md
       - Active Recess Programme.md
       - Active Reading Programme.md
