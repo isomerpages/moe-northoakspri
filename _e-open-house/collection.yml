@@ -2,5 +2,5 @@ collections:
   e-open-house:
     output: true
     order:
-      - 2023 Embracing our Future.md
       - e Brochure.md
+      - 2023 Embracing our Future.md
