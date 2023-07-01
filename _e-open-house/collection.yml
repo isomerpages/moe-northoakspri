@@ -2,4 +2,5 @@ collections:
   e-open-house:
     output: true
     order:
+      - E brochure/e Brochure.md
       - E brochure/.keep
