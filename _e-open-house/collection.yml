@@ -2,7 +2,6 @@ collections:
   e-open-house:
     output: true
     order:
-      - E brochure/test.md
       - E brochure/.keep
       - E brochure/e Brochure.md
       - E brochure/Embracing the future.md
