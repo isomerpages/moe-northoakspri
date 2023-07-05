@@ -8,3 +8,4 @@ third_nav_title: E brochure
 
 ***[Learning for Life Programme](https://www.northoakspri.moe.edu.sg/about-us/learning-for-life-programme/)***
 
+***[Programmes](https://www.northoakspri.moe.edu.sg/curriculum/english-language/)***
