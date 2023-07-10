@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Our Staff
 ---
 
-
 **School Leaders**
 
 Mr Melvin Cher Teck Yiang&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Principal
