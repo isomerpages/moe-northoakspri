@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Learning and Leading with Heart.md
       - Cyber Wellness.md
       - Active Recess Programme.md
       - Active Reading Programme.md
