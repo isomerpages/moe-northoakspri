@@ -14,17 +14,16 @@ description: ""
 
   
 
-</p><p style="text-align: justify">My staff and I will build upon the progress the school has made.&nbsp; We will continue to nurture the strong culture of care that exists in the school community; we will continue to do our utmost to inspiring and grow each child; and we will do this is in close partnership with our parents and community partners.
+</p>
+<p style="text-align: justify">My staff and I will build upon the progress the school has made.&nbsp; We will continue to nurture the strong culture of care that exists in the school community; we will continue to do our utmost to inspiring and grow each child; and we will do this is in close partnership with our parents and community partners.
 
 Mr Melvin Cher
 
 Principal
+</p>
 
-	
-	
 		
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/p4g6bx82isk" height="315" width="560"></iframe>
 
 
 
-</p>
