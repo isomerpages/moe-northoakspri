@@ -2,5 +2,4 @@ collections:
   moe-kindergarten-at-northoaks:
     output: true
     order:
-      - Our MK staffs.md
       - MOE Kindergaten @ Northoaks.md
