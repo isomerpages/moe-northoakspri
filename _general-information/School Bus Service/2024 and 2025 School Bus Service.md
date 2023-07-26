@@ -4,6 +4,6 @@ permalink: /general-information/school-bus-service/permalink/
 description: ""
 third_nav_title: School Bus Service
 ---
-**2024 School Bus Operator and Bus Fare**
+**2024 - 2025 School Bus Services**
 
-[Schools Bus Services](/files/2024%20school%20bus%20operator%20awarded.pdf)
+[School Bus Services](/files/2024-2025%20school%20bus%20operator%20awarded.pdf)
