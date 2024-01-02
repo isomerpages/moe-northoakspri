@@ -3,16 +3,6 @@ title: P1 Teachers
 permalink: /about-us/our-staff/p1-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: tiptap
 ---
-| Class of 2023 | Form Teacher |Form Teacher |
-| -------- | -------- | -------- |
-| P1 ANGSANA    | MS. NUR HAFIZHAH BIBI BTE HAJI M OMAR   nur_hafizhah_bibi@moe.edu.sg  | MS. TENG YAN NI teng_yan_ni@moe.edu.sg
-| P1 CYPRESS    | MS. KHOO WAN XIN khoo_wan_xin@moe.edu.sg| MDM.  MUSLIMAH BINTE MOHD ISAHAK muslimah_mohd_isahak@moe.edu.sg |
-| P1 DAHLIA     | MS. NYANA PRIYA D/O PANIR SELVAM  nyana_priya_panir_selvam@moe.edu.sg    | MDM. SOH HUI LENG  soh_hui_leng@moe.edu.sg   |
-| P1 EUCALYPTUS     | MDM. LEONG TENG ENG APRIL  leong_teng_eng@moe.edu.sg  | MS. LOY-NG CHOON GUAT ng_choon_guat@moe.edu.sg  |
-
-
-
-
-
-Please allow teachers up to 3 days to reply to your email queries. <br>For urgent matters, please contact the teacher through the General Office at 6753 8835.</td>
+<table><tbody><tr><td rowspan="1" colspan="3"><p><strong>Primary 1 Form Teachers</strong></p></td></tr><tr><td rowspan="2" colspan="1"><p>1 Angsana</p></td><td rowspan="1" colspan="1"><p>Mrs Yong-Loi Mingli Michelle&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mrs Guru-Gayathry D/O Gurusamy Ramaya&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">loi_mingli_michelle@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">gayathry_gurusamy_ramaya@moe.edu.sg</a></p></td></tr><tr><td rowspan="2" colspan="1"><p>1 Cypress</p></td><td rowspan="1" colspan="1"><p>Mr Muhammad Ghafur Bin Abdul Sukor&nbsp;</p></td><td rowspan="1" colspan="1"><p>Ms Lim Wan Rong&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_ghafur_abdul_sukor@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">lim_wan_rong@moe.edu.sg</a></p></td></tr><tr><td rowspan="2" colspan="1"><p>1 Dhalia</p></td><td rowspan="1" colspan="1"><p>Mdm Tan Wai Li Doreen&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mdm Ren Lina&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">tan_wai_li_doreen@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">ren_lina@moe.edu.sg</a></p></td></tr><tr><td rowspan="3" colspan="1"><p>1 Eucalyptus</p></td><td rowspan="1" colspan="1"><p>Mrs Chua-Ho Shuyi Cheryl&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mdm Noor Aini Binte Jamin&nbsp;</p></td></tr><tr><td rowspan="2" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">ho_shuyi_cheryl@moe.edu.sg</a></p></td><td rowspan="2" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">noor_aini_jamin@moe.edu.sg</a></p></td></tr><tr></tr></tbody></table><p>Please allow teachers up to 3 days to reply to your email queries. <br>For urgent matters, please contact the teacher through the General Office at 6753 8835.</p>
