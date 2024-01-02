@@ -3,84 +3,33 @@ title: Key Personnel
 permalink: /about-us/our-staff/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 
-**School Leaders**
 
-Mr Melvin Cher Teck Yiang&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Principal
-
-Mrs Hee-Jun Lynn Ho&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Vice - Principal&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-
-Mr Chng Siew Chye&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Vice - Principal (Administration)
-
-**Head of Department - English Language**
-
-Mr Daniel Teo Ee Wee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; teo\_ee\_wee\_daniel@moe.edu.sg
-
-**Head of Department - Mathematics**&nbsp;&nbsp;
-
-Ms Valerie Tan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; tan\_hui\_ling\_valerie@moe.edu.sg&nbsp;
-
-**Head of Department - Science**&nbsp;&nbsp;
-
-Mdm. Tanty Mardiyani Rohani &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; tanty\_mardiyani\_rohani@moe.edu.sg
-
-**Head of Department - PE &amp; CCA**
-
-Mr Jasni bin Mahmood Jasmin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; jasni\_mahmood\_jasmin@moe.edu.sg
-
-**Head of Department - Character and Citizenship Education**
-
-Mrs Pang-Ang Huei Minn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ang\_huei\_minn@moe.edu.sg
-
-**School Staff Developer**
-
-Ms Ong Sir Yan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ong\_sir\_yan@moe.edu.sg
-
-**Year Head (Upper Primary)**&nbsp;&nbsp; &nbsp;
-
-Mrs Lim Mei Leng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; lim\_mei\_leng@moe.edu.sg
-
-**Year Head (Middle Primary)**
-
-Miss Anne Wong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wong\_siew\_yin\_anne@moe.edu.sg
-
-**Year Head (Lower Primary)**
-
-Mr Thamilselvan s/o Narayasamy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; thamilselvan\_narayanasamy@moe.edu.sg
-
-**Level Head - English Language**
-
-Ms Ng Xin Yi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ng\_xin\_yi\_p@moe.edu.sg
-
-**Level Head - Mother Tongue Languages**
-
-Miss Queck Mei Hui&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; queck\_mei\_hui@moe.edu.sg
-
-**Subject Head - Student Well Being**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-
-Ms Evon Lee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; lee\_seok\_hui\_evon@moe.edu.sg
-
-**Subject Head - Discipline**
-
-Mr Rizal Marof Mohamad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mohamad\_rizal\_marof@moe.edu.sg
-
-**Assistant Year Head (Upper Primary)**
-
-Miss Rochelle Loo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; loo\_yuh\_yan@moe.edu.sg
-
-**Assistant Year Head (Lower Primary)**
-
-Mr Eric Tan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eric\_tan\_aik\_hong@moe.edu.sg
-
-**Senior Teachers**&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-
-Ms Lim Hui San (ST- Mathematics)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; lim\_hui\_san@moe.edu.sg
-
-Mrs Mable James (ST-Music)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cynthia\_mable\_j\_stephen@moe.edu.sg
-
-Mdm Noor Aini (ST-Malay Language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; noor\_aini\_jamin@moe.edu.sg
-
-Mr Toh Kian Chong (ST -Science)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; toh\_kian\_chong@moe.edu.sg
-
-Mdm Saedah Bte Saad&nbsp;(ST-CCE)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; saedah\_saad@moe.edu.sg
+<table style="border-collapse:
+ collapse;width:589pt" width="784" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:9984;width:215pt" width="286"> <col style="mso-width-source:userset;mso-width-alt:8261;width:178pt" width="237"> <col style="mso-width-source:userset;mso-width-alt:9122;width:196pt" width="261"></colgroup><tbody><tr style="mso-height-source:userset;height:20.0pt" height="27"><td style="height:20.0pt;width:215pt" width="286" class="xl68" height="27">**School Leaders**</td><td style="border-left:none;width:178pt" width="237" class="xl67">&nbsp;</td><td style="width:196pt" width="261"></td></tr><tr style="mso-height-source:userset;height:20.0pt" height="27"><td style="height:20.0pt;border-top:none;
+  width:215pt" width="286" class="xl64" height="27"><span style="mso-bookmark:_Hlk154852729"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Principal</span></span></td><td style="border-top:none;border-left:none;width:178pt" width="237" class="xl64"><span style="mso-bookmark:_Hlk154852729"><span style="mso-ansi-language:
+  EN-SG" lang="EN-SG">Mr Melvin Cher Teck Yiang</span></span></td><td></td></tr><tr style="mso-height-source:userset;height:20.0pt" height="27"><td style="height:20.0pt;border-top:none;
+  width:215pt" width="286" class="xl64" height="27"><span style="mso-bookmark:_Hlk154852729"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Vice-Principal</span></span></td><td style="border-top:none;border-left:none;width:178pt" width="237" class="xl64"><span style="mso-bookmark:_Hlk154852729"><span style="mso-ansi-language:
+  EN-SG" lang="EN-SG">Mrs Hee-Ho Jun Lynn</span></span></td><td></td></tr><tr style="mso-height-source:userset;height:20.0pt" height="27"><td style="height:20.0pt;border-top:none;
+  width:215pt" width="286" class="xl64" height="27"><span style="mso-bookmark:_Hlk154852729"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Vice-Principal</span></span></td><td style="border-top:none;border-left:none;width:178pt" width="237" class="xl64"><span style="mso-bookmark:_Hlk154852729"><span style="mso-ansi-language:
+  EN-SG" lang="EN-SG">Mr John Ow Eu Gene</span></span></td><td></td></tr><tr style="mso-height-source:userset;height:20.0pt" height="27"><td style="height:20.0pt;border-top:none;
+  width:215pt" width="286" class="xl64" height="27"><span style="mso-bookmark:_Hlk154852729"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Vice-Principal</span></span></td><td style="border-top:none;border-left:none;width:178pt" width="237" class="xl64"><span style="mso-bookmark:_Hlk154852729"><span style="mso-ansi-language:
+  EN-SG" lang="EN-SG">Mdm Komathi Govindasamy</span></span></td><td></td></tr><tr style="mso-height-source:userset;height:20.0pt" height="27"><td style="height:20.0pt;width:215pt" width="286" class="xl69" height="27">**Heads of Department (HOD)**</td><td style="width:178pt" width="237" class="xl66"></td><td></td></tr><tr style="mso-height-source:userset;height:20.0pt" height="27"><td style="height:20.0pt;width:215pt" width="286" class="xl64" height="27"><span style="mso-ansi-language:EN-SG" lang="EN-SG">School Staff Developer (SSD)</span></td><td style="border-left:none;width:178pt" width="237" class="xl64"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Ms Ong Sir Yan</span></td><td style="border-left:none;width:196pt" width="261" class="xl65"><span style="mso-ansi-language:EN-SG" lang="EN-SG"><a href="mailto:ong_sir_yan@moe.edu.sg">ong_sir_yan@moe.edu.sg</a></span></td></tr><tr style="mso-height-source:userset;height:20.0pt;mso-yfti-irow:
+  1" height="27"><td style="height:20.0pt;border-top:none;
+  width:215pt" width="286" class="xl64" height="27"><span style="mso-ansi-language:EN-SG" lang="EN-SG">HOD/English Language</span></td><td style="border-top:none;border-left:none;width:178pt" width="237" class="xl64"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Mr Teo Ee Wee Daniel</span></td><td style="border-top:none;border-left:none;width:196pt" width="261" class="xl65"><span style="mso-ansi-language:EN-SG" lang="EN-SG"><a href="mailto:teo_ee_wee_daniel@moe.edu.sg">teo_ee_wee_daniel@moe.edu.sg</a></span></td></tr><tr style="mso-height-source:userset;height:20.0pt;mso-yfti-irow:
+  2" height="27"><td style="height:20.0pt;border-top:none;
+  width:215pt" width="286" class="xl64" height="27"><span style="mso-ansi-language:EN-SG" lang="EN-SG">HOD/Mathematics</span></td><td style="border-top:none;border-left:none;width:178pt" width="237" class="xl64"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Ms Valerie Tan Hui Ling</span></td><td style="border-top:none;border-left:none;width:196pt" width="261" class="xl65"><span style="mso-ansi-language:EN-SG" lang="EN-SG"><a href="mailto:tan_hui_ling_valerie@moe.edu.sg">tan_hui_ling_valerie@moe.edu.sg</a></span></td></tr><tr style="mso-height-source:userset;height:20.0pt;mso-yfti-irow:
+  3" height="27"><td style="height:20.0pt;border-top:none;
+  width:215pt" width="286" class="xl64" height="27"><span style="mso-ansi-language:EN-SG" lang="EN-SG">HOD/Mother Tongue Languages</span></td><td style="border-top:none;border-left:none;width:178pt" width="237" class="xl64"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Miss Queck Mei Hui</span></td><td style="border-top:none;border-left:none;width:196pt" width="261" class="xl65"><span style="mso-ansi-language:EN-SG" lang="EN-SG"><a href="mailto:queck_mei_hui@moe.edu.sg">queck_mei_hui@moe.edu.sg</a></span></td></tr><tr style="mso-height-source:userset;height:20.0pt;mso-yfti-irow:
+  4" height="27"><td style="height:20.0pt;border-top:none;
+  width:215pt" width="286" class="xl64" height="27"><span style="mso-ansi-language:EN-SG" lang="EN-SG">HOD/Science</span></td><td style="border-top:none;border-left:none;width:178pt" width="237" class="xl64"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Mdm Tanty Mardiyani Binte Rohani</span></td><td style="border-top:none;border-left:none;width:196pt" width="261" class="xl65"><span style="mso-ansi-language:EN-SG" lang="EN-SG"><a href="mailto:tanty_mardiyani_rohani@moe.edu.sg">tanty_mardiyani_rohani@moe.edu.sg</a></span></td></tr><tr style="mso-height-source:userset;height:20.0pt;mso-yfti-irow:
+  5" height="27"><td style="height:20.0pt;border-top:none;
+  width:215pt" width="286" class="xl64" height="27"><span style="mso-ansi-language:EN-SG" lang="EN-SG">HOD/Character &amp; Citizenship Education (CCE)</span></td><td style="border-top:none;border-left:none;width:178pt" width="237" class="xl64"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Mrs Pang-Ang Huei Minn</span></td><td style="border-top:none;border-left:none;width:196pt" width="261" class="xl65"><span style="mso-ansi-language:EN-SG" lang="EN-SG"><a href="mailto:ang_huei_minn@moe.edu.sg">ang_huei_minn@moe.edu.sg</a></span></td></tr><tr style="mso-height-source:userset;height:20.0pt;mso-yfti-irow:
+  6" height="27"><td style="height:20.0pt;border-top:none;
+  width:215pt" width="286" class="xl64" height="27"><span style="mso-ansi-language:EN-SG" lang="EN-SG">HOD/PE &amp; CCA</span></td><td style="border-top:none;border-left:none;width:178pt" width="237" class="xl64"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Mr Jasni Bin Mahmood Jasmin</span></td><td style="border-top:none;border-left:none;width:196pt" width="261" class="xl65"><span style="mso-ansi-language:EN-SG" lang="EN-SG"><a href="mailto:jasni_mahmood_jasmin@moe.edu.sg">jasni_mahmood_jasmin@moe.edu.sg</a></span></td></tr><tr style="mso-height-source:userset;height:20.0pt;mso-yfti-irow:
+  7" height="27"><td style="height:20.0pt;border-top:none;
+  width:215pt" width="286" class="xl64" height="27"><span style="mso-ansi-language:EN-SG" lang="EN-SG">HOD/ICT</span></td><td style="border-top:none;border-left:none;width:178pt" width="237" class="xl64"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Mdm Thuhaila Binte Sainy</span></td><td style="border-top:none;border-left:none;width:196pt" width="261" class="xl65"><span style="mso-ansi-language:EN-SG" lang="EN-SG"><a href="mailto:thuhaila_sainy@moe.edu.sg">thuhaila_sainy@moe.edu.sg</a></span></td></tr><tr style="mso-height-source:userset;height:20.0pt;mso-yfti-irow:
+  8;mso-yfti-lastrow:yes" height="27"><td style="height:20.0pt;border-top:none;
+  width:215pt" width="286" class="xl64" height="27"><span style="mso-ansi-language:EN-SG" lang="EN-SG">HOD/Student Management (Covering)</span></td><td style="border-top:none;border-left:none;width:178pt" width="237" class="xl64"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Mr Mohamad Rizal Bin Marof</span></td><td style="border-top:none;border-left:none;width:196pt" width="261" class="xl65"><span style="mso-ansi-language:EN-SG" lang="EN-SG"><a href="mailto:mohamad_rizal_marof@moe.edu.sg">mohamad_rizal_marof@moe.edu.sg</a></span></td></tr></tbody></table>
