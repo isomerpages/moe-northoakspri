@@ -3,43 +3,6 @@ title: Netball
 permalink: /cca/netball/
 description: ""
 third_nav_title: Co Curriculum
+variant: tiptap
 ---
-**About**
-
-The Netball CCA aims to foster the students’ passion and love for the sport and instil in them teamwork and sportsmanship. During games, all students play across all positions so that they can incorporate a variety of skills whilst following the rules of the game. During training, our students practice and reflect how they have demonstrated our school’s HEART values.
-
-Objectives:
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students will develop good motor skills such as running movement, balancing and ball control.
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students will be equip with basic Netball skills and knowledge in Netball game rules
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students will learn to play as a team and be a good team player.
-
-**Information**  
-
-Teachers in-charge:
-
-Mrs Juliana Lee (Main teacher-in-charge)
-
-Mdm Xu Wenli
-
-Mdm Ren Lina
-
-Mdm Saedah
-
-Ms Gayathry
-
-  
-
-**Programme and Activities in 2021**
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P4 &amp; P5 Girls are coached by an NROC Coach
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P6 Girls are coached by Mrs Juliana Lee (CCA stand-down for P6 in Semester 2)
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Netball Development Programme NETSSPLAY 2021 (for P6s) by Singapore Sports School in April 2021
-
-<br>
-<img src="/images/netball1.png" style="width:400px">
-<br>
+<p><strong>About</strong></p><p>The Netball CCA aims to foster the students’ passion and love for the sport and instil in them teamwork and sportsmanship. During games, all students play across all positions so that they can incorporate a variety of skills whilst following the rules of the game. During training, our students practice and reflect how they have demonstrated our school’s HEART values.</p><p>Objectives:</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students will develop good motor skills such as running movement, balancing and ball control.</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students will be equip with basic Netball skills and knowledge in Netball game rules</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students will learn to play as a team and be a good team player.</p><p><strong>Information</strong></p><p>Teachers in-charge:</p><p>Mrs Juliana Lee (Main teacher-in-charge)</p><p>Mdm Xu Wenli</p><p>Mdm Ren Lina</p><p>Ms Gayathry</p><p><strong>Programme and Activities in 2021</strong></p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P4 &amp; P5 Girls are coached by an NROC Coach</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P6 Girls are coached by Mrs Juliana Lee (CCA stand-down for P6 in Semester 2)</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Netball Development Programme NETSSPLAY 2021 (for P6s) by Singapore Sports School in April 2021</p><p><br></p><div class="isomer-image-wrapper"><img style="width:400px" height="auto" width="100%" src="/images/netball1.png"></div><p><br></p>
