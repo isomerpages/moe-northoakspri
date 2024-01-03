@@ -3,17 +3,6 @@ title: P2 Teachers
 permalink: /about-us/our-staff/p2-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: tiptap
 ---
-| Class of 2023 | Form Teacher| Form Teacher |
-| -------- | -------- | -------- |
-| P2 ANGSANA    | MS. GOH KAH PECK ROBIN goh_kah_peck_robin@moe.edu.sg | MS. NOOR FARZIANAH BINTE NOOR AZIZ noor_farzianah_noor_aziz@moe.edu.sg   |
-| P2 CYPRESS    | MS. LIM LAY TEE lim_lay_tee@moe.edu.sg    | MS. LOI MINGLI, MICHELLE loi_mingli_michelle@moe.edu.sg     |
-| P2 DAHLIA     | MDM. SAEDAH BTE SAAD saedah_saad@moe.edu.sg     | MR. POH YANG MING poh_yang_ming@moe.edu.sg    |
-| P2 EUCALYPTUS | MS. ANG LAY CHEN ang_lay_chen@moe.edu.sg | MR. MUHAMMAD GHAFUR BIN ABDUL SUKOR  muhammad_ghafur_abdul_sukor@moe.edu.sg   |
-| P2 JUNIPER     |MS. GAYATHRY D/O GURUSAMY RAMAYA gayathry_gurusamy_ramaya@moe.edu.sg    | MS. HO SHUYI CHERYL  ho_shuyi_cheryl@moe.edu.sg  |
-| P2 MULBERRY     | MRS. LUCY CHENG chow_peng_cheng@moe.edu.sg   | MR. ERIC TAN AIK HONG  eric_tan_aik_hong@moe.edu.sg  |
-
-
-
-
-Please allow teachers up to 3 days to reply to your email queries. <br>For urgent matters, please contact the teacher through the General Office at 6753 8835.</td>
+<table><tbody><tr><td rowspan="1" colspan="3"><p><strong>Primary 2 Form Teachers</strong></p></td></tr><tr><td rowspan="2" colspan="1"><p>2 Angsana</p></td><td rowspan="1" colspan="1"><p>Miss Nur Hafizhah Bibi Binte Haji M Omar&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mr Ang Kok Leong&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">nur_hafizhah_bibi@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">ang_kok_leong@moe.edu.sg</a></p></td></tr><tr><td rowspan="2" colspan="1"><p>2 Cypress</p></td><td rowspan="1" colspan="1"><p>Miss Khoo Wan Xin&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mdm Muslimah Binte Mohd Isahak&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">khoo_wan_xin@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">muslimah_mohd_isahak@moe.edu.sg</a></p></td></tr><tr><td rowspan="2" colspan="1"><p>2 Dhalia</p></td><td rowspan="1" colspan="1"><p>Mdm Soh Hui Leng&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mdm Noor Farzianah Binte Noor Aziz&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">soh_hui_leng@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">noor_farzianah_noor_aziz@moe.edu.sg</a></p></td></tr><tr><td rowspan="2" colspan="1"><p>2 Eucalyptus</p></td><td rowspan="1" colspan="1"><p>Mdm Leong Teng Eng April&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mrs Loy-Ng Choon Guat Jeralynn</p></td></tr><tr><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">leong_teng_eng@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">loyng_choon_guat_jeralynn@moe.edu.sg</a></p></td></tr></tbody></table><p>Please allow teachers up to 3 days to reply to your email queries. <br>For urgent matters, please contact the teacher through the General Office at 6753 8835.</p>

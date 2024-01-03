@@ -3,16 +3,6 @@ title: P4 Teachers
 permalink: /about-us/our-staff/p4-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: tiptap
 ---
-| Class of 2023 | Form Teacher | Form Teacher |
-| -------- | -------- | -------- |
-| P4 ANGSANA    | MISS  SHALINI D/O VICKRAMAN  shalini_vickraman@moe.edu.sg  | MS.  YUAN MEIZHEN yuan_meizhen@moe.edu.sg    |
-| P4 CYPRESS    | MDM. NURDIYANAH BTE SAMSURI nurdiyanah_samsuri@moe.edu.sg  | MDM. TAN WAI LI DOREEN tan_wai_li_doreen@moe.edu.sg  |
-| P4 DAHLIA     | MRS. THIAM KWAI LIN  fan_kwai_lin@moe.edu.sg | MS. TAN WOAN MEY tan_woan_mey@moe.edu.sg    |
-| P4 EUCALYPTUS    | MR. LAKSHMIKANTHAN  lakshmikanthan_s@moe.edu.sg   | MS. LEE SEOK HUI EVON  lee_seok_hui_evon@moe.edu.sg  |
-| P4 JUNIPER    | MISS ANG POH POH CHRISTINE ang_poh_poh_christine@moe.edu.sg | MR. NG CHAN SIONG ng_chan_siong@moe.edu.sg  |
-
-
-
-
-<br>Please allow teachers up to 3 days to reply to your email queries. For urgent matters, please contact the teacher through the General Office at 6753 8835.</td>
+<table><tbody><tr><td rowspan="1" colspan="3"><p><strong>Primary 4 Form Teachers</strong></p></td></tr><tr><td rowspan="2" colspan="1"><p>4 Angsana</p></td><td rowspan="1" colspan="1"><p>Ms Faith Yee Xue Ying&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mdm Nur Fadillah Fauzan</p></td></tr><tr><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">yee_xue_ying@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">nur_fadillah_fauzan@moe.edu.sg</a></p></td></tr><tr><td rowspan="2" colspan="1"><p>4 Cypress</p></td><td rowspan="1" colspan="1"><p>Mrs Chow-Choo Chai Leng Michelle&nbsp;</p></td><td rowspan="1" colspan="1"><p>Ms Tan Woan Mey&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">choo_chai_leng@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">tan_woan_mey@moe.edu.sg</a></p></td></tr><tr><td rowspan="2" colspan="1"><p>4 Dhalia</p></td><td rowspan="1" colspan="1"><p>Miss Jocelyn Ang Huiyue</p></td><td rowspan="1" colspan="1"><p>Mdm Nurdiyanah Binte Samsuri&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">jocelyn_ang_huiyue@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">nurdiyanah_samsuri@moe.edu.sg</a></p></td></tr><tr><td rowspan="2" colspan="1"><p>4 Eucalyptus</p></td><td rowspan="1" colspan="1"><p>Mdm Nirwani Binte Yusof&nbsp;</p></td><td rowspan="1" colspan="1"><p>Miss Ang Lay Chen&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">nirwani_yusof@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">ang_lay_chen@moe.edu.sg</a></p></td></tr></tbody></table><p><br>Please allow teachers up to 3 days to reply to your email queries. For urgent matters, please contact the teacher through the General Office at 6753 8835.</p>

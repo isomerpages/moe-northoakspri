@@ -3,23 +3,6 @@ title: P5 Teachers
 permalink: /about-us/our-staff/p5-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: tiptap
 ---
-| Class of 2023 | Form Teacher | Form Teacher |
-| -------- | -------- | -------- |
-| P5 ANGSANA    | MS. ANG PING PING CECILIA ang_ping_ping_cecilia@moe.edu.sg | MDM. HAMEETA D/O MYDEN PILLAI hameeta_myden_pillai@moe.edu.sg   |
-| P5 CYPRESS    | MR. ENRICO ELIFH ABDUL LATHIF MARICAN enrico_elifh_abdul_lathif@moe.edu.sg  |MS. JESS YONG SIO CHIN yong_sio_chin@moe.edu.sg  |
-| P5 DAHLIA     | MRS. CHUA CHIEW YIN  tang_chiew_yin@moe.edu.sg | MS. NG XIN YI               ng_xin_yi_p@moe.edu.sg |
-| P5 EUCALYPTUS    | MDM. FAZNIM BINTE MOHD NAZIR faznim_nazir@moe.edu.sg   | MISS ROCHELLE LOO YUH YAN  loo_yuh_yan@moe.edu.sg  |
-| P5 JUNIPER   | MRS.  JULIANA LEE juliana_sulaiman@moe.edu.sg   | MR. MUHAMAD SABAR BIN ADAM muhamad_sabar_adam@moe.edu.sg         
- | | MISS QUECK MEI HUI  queck_mei_hui@moe.edu.sg | 
-
-
-
-
-
-
-
-
-
-Please allow teachers up to 3 days to reply to your email queries. 
-For urgent matters, please contact the teacher through the General Office at 6753 8835.
+<table><tbody><tr><td rowspan="1" colspan="3"><p><strong>Primary 5 Form Teachers</strong></p></td></tr><tr><td rowspan="2" colspan="1"><p>5 Angsana</p></td><td rowspan="1" colspan="1"><p>Mrs Siva-Lim Hui San</p></td><td rowspan="1" colspan="1"><p>Mr Lakshmikanthan&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">lim_hui_san@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">lakshmikanthan_s@moe.edu.sg</a></p></td></tr><tr><td rowspan="2" colspan="1"><p>5 Cypress</p></td><td rowspan="1" colspan="1"><p>Mr Cyrus Poh Yang Ming&nbsp;</p></td><td rowspan="1" colspan="1"><p>Miss Ang Poh Poh Christine&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">poh_yang_ming@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">ang_poh_poh_christine@moe.edu.sg</a></p></td></tr><tr><td rowspan="2" colspan="1"><p>5 Dhalia</p></td><td rowspan="1" colspan="1"><p>Mrs Thiam-Fan Kwai Lin&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mr Toh Kian Chong</p></td></tr><tr><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">fan_kwai_lin@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">toh_kian_chong@moe.edu.sg</a></p></td></tr><tr><td rowspan="2" colspan="1"><p>5 Eucalyptus</p></td><td rowspan="1" colspan="1"><p>Miss Jacqueline Oh&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mr Sahairi Bin Ramri</p></td></tr><tr><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">oh_bee_tin@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">sahairi_ramri@moe.edu.sg</a></p></td></tr><tr><td rowspan="2" colspan="1"><p>5 Juniper</p></td><td rowspan="1" colspan="1"><p>Ms Shalini D/O Vickraman&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mr Enrico Elifh Abdul Lathif Marican&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">shalini_vickraman@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">enrico_elifh_abdul_lathif@moe.edu.sg</a></p></td></tr></tbody></table><p>Please allow teachers up to 3 days to reply to your email queries. For urgent matters, please contact the teacher through the General Office at 6753 8835.</p>
