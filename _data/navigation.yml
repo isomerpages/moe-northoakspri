@@ -6,6 +6,8 @@ links:
     collection: programmes
   - title: General Information
     collection: general-information
+  - title: Parents
+    collection: p1-parents-briefing-slides
   - title: e Open House
     url: https://sites.google.com/moe.edu.sg/northoaks-openhouse
     sublinks: []
