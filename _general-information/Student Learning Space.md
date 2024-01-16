@@ -2,35 +2,6 @@
 title: Student Learning Space
 permalink: /parents/student-learning-space/
 description: ""
+variant: tiptap
 ---
-Students can access Student Learning Space (SLS) for the learning packages at&nbsp;[SLS](https://vle.learning.moe.edu.sg/login)&nbsp;.  
-  
-User guide for SLS Login trouble-shooting:  [User Guide](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html)&nbsp;  
-
-&nbsp; &nbsp; 
-**SLS Support for HBL**  
-
-**School Operating Hours**&nbsp;&nbsp;&nbsp;  
-During school operating hours, students should contact the&nbsp;**School-based Helpline**&nbsp;for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments. &nbsp;&nbsp;  
-  
-**School-based Helpline: 67538835&nbsp;  
-Mondays - Fridays: 8:00 am - 4:00 pm**&nbsp;&nbsp;&nbsp;  
-  
-
-[](https://form.gov.sg/5e801afd883ba500112336f1)
-
-Alternatively, you may also alert the school administrators through the following [link](https://go.gov.sg/nkpsslshelp)
-<br>
-<br>
-<img src="/images/qrcodenkpsslshelp.png" style="width:500px">
-
-&nbsp;  
-**Non-School Operating Hours**&nbsp;&nbsp;&nbsp;  
-Students can only contact the&nbsp;**SLS Helpdesk**&nbsp;outside the school operating hours. &nbsp;&nbsp;  
-  
-SLS Helpdesk: 6702 6513 &nbsp;&nbsp;  
-  
-Mondays - Fridays: 4:00 pm - 9:00 pm&nbsp;  
-Saturdays: 9:00 am - 9:00 pm&nbsp;  
-**Closed on Sundays &amp; Public Holidays**  
-Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
+<p>Students can access Student Learning Space (SLS) for the learning packages at&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS</a>&nbsp;.</p><p>User guide for SLS Login trouble-shooting: <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student/" rel="noopener noreferrer nofollow" target="_blank">User Guide</a>&nbsp;</p><p>&nbsp; &nbsp; <strong>SLS Support for HBL</strong></p><p><strong>School Operating Hours</strong>&nbsp;&nbsp;&nbsp;<br>During school operating hours, students should contact the&nbsp;<strong>School-based Helpline</strong>&nbsp;for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments. &nbsp;&nbsp;</p><p><strong>School-based Helpline: 67538835&nbsp;<br>Mondays - Fridays: 8:00 am - 4:00 pm</strong>&nbsp;&nbsp;&nbsp;</p><p></p><p>Alternatively, you may also alert the school administrators through the following <a href="https://go.gov.sg/nkpsslshelp" rel="noopener noreferrer nofollow" target="_blank">link</a> <br><br></p><div class="isomer-image-wrapper"><img style="width:500px" height="auto" width="100%" src="/images/qrcodenkpsslshelp.png"></div><p>&nbsp;<br><strong>Non-School Operating Hours</strong>&nbsp;&nbsp;&nbsp;<br>Students can only contact the&nbsp;<strong>SLS Helpdesk</strong>&nbsp;outside the school operating hours. &nbsp;&nbsp;</p><p>SLS Helpdesk: 6702 6513 &nbsp;&nbsp;</p><p>Mondays - Fridays: 4:00 pm - 9:00 pm&nbsp;<br>Saturdays: 9:00 am - 9:00 pm&nbsp;<br><strong>Closed on Sundays &amp; Public Holidays</strong><br>Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</p>
