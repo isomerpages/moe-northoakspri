@@ -2,7 +2,6 @@
 title: 2023 School Bus Service
 permalink: /other-information/school-bus-service/permalink/
 description: ""
-third_nav_title: School Bus Service
 ---
 **2023 School Bus Services**
 
