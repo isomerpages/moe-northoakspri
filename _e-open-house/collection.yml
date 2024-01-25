@@ -1,0 +1,10 @@
+collections:
+  e-open-house:
+    output: true
+    order:
+      - E brochure/.keep
+      - E brochure/e Brochure.md
+      - E brochure/Learning and Leading with Heart.md
+      - E brochure/Our Signature Programmes.md
+      - E brochure/Celebrating Our Achievements.md
+      - E brochure/Embracing the future.md

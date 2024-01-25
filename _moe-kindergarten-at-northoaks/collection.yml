@@ -1,0 +1,5 @@
+collections:
+  moe-kindergarten-at-northoaks:
+    output: true
+    order:
+      - MOE Kindergarten @ Northoaks.md
