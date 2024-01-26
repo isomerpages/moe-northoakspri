@@ -72,7 +72,9 @@ check for vacancies..</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="6" src="/images/6.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="7" src="/images/7.jpg">
+</div>
 <p>Click on the links below to discover the learning environment at <strong>MK @ Northoaks</strong>
 </p>
 <table>
