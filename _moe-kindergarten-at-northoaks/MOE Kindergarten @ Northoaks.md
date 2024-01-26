@@ -75,30 +75,32 @@ check for vacancies..</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="7" src="/images/7.jpg">
 </div>
-<p>ML corner</p>
+<p><strong>ML corner</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="8" src="/images/8.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="9" src="/images/9.jpg">
 </div>
-<p>TL corner</p>
+<p><strong>TL corner</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="10" src="/images/10.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="11" src="/images/11.jpg">
 </div>
-<p>CL Corner</p>
-<p></p>
+<p><strong>CL Corner</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="12" src="/images/12.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="13" src="/images/13.jpg">
 </div>
-<p>Kcare classroom</p>
+<p><strong>Kcare classroom</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="14" src="/images/14.jpg">
 </div>
