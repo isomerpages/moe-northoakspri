@@ -54,18 +54,18 @@ check for vacancies..</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mk classroom" src="/images/Screenshot_2024_01_26_174517.jpg">
 </div>
-<p></p>
+<p>MK classrooms are equipped with children-sized tables and chairs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2" src="/images/2.jpg">
 </div>
-<p></p>
+<p>Children’s works are clearly displayed to brighten up the classrooms!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="3" src="/images/3.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="4" src="/images/4.jpg">
 </div>
-<p></p>
+<p>Cubby holes for each child to keep their shoes and bags safely.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="5" src="/images/5.jpg">
 </div>
@@ -76,7 +76,6 @@ check for vacancies..</p>
 <img style="width: 100%" height="auto" width="100%" alt="7" src="/images/7.jpg">
 </div>
 <p>ML corner</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="8" src="/images/8.jpg">
 </div>
