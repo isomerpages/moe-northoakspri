@@ -99,7 +99,13 @@ check for vacancies..</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="13" src="/images/13.jpg">
 </div>
-<p></p>
+<p>Kcare classroom</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="14" src="/images/14.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15" src="/images/15.jpg">
+</div>
 <p>Click on the links below to discover the learning environment at <strong>MK @ Northoaks</strong>
 </p>
 <table>
@@ -140,7 +146,4 @@ check for vacancies..</p>
 </table>
 <p>
 <br>Office Tel: 6481 2018, Fax: 64813106</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2" src="/images/2.jpg">
-</div>
 <p></p>
