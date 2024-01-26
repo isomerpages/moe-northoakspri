@@ -91,7 +91,14 @@ check for vacancies..</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="11" src="/images/11.jpg">
 </div>
+<p>CL Corner</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="12" src="/images/12.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="13" src="/images/13.jpg">
+</div>
 <p></p>
 <p>Click on the links below to discover the learning environment at <strong>MK @ Northoaks</strong>
 </p>
