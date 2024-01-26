@@ -47,8 +47,13 @@ our 2024 Open House.</p>
 Outside this registration period, parents can contact the MK directly to
 check for vacancies..</p>
 <p><a href="https://go.gov.sg/mk-register" rel="noopener noreferrer nofollow" target="_blank">Register </a>today!</p>
-<p><a href="https://drive.google.com/drive/folders/1SCTn9uTfl2VQGoqTOmdChYt8AIy0bzfy?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Our Learning Environment</a>
+<h4>Our Learning Environment</h4>
+<p><strong>MK Classrooms</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mk classroom" src="/images/Screenshot_2024_01_26_174517.jpg">
+</div>
 <p>Click on the links below to discover the learning environment at <strong>MK @ Northoaks</strong>
 </p>
 <table>
@@ -67,7 +72,7 @@ check for vacancies..</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://goo.gl/maps/4as3HikL2GZE6eWc9" rel="noopener noreferrer nofollow" target="_blank">https://goo.gl/maps/4as3HikL2GZE6eWc9</a>
+<p><a href="https://goo.gl/maps/4as3HikL2GZE6eWc9" rel="noopener noreferrer nofollow" target="_blank">https://goo.gl/maps/4as3HikL2GZE6eWc9</a> 
 <br>
 <br><a href="https://goo.gl/maps/4nMbwaTbwzA5w8uX6" rel="noopener noreferrer nofollow" target="_blank">https://goo.gl/maps/4nMbwaTbwzA5w8uX6</a>
 </p>
@@ -79,7 +84,7 @@ check for vacancies..</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://goo.gl/maps/iRJ1prMnYHpYb8Hs6" rel="noopener noreferrer nofollow" target="_blank">https://goo.gl/maps/iRJ1prMnYHpYb8Hs6</a>
+<p><a href="https://goo.gl/maps/iRJ1prMnYHpYb8Hs6" rel="noopener noreferrer nofollow" target="_blank">https://goo.gl/maps/iRJ1prMnYHpYb8Hs6</a> 
 <br>
 <br><a href="https://goo.gl/maps/HSrPVp6rbqK7fh4S7" rel="noopener noreferrer nofollow" target="_blank">https://goo.gl/maps/HSrPVp6rbqK7fh4S7</a>
 </p>
