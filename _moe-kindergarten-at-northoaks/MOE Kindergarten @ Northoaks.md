@@ -83,6 +83,15 @@ check for vacancies..</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="9" src="/images/9.jpg">
 </div>
+<p>TL corner</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="10" src="/images/10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="11" src="/images/11.jpg">
+</div>
+<p></p>
 <p></p>
 <p>Click on the links below to discover the learning environment at <strong>MK @ Northoaks</strong>
 </p>
