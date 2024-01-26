@@ -54,6 +54,7 @@ check for vacancies..</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mk classroom" src="/images/Screenshot_2024_01_26_174517.jpg">
 </div>
+<p></p>
 <p>Click on the links below to discover the learning environment at <strong>MK @ Northoaks</strong>
 </p>
 <table>
