@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Learning for Life Programme.md
       - Curriculum/.keep
       - Curriculum/English Language.md
       - Curriculum/Mathematics.md
@@ -27,3 +26,4 @@ collections:
       - Character Development/MOE Sexuality Education.md
       - Character Development/Social Studies.md
       - Applied Learning Programme.md
+      - Learning for Life Programme.md
