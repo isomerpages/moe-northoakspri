@@ -2,7 +2,6 @@
 title: Learning for Life Programme
 permalink: /about-us/learning-for-life-programme/
 description: ""
-third_nav_title: Learning for Life Programme
 ---
 ### Learning for Life Programme (LLP)<br>STRIVE@Northoaks
 ---------------------------------------------------
