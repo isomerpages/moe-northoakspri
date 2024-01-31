@@ -36,7 +36,7 @@ where every space is a learning space.</p>
 </tr>
 </tbody>
 </table>
-<p>Please view the <a href="/files/For_Website_MKNK_MKOH_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">MK website</a> for
+<p>Please view the <a href="/files/For_Website_MKNK_MKOH_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">briefing slides</a> for
 our 2024 Open House.</p>
 <p><strong>MK Registration Exercise: 16 February 2024, 9.00am, - 20 February 2024, 4.00pm</strong>.
 <br>
