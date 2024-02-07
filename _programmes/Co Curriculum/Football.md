@@ -5,4 +5,67 @@ description: ""
 third_nav_title: Co Curriculum
 variant: tiptap
 ---
-<p><strong>About</strong> <br>Football is a sport that provides experiential opportunities for students to develop a strong character that portrays perseverance, determination, discipline, resilience and teamwork which are aligned to our school’s H.E.A.R.T values. Through the guidance and expertise of our dedicated and experienced coaches and teachers, we aim to develop the passion for football in our young players.&nbsp;</p><p>We do not only focus on developing and honing football technical skills of our players, such as dribbling, passing, tackling and football strategy, but also to develop them into responsible leaders and&nbsp; active contributors to the society.</p><p><strong>Teachers in-charge:</strong>&nbsp; <br>Mr Lakshmikanthan (Main teacher-in-charge) <br>Mr Sahairi<br>Mdm Saedah<br>Ms Shalini <br>Mdm Noor Aini<br>Ms Evon Lee</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/football1.png"></div><p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>About the CCA</p>
+<p><strong><u>FOOTBALL CCA</u></strong>
+</p>
+<p>- To instill in our players skills for life, such as leadership, character
+and sportsmanship</p>
+<p>- To groom talented players and to identify potential talents</p>
+<p>- To work together as a team to foster team spirit</p>
+<p>- To develop the players to become effective leaders and communicators
+on the field.</p>
+<p>- To provide opportunities for mass participation.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Competitions</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NATIONAL SCHOOL GAMES (NSG)&nbsp;
+- NATIONAL&nbsp; JUNIOR DIVISION BOYS COMPETITION 2023</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Achievements or Participation</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2nd Position in National School
+Games (Junior Division; Classification round)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1st Position in National School
+Games (Junior Division; Tier 4)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="football" src="/images/football.png">
+</div>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers in Charge</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MR KANTHAN</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MS EVON LEE</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MR SAHAIRI</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MS SHALINI</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MDM NOOR AINI</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MDM SAEDAH</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
