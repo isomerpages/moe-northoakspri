@@ -9,8 +9,6 @@ third_nav_title: Co Curriculum
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>About the CCA</strong>
-</p>
 <p>Choral singing is not one of life’s frills. It is like a great oak that
 rises up from the centre of the human race and spreads its branches everywhere…
 &nbsp;It reaches to the depths of humanity, our sense of community. It
