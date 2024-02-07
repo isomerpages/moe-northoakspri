@@ -180,26 +180,3 @@ spirit of the event.</p>
 </tbody>
 </table>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="169" width="165" alt="A group of people standing in front of a projector screen
-
-Description automatically generated">
-</div>
-<p>&nbsp;</p>
-<p></p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p></p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
