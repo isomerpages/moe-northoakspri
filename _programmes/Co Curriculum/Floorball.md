@@ -9,13 +9,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>About the CCA</u></strong>
-</p>
-<p><strong>&nbsp;</strong>Floorball is a sport with five players and a goalkeeper
-in each team. It is played indoors with sticks and a plastic ball with
-holes. Matches are played in three periods. In participating in floorball
-CCA, we want to grow students into respectful athletes, valuing teamwork
-and embodied with good sportsmanship and school values.</p>
+<p>Floorball is a sport with five players and a goalkeeper in each team.
+It is played indoors with sticks and a plastic ball with holes. Matches
+are played in three periods. In participating in floorball CCA, we want
+to grow students into respectful athletes, valuing teamwork and embodied
+with good sportsmanship and school values.</p>
 </td>
 </tr>
 </tbody>
