@@ -9,7 +9,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>About the CCA</p>
 <p><strong><u>FOOTBALL CCA</u></strong>
 </p>
 <p>- To instill in our players skills for life, such as leadership, character
