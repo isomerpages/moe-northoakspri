@@ -9,8 +9,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>About the CCA</strong>
-</p>
 <p>The Environment Science Club was established in January 2017. It is made
 up of environment enthusiasts who champion the school’s efforts in conserving
 the environment within and beyond the school. In partnership with the World
