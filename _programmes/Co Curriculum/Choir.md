@@ -42,7 +42,8 @@ at Ngee Ann Primary with Waterway Primary in October 2023</p>
 <p><strong>Teachers in Charge</strong>
 </p>
 <p>Mrs Mable James</p>
-<p></p>
+<p>Mrs April Leong</p>
+<p>Mdm NurDiyanah</p>
 </td>
 </tr>
 </tbody>
