@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Co Curriculum
 variant: tiptap
 ---
-<p><strong>ABOUT THE CCA</strong>
-</p>
 <p>The Art Club is, and has always been, the CCA of choice for students with
 the love and passion for the Visual Arts. Our members get to enjoy an enriching
 experience as they learn art theories and put these theories to good use
