@@ -5,4 +5,62 @@ description: ""
 third_nav_title: Co Curriculum
 variant: tiptap
 ---
-<p><strong>About</strong></p><p>The Netball CCA aims to foster the students’ passion and love for the sport and instil in them teamwork and sportsmanship. During games, all students play across all positions so that they can incorporate a variety of skills whilst following the rules of the game. During training, our students practice and reflect how they have demonstrated our school’s HEART values.</p><p>Objectives:</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students will develop good motor skills such as running movement, balancing and ball control.</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students will be equip with basic Netball skills and knowledge in Netball game rules</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students will learn to play as a team and be a good team player.</p><p><strong>Information</strong></p><p>Teachers in-charge:</p><p>Mrs Juliana Lee (Main teacher-in-charge)</p><p>Mdm Xu Wenli</p><p>Mdm Ren Lina</p><p>Ms Gayathry</p><p><strong>Programme and Activities in 2021</strong></p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P4 &amp; P5 Girls are coached by an NROC Coach</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P6 Girls are coached by Mrs Juliana Lee (CCA stand-down for P6 in Semester 2)</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Netball Development Programme NETSSPLAY 2021 (for P6s) by Singapore Sports School in April 2021</p><p><br></p><div class="isomer-image-wrapper"><img style="width:400px" height="auto" width="100%" src="/images/netball1.png"></div><p><br></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Netball</u></strong>
+</p>
+<p>The Netball CCA provides an extraordinary opportunity for our girls to
+immerse themselves in the fast-paced and exhilarating world of netball.
+We aim to nurture personal growth, foster teamwork, instill sportsmanship
+and promote a love for the game.</p>
+<p>The pupils will also learn to embrace the values of excellence and fair
+play. Every week, the girls are given training in basic ball skills, stamina
+building, agility and coordination exercises under the close supervision
+of the coach and teachers-in-charge.</p>
+<p>The girls are given exposure to represent the school in various competitions
+to maximise their potential.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="netball1" src="/images/IMG_5019.JPEG">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="netball2" src="/images/IMG_5630.JPEG">
+</div>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Learning Journeys / Competitions (if any)</strong>
+</p>
+<p>National School Games</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers in Charge</strong>
+</p>
+<p>Mrs Juliana Lee</p>
+<p>Mrs Gayathry Guru</p>
+<p>Mdm Xu Wenli</p>
+<p>Mdm Ren Lina</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p>
+<br>
+</p>
