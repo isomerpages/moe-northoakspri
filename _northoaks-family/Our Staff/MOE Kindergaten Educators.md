@@ -23,7 +23,7 @@ variant: tiptap
 <p>Ms Jezmin Mumtaz Binte Juseri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Jezmin_mumtaz_juseri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jezmin_mumtaz_juseri@schools.gov.sg</a>
+<p><a href="mailto:Jezmin_mumtaz_juseri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jezmin_mumtaz_juseri@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
