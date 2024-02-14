@@ -79,14 +79,15 @@ shoes and bags.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="13" src="/images/13.jpg">
 </div>
-<p>Kcare classroom</p>
+<p>KCare classroom</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="14" src="/images/14.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="15" src="/images/15.jpg">
 </div>
-<p>Click on the links below to discover the learning environment at <strong>MK @ Northoaks</strong>
+<p>Click on the links below to discover the outdoor learning environment
+at <strong>MK @ Northoaks</strong>
 </p>
 <table>
 <tbody>
