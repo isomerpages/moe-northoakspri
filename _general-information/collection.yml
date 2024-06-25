@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - School Canteen Advertisement/School Canteen Advertisement.md
       - School Canteen Advertisement/.keep
       - School Information.md
       - Student Learning Space.md
