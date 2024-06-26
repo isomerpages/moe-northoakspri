@@ -2,8 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Muslim Cooked Food/School Canteen Advertisement.md
-      - Muslim Cooked Food/.keep
       - School Information.md
       - Student Learning Space.md
       - Useful Links.md
