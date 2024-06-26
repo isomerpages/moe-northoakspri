@@ -26,8 +26,8 @@ application form:</p>
 <p></p>
 <p>·&nbsp;&nbsp;&nbsp; Photocopy of the NRIC (front and back)</p>
 <p>·&nbsp;&nbsp;&nbsp; List of proposed menu and pricing for all items</p>
-<p>·&nbsp;&nbsp;&nbsp; Photocopy of relevant certificates such as</p>
-<p>Basic Food Hygiene Course, etc.</p>
+<p>·&nbsp;&nbsp;&nbsp; Photocopy of relevant certificates such as Basic Food
+Hygiene Course, etc.</p>
 <p>2.&nbsp;&nbsp;&nbsp; Submit the completed application form and documents
 to the School’s General Office.</p>
 <p></p>
