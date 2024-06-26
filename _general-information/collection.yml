@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Muslim Cooked Food/.keep
-      - School Canteen Advertisement.md
       - School Information.md
       - Student Learning Space.md
       - Useful Links.md
