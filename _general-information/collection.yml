@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Western & Japanese Food/.keep
       - School Canteen Advertisement/Muslim Cooked Food.md
       - School Canteen Advertisement/.keep
       - School Information.md
