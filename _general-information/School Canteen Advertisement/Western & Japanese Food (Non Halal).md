@@ -60,7 +60,7 @@ also request for a hardcopy from the School’s General Office.</p>
 <p>·&nbsp;&nbsp;&nbsp;<a href="/files/Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"> Application Form</a>
 </p>
 <p></p>
-<p>2.&nbsp;&nbsp;&nbsp; Attached the following documents together with the
+<p>2.&nbsp;&nbsp;&nbsp; Attach the following documents together with the
 application form:</p>
 <p></p>
 <p>·&nbsp;&nbsp;&nbsp; Photocopy of the NRIC (front and back)</p>
