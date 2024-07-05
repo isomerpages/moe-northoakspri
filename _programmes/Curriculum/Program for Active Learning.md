@@ -27,8 +27,8 @@ and teamwork.</p>
 </ul>
 <p>&gt; o&nbsp;&nbsp;&nbsp;Dance</p>
 <p>&gt; o&nbsp;&nbsp;&nbsp;Drama</p>
-<p>&gt; o&nbsp;&nbsp;&nbsp;Music (New in 2021) &gt; &gt; o&nbsp; &nbsp;Visual
-Arts</p>
+<p>&gt; o&nbsp;&nbsp;&nbsp;Music (New in 2021) &gt;</p>
+<p>&gt; o&nbsp; &nbsp;Visual Arts</p>
 <p>
 <br>
 </p>
