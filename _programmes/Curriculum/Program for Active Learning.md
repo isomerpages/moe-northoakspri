@@ -45,7 +45,7 @@ Arts</p>
 <p>
 <br>
 </p>
-<p>/////3 videos to be uploaded on YouTube</p>
+<p></p>
 <p><strong>P1 Music (New in 2021)</strong>
 </p>
 <p>This year, the school has designed the P1 PAL Music module with the aim
@@ -58,10 +58,7 @@ to listen, sing, dance, play and express themselves musically.</p>
 <div class="isomer-image-wrapper">
 <img style="width:400px" height="auto" width="100%" src="/images/PAL3.png">
 </div>
-<p>
-<br>
-</p>
-<p>1 video to be uploaded on YouTube</p>
+<p></p>
 <p>
 <br>
 </p>
