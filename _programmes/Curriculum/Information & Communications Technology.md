@@ -19,11 +19,10 @@ on three key areas:</p>
 help students confidently navigate and use Educational Technology tools,
 including Student Learning Space (SLS).
 <br>
-<br>
 </p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<strong>Fostering a safe online environment</strong> by
 educating students about cyber safety and responsible internet use.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Integrating innovative technology solutions</strong> by
 empowering our teachers with professional development progammes focused
 on leveraging EdTech tools and Student Learning Space in lesson design
@@ -60,7 +59,7 @@ access the SLS Login Page.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict3v1.png">
 </div>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Code for Fun Programme by IMDA for Primary 6 students</strong>
 </p>
 <p>The Code for Fun Programme is a 10-hour enrichment programme that will
