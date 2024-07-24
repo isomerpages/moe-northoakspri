@@ -121,7 +121,7 @@ to appreciate pitch, rhythm and beats through the learning</p>
 <li>
 <p>To equip our students with&nbsp;<strong>Social Emotional Learning (SEL)</strong>&nbsp;and
 to reinforce the school values&nbsp;of&nbsp;<strong>‘H.E.A.R<sup>2</sup>.T’</strong>&nbsp;(Honesty,
-Empathy, Appreciation, Respect, Responsible, Tenacity).
+Empathy, Appreciation, Respect, Responsibility, Tenacity).
 <br>
 </p>
 <div class="isomer-image-wrapper">
