@@ -5,20 +5,21 @@ description: ""
 third_nav_title: Character Development
 variant: tiptap
 ---
-<h3>Leading and Learning with H.E.A.R.T.</h3>
-<p><strong>Mornings Start with H.E.A.R.T.</strong>
+<h3>Leading and Learning with H.E.A.R<sup>2</sup>.T.</h3>
+<p><strong>Mornings Start with H.E.A.R<sup>2</sup>.T.</strong>
 </p>
 <p>The school believes strongly in providing our students opportunities to
 lead and learn with H.E.A.R<sup>2</sup>.T. (Honesty, Empathy, Appreciation,
-Respect, Responsibility and Tenacity). Our Morning Starts with H.E.A.R<sup>2</sup>.T. <s>a </s>pre-assembly&nbsp;programme&nbsp;enhances
-the authentic learning&nbsp;of values and social skills through inspirational
-stories and current affairs from the news and social media. In this&nbsp;programme,
-students are given the opportunity to discuss age-appropriate contemporary
-issues such as the COVID-19&nbsp;pandemic, environmental conservation and
-social inclusivity with their Form Teachers.</p>
-<p><strong>Leading with H.E.A.R.T.</strong>
+Respect, Responsibility and Tenacity). Our Morning Starts with H.E.A.R<sup>2</sup>.T.
+a pre-assembly&nbsp;programme&nbsp;enhances the authentic learning&nbsp;of
+values and social skills through inspirational stories and current affairs
+from the news and social media. In this&nbsp;programme, students are given
+the opportunity to discuss age-appropriate contemporary issues such as
+the COVID-19&nbsp;pandemic, environmental conservation and social inclusivity
+with their Form Teachers.</p>
+<p><strong>Leading with H.E.A.R<sup>2</sup>.T.</strong>
 </p>
-<p>In NKPS, we beleive that every student is a potential leader.
+<p>In NKPS, we believe that every student is a potential leader.
 <br>
 </p>
 <p>The school recognises that&nbsp;one must first be able to&nbsp;lead&nbsp;oneself
@@ -40,8 +41,8 @@ Form Teachers Guidance Periods (FTGP) and pre-assembly&nbsp;programmes.</p>
 </p>
 <p>We also believe in the continuous development of our tier 2 and 3 student
 leaders. Workshops and on-the-job training are organised to enhance the
-students' capacity to influence the others to upload H.E.A.R.T. values
-and practise the 7 habits of TLiM in school.
+students' capacity to influence the others to upload H.E.A.R<sup>2</sup>.T.
+values and practise the 7 habits of TLiM in school.
 <br>
 <br>
 </p>
