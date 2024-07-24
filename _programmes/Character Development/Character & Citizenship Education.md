@@ -66,16 +66,16 @@ levels were&nbsp;organized&nbsp;in a progressive manner to focus on self
 and family, school and eventually the wider community.
 <br>
 </p>
-<p><strong>Heart in Action@Home</strong>
+<p><strong>H.E.A.R<sup>2</sup>.T. in Action@Home</strong>
 </p>
-<p>The Heart in&nbsp;Action@Home&nbsp;is part of our students’ Values in
-Action&nbsp;programme. It involves parents or guardians as partners in
-supporting our student’s character development efforts. This&nbsp;programme,
+<p>The H.E.A.R<sup>2</sup>.T. in&nbsp;Action@Home&nbsp;is part of our students’
+Values in Action&nbsp;programme. It involves parents or guardians as partners
+in supporting our student’s character development efforts. This&nbsp;programme,
 which is an extension of the daily cleaning&nbsp;programme&nbsp;in school,
 encourages students to play a more active role at home during the school
-holidays. Through the activities and reflections in the Serve with H.E.A.R.T.
+holidays. Through the activities and reflections in the Serve with H.E.A.R<sup>2</sup>.T.
 logbook, students will be able to put into practice and&nbsp;internalise&nbsp;the
-values, skills and the&nbsp;TLiM&nbsp;habits, outside the school setting.
+values and skills, outside the school setting.
 <br>
 </p>
 <p><strong>Values in Action</strong>
