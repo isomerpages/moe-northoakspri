@@ -67,9 +67,7 @@ Singapore and the World.</p>
 <p>
 <br>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <h3>The SchoolARTS@SCH project</h3>
 <p>The SchoolARTS@SCH project started in 2019 with&nbsp;14 schools and has
 seen a steady increase in the&nbsp;involvement of different schools since
@@ -93,10 +91,7 @@ use artworks to beautify&nbsp;their lift lobbies and common corridors.</p>
 <br>
 </p>
 <p>Framework for Teaching and Learning in the General Music Programme (GMP)</p>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <p><strong>Aim of GMP</strong>
 </p>
 <p>1. Develop awareness and appreciation of music in local and global cultures.
