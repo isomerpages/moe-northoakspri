@@ -23,7 +23,7 @@ variant: tiptap
 the innate ability to create, enjoy and appreciate art. Most important
 of all, we believe that everyone has the potential to develop into passionate
 &amp; confident young artists. This is why we call our art curriculum the&nbsp;<strong><em>Young Artists' Programme</em></strong>.&nbsp;</p>
-<p>Taking reference from MOE's new 2018 Art Syllabus, our art modules are
+<p>Taking reference from MOE's new 2024 Art Syllabus, our art modules are
 based on the 3 broad focus areas of 'Self&nbsp;<em>and Immediate Environment', 'Singapore in Past, Present and Future' and 'The World and the Region We Live in'.</em>&nbsp;For
 each of the modules, students draw inspirations from (MOE-approved) artworks
 by local and international students and artists and learn art history &amp;
@@ -48,11 +48,6 @@ Singapore and the World.</p>
 </p>
 <p><em>Our Pupils in Action.....</em>
 <br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:430px" height="auto" width="100%" src="/images/aest4.png">
-</div>
-<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -125,8 +120,8 @@ to appreciate pitch, rhythm and beats through the learning</p>
 </li>
 <li>
 <p>To equip our students with&nbsp;<strong>Social Emotional Learning (SEL)</strong>&nbsp;and
-to reinforce the school values&nbsp;of&nbsp;<strong>‘H.E.A.R.T’</strong>&nbsp;(Honesty,
-Empathy, Appreciation, Respect, Tenacity).
+to reinforce the school values&nbsp;of&nbsp;<strong>‘H.E.A.R<sup>2</sup>.T’</strong>&nbsp;(Honesty,
+Empathy, Appreciation, Respect, Responsible, Tenacity).
 <br>
 </p>
 <div class="isomer-image-wrapper">
