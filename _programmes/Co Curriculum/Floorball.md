@@ -21,15 +21,6 @@ with good sportsmanship and school values.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fb1" src="/images/fb1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fb2" src="/images/fb2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fb3" src="/images/fb3.png">
-</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
