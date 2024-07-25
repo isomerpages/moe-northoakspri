@@ -2,14 +2,55 @@
 title: School Philosophy and VMH
 permalink: /about-us/school-philosophy/
 description: ""
+variant: tiptap
 ---
-<img src="/images/philosophy-image.png" style="width:300px">
-
-
-**School Philosophy**
-<p style="text-align: justify">Every child matters at Northoaks Primary School. The philosophy of the school is to provide a holistic and meaningful education with character building as the focal point for every child who enters the school. The name of the school conjures up an image of a forest full of oaks which are strong, tall, beautiful and unique. With a safe, respectful, caring and positive learning environment, our children at Northoaks too will grow to possess these similar qualities. With a sprawling school ground and lush greenery around the school, we envisage Northoaks Primary to be a school within the garden – where every child is like a young plant, passing through the hands of the teacher as a gardener, nurturing every child and taking the responsibility for the development of the individual child.</p>
-
-**School Values**
-
-![](/images/visionmissionvalue1.png)
-![](/images/vmh2.png)
+<p><strong>NKPS Philosophy of Care and Growth</strong>
+</p>
+<p>The NKPS Philosophy of Care embraces both the present and future needs
+of our students. While meeting the pastoral care needs of our students
+is key to ensuring that they maximise their school experience, it is also
+important that we prepare our students well for the opportunities and challenges
+of the future. This entails:</p>
+<p>i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+placing emphasis on developing a strong values system in them;</p>
+<p>ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+implementing a curriculum that engages them;</p>
+<p>iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+building their resilience and adaptability;</p>
+<p>iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+identifying and growing their strengths.</p>
+<p></p>
+<p>This ensures we set the foundation for our students to continue to thrive
+as learners and leaders who remained deeply rooted morally, beyond the
+gates of the school.</p>
+<p></p>
+<p><strong>Vision</strong>: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Future-ready Learners and Leaders with H.E.A.R<sup>2</sup>.T.</p>
+<p><strong>Mission (I<em><sup>3</sup></em><sup> </sup>): &nbsp;&nbsp;&nbsp; </strong>Instilling
+Core Values, Igniting the Love <u>of </u>Learning, Inspiring Excellence</p>
+<p><strong>Motto: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>Grow
+&amp; Glow</p>
+<p><strong>Values</strong>: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Honesty, Empathy, Appreciation, Respect &amp; Responsibility, and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Tenacity (H.E.A.R<sup>2</sup>.T.)</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="honest" src="/images/Screenshot_2024_07_24_071228.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="empathy" src="/images/Screenshot_2024_07_24_071317.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="appreciate" src="/images/Screenshot_2024_07_24_071329.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="res" src="/images/Screenshot_2024_07_24_071342.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="res1" src="/images/Screenshot_2024_07_24_071351.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="tenacity" src="/images/Screenshot_2024_07_24_073046.png">
+</div>
+<p></p>

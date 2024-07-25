@@ -68,5 +68,29 @@ students to computational thinking through coding, inventive thinking through
 digital making, and emerging technologies. During the sessions, students
 will get first-hand experiences with robotic kits and/or microcontrollers.
 They will also be exposed to emerging technologies such as Artificial Intelligence</p>
-<p>&nbsp;</p>
+<p><strong>Cyberwellness</strong>
+</p>
+<p>The school aims to develop students to become responsible digital users.
+It involves an understanding of online behaviour and awareness of how to
+protect oneself in cyberspace.</p>
+<p></p>
+<p>This year, our school took part in Safer Internet Day, an annual global
+initiative which aims to promote safer and more responsible use of online
+technology and mobile devices among children and young people.</p>
+<p></p>
+<p>Students participated in a Screen-Free weekend where they took the time
+to remove themselves from technology and engaged in screen-free alternatives
+such as playing board games and taking a walk in the park with their parents.</p>
+<p></p>
+<p>The school also partnered Cyber Security Agency (CSA) to bring an engaging
+assembly programme and mobile booths to the students. Through the assembly,
+students learnt good cyber hygiene such as not sharing passwords and being
+safe online. Students put their knowledge to the test to win prizes in
+the mobile pop-up booths.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CSA2" src="/images/Screenshot_2024_07_24_082026.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CSA1" src="/images/Screenshot_2024_07_24_082103.png">
+</div>
 <p></p>
