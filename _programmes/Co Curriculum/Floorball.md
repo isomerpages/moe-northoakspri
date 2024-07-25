@@ -5,7 +5,10 @@ description: ""
 third_nav_title: Co Curriculum
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -27,32 +30,38 @@ with good sportsmanship and school values.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="fb3" src="/images/fb3.png">
 </div>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Learning Journeys / Competitions</u></strong>
-</p>
-<p>Participated in the Senior Boys NSG Floorball competition 2022 &amp; 2023</p>
-<p>&nbsp;Participated in the Junior Boys NSG Floorball competition 2022 &amp;
-2023</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="floorball 2" src="/images/Screenshot_2024_07_25_120858.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="floorball" src="/images/Screenshot_2024_07_25_121027.png">
+</div>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Achievements or Participation</u></strong>
 </p>
 <p><strong>&nbsp;Junior Boys came in 1st in Tier 3</strong> NSG Floorball
 competition 2022</p>
+<p>The 2024 <strong>Senior Division Boys </strong>made it to the League 2
+finals and emerged in 1st position.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
