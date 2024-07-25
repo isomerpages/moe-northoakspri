@@ -11,7 +11,7 @@ variant: tiptap
 <p>The school believes strongly in providing our students opportunities to
 lead and learn with H.E.A.R<sup>2</sup>.T. (Honesty, Empathy, Appreciation,
 Respect, Responsibility and Tenacity). Our Morning Starts with H.E.A.R<sup>2</sup>.T.
-a pre-assembly&nbsp;programme&nbsp;enhances the authentic learning&nbsp;of
+preassembly&nbsp;programme&nbsp;enhances the authentic learning&nbsp;of
 values and social skills through inspirational stories and current affairs
 from the news and social media. In this&nbsp;programme, students are given
 the opportunity to discuss age-appropriate contemporary issues such as
