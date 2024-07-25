@@ -9,12 +9,8 @@ variant: tiptap
 <img style="width:30%" height="auto" width="100%" src="/images/aest1.png">
 </div>
 <h3>The Northoaks Art Curriculum:</h3>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Young Artists' Programme</strong>
-</p>
-<p>
 <br>
 </p>
 <p><em>A Journey in Artistic Exploration.....</em>
@@ -37,12 +33,7 @@ art making and art discussion.</p>
 <p>iii)&nbsp;<strong>Awareness</strong>&nbsp;and&nbsp;<strong>Respect</strong>&nbsp;for
 histories and cultures of key&nbsp;<strong>Artworks</strong>&nbsp;and&nbsp;<strong>Artists</strong>&nbsp;in
 Singapore and the World.</p>
-<p>The following are the themes and topics for each of our art modules.
-<br>
-</p>
-<p>
-<br>
-</p>
+<p></p>
 <h3><strong>The Northoaks Art Curriculum:</strong></h3>
 <p><strong>Young Artists' Programme</strong>
 </p>
