@@ -8,4 +8,5 @@ variant: tiptap
 but for our staff and stakeholders too.</p>
 <p>Your notes of appreciation are important to us as they encourage us to
 continue giving our best. Please take a few moments to give us your feedback
-using this&nbsp;<a href="test" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
+using this<a href="https://go.gov.sg/nkps-appreciation" rel="noopener noreferrer nofollow" target="_blank">&nbsp;link.</a>
+</p>
