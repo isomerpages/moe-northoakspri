@@ -3,7 +3,6 @@ title: Western & Japanese Food (Non Halal)
 permalink: /western-japanese-food/
 variant: tiptap
 description: ""
-third_nav_title: School Canteen Advertisement
 ---
 <h4><strong>School Canteen Advertisement</strong></h4>
 <p></p>
