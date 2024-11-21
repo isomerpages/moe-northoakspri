@@ -16,3 +16,12 @@ description: ""
 </p>
 <p><a href="/files/YH_Slides_P1_Parents_2024_25.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Slides</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PAT and YEA 2025" src="/images/annoucement2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="QR code" src="/images/QR_code_for_PAT_and_YEA_2025.png">
+</div>
+<p></p>
