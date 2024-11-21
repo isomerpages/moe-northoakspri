@@ -9,15 +9,13 @@ sections:
   - hero:
       background: /images/oakgifhomepage.gif
   - announcements:
-      title: Announcements
+      title: Announcement
       id: announcements
       announcement_items:
-        - title: Northoaks Primary School is celebrating Teachers’ Day on Thursday
-          date: 29 August 2024
-          announcement: We welcome former Northoaks students to visit the teachers from
-            11.30 am to 12.30 pm. You are reminded to follow the school rules
-            and adhere to the instructions given by the school staff to
-            facilitate a meaningful visit.
-          link_text: ""
-          link_url: ""
+        - title: Award Nominations ends
+          date: 10 January 2025
+          announcement: Nomination for President's Award for Teachers and Outstanding
+            Youth in Education Award 2025
+          link_text: QR code
+          link_url: https://www.northoakspri.moe.edu.sg/p1-parents-briefing-slides/permalink/
 ---
