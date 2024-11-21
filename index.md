@@ -15,7 +15,7 @@ sections:
         - title: Award Nominations ends
           date: 10 January 2025
           announcement: Nomination for President's Award for Teachers and Outstanding
-            Youth in Education Award 2025
+            Youth in Education Award YR2025
           link_text: QR code
           link_url: https://www.northoakspri.moe.edu.sg/p1-parents-briefing-slides/permalink/
 ---
