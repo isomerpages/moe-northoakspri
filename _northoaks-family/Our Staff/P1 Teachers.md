@@ -86,7 +86,7 @@ variant: tiptap
 <p>1 Eucalyptus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms V Devi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Leong Teng Eng April&nbsp;</p>
@@ -94,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p></p>
+<p>v_devi@moe.edu.sg</p>
 </td>
 <td rowspan="2" colspan="1">
 <p><a href="mailto:leong_teng_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_teng_eng@moe.edu.sg</a>
