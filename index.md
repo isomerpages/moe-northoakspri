@@ -9,15 +9,21 @@ sections:
   - hero:
       background: /images/oakgifhomepage.gif
   - announcements:
-      title: Announcements
+      title: Announcement
       id: announcements
       announcement_items:
-        - title: Northoaks Primary School is celebrating Teachers’ Day on Thursday
-          date: 29 August 2024
-          announcement: We welcome former Northoaks students to visit the teachers from
-            11.30 am to 12.30 pm. You are reminded to follow the school rules
-            and adhere to the instructions given by the school staff to
-            facilitate a meaningful visit.
-          link_text: ""
-          link_url: ""
+        - title: The President’s Award for Teachers (PAT)
+          date: 10 January 2025
+          announcement: Celebrate our dedicated teachers who go above and beyond for our
+            students! Nominate them for the PAT 2025 to recognize their
+            outstanding efforts. Submit your nominations by 10 Jan 2025.
+          link_text: PAT 2025 link
+          link_url: https://go.gov.sg/pat2025
+        - title: Outstanding Youth in Education Award (OYEA)
+          date: 10 January 2025
+          announcement: Celebrate our dedicated teachers who go above and beyond for our
+            students! Nominate them for the OYEA 2025 to recognize their
+            outstanding efforts. Submit your nominations by 10 Jan 2025.
+          link_text: OYEA 2025 link
+          link_url: https://go.gov.sg/oyea2025
 ---
