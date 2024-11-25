@@ -104,7 +104,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Evon Lee</p>
+<p>Ms Evon Lee Seok Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
