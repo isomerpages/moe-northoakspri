@@ -151,18 +151,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Packrisamy Ratna</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Joanne Tan Shu Fen</p>
+<p>Joyce Vera Lim Jieyi</p>
 </td>
 </tr>
 </tbody>
