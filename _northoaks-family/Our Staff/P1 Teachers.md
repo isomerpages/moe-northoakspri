@@ -47,7 +47,7 @@ variant: tiptap
 <p>Mrs Juliana Lee&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Nur Hafizhah Bibi Binte Haji M Omar&nbsp;</p>
+<p>Miss Nur Hafizhah Bibi Binte M Omar&nbsp;</p>
 </td>
 </tr>
 <tr>
