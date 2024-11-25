@@ -31,18 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Hee-Ho Jun Lynn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
+<p>Vice-Principal (Acad)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr John Ow Eu Gene</p>
@@ -53,10 +42,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
+<p>Vice-Principal (Acad)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Komathi Govindasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Admin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Karin Neo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
