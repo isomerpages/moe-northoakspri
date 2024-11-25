@@ -125,8 +125,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>&nbsp;Ms Rochelle Loo</u>
-</p>
+<p>Miss Rochelle Loo Yuh Yan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -134,7 +133,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:loo_yuh_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_yuh_yan@schools.gov.sg</a>
+<p>&nbsp;<a href="mailto:loo_yuh_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_yuh_yan@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
