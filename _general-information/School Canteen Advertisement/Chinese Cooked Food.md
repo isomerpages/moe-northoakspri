@@ -33,7 +33,7 @@ third_nav_title: School Canteen Advertisement
 <p>1.&nbsp; Chinese Cooked Food&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21-October-2024</p>
+<p>12-December-2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
