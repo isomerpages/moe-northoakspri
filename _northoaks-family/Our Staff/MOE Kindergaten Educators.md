@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -20,10 +25,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jezmin Mumtaz Binte Juseri</p>
+<p>Miss Sek Foong San, Dorothy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Jezmin_mumtaz_juseri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jezmin_mumtaz_juseri@moe.edu.sg</a>
+<p><a href="mailto:Jezmin_mumtaz_juseri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sek_foong_san@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
