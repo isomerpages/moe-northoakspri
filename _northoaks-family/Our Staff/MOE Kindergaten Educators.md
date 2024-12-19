@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -20,10 +25,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jezmin Mumtaz Binte Juseri</p>
+<p>Miss Sek Foong San, Dorothy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Jezmin_mumtaz_juseri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jezmin_mumtaz_juseri@moe.edu.sg</a>
+<p><a href="mailto:Jezmin_mumtaz_juseri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sek_Foong_san_dorothy@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,18 +45,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher - Child Development</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Guo Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:guo_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_li@moe.edu.sg&nbsp;</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MK Educator (MTL)</p>
 </td>
 </tr>
 <tr>
@@ -148,6 +141,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MK Educator (EL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wang Jibing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wang_jibing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_jibing@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MK Educator (CL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhao Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhao_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zhao_yan@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MK Educator (CL)</p>
 </td>
 </tr>
 </tbody>
