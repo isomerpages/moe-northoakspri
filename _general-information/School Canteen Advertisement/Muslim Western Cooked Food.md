@@ -58,7 +58,7 @@ third_nav_title: School Canteen Advertisement
 <p>1.&nbsp;&nbsp;&nbsp; Download and complete the application form. You may
 also request for a hardcopy from the School’s General Office.</p>
 <p></p>
-<p>·&nbsp;&nbsp;&nbsp; <a href="Application%20Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p>·&nbsp;&nbsp;&nbsp; <a href="/files/Application_Formv1.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp; Attached the following documents together with the
