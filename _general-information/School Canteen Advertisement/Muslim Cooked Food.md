@@ -33,7 +33,7 @@ third_nav_title: School Canteen Advertisement
 <p>1.&nbsp; Muslim Cooked Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>06-Nov-2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>20-Jan-2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;</p>
 <p><strong>&nbsp;</strong>
 </p>
