@@ -2,7 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - Chinese Cooked Food.md
       - Muslim Cooked Food.md
       - Western & Japanese Food (Non Halal).md
       - 2023 School Bus Service.md
