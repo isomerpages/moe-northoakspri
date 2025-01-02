@@ -33,7 +33,7 @@ third_nav_title: School Canteen Advertisement
 <p>1.&nbsp; Chinese Cooked Food&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12-December-2024</p>
+<p>23-Jan-2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -52,12 +52,15 @@ third_nav_title: School Canteen Advertisement
 </tr>
 </tbody>
 </table>
+<p><strong>School Canteen Advertisement</strong>
+</p>
+<p></p>
 <p><strong>Application Procedure</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp; Download and complete the application form. You may
 also request for a hardcopy from the School’s General Office.</p>
 <p></p>
-<p>·&nbsp;&nbsp;&nbsp;<a href="/files/Application_Formv1.pdf" rel="noopener noreferrer nofollow" target="_blank"> Application Form</a>
+<p>·&nbsp;&nbsp;&nbsp; <a href="/files/Application_Formv1.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp; Attached the following documents together with the
