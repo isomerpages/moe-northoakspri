@@ -1,6 +1,6 @@
 ---
-title: Muslim Cooked Food
-permalink: /muslim-cooked-food/
+title: Muslim Western Cooked Food
+permalink: /muslim-western-cooked-food/
 variant: tiptap
 description: ""
 third_nav_title: School Canteen Advertisement
@@ -16,11 +16,11 @@ third_nav_title: School Canteen Advertisement
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Type of Stall</strong>
+<p><strong>Type of Stall&nbsp;&nbsp;&nbsp;</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Closing Date&nbsp;&nbsp;</strong>
+<p><strong>&nbsp;Closing Date&nbsp;</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -30,13 +30,21 @@ third_nav_title: School Canteen Advertisement
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp; Muslim Cooked Food</p>
+<p>1.&nbsp; Muslim Western Cooked Food&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20-Jan-2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p>20-Jan-2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -44,10 +52,12 @@ third_nav_title: School Canteen Advertisement
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Application Procedure</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp; Download and complete the application form. You may
 also request for a hardcopy from the School’s General Office.</p>
+<p></p>
 <p>·&nbsp;&nbsp;&nbsp; <a href="/files/Application_Formv1.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 <p></p>
@@ -66,10 +76,12 @@ to the School’s General Office.</p>
 <p>·&nbsp; Email:&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">northoaks_ps@moe.edu.sg</a>
 </p>
 <p>·&nbsp; Contact Person: Mdm Maryani Endot / Ms Chloe Lee Xinyi</p>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>How to get to Northoaks Primary School</u>
 </p>
 <p>·&nbsp; Bus Number: 962 (Bus-stop opposite Sun Plaza, exit near KFC)</p>
 <p>·&nbsp; Nearest MRT Station: Sembawang MRT Station.</p>
+<p></p>
 <p><strong>Interested Applicants must meet the following criteria:</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen or Singapore Permanent
@@ -95,4 +107,3 @@ assistant (s) must possess the WSQ Basic Food Hygiene Certificate (SFA).</p>
 <p>Shortlisted applicants will be notified for an interview and will be required
 to provide food sampling for the School Canteen Selection Committee at
 the applicant’s own expense.</p>
-<p>&nbsp;</p>
