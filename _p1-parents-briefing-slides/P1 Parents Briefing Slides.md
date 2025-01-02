@@ -4,8 +4,11 @@ permalink: /p1-parents-briefing-slides/permalink/
 variant: tiptap
 description: ""
 ---
-<p><a href="/files/P1_orientation_slides.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Slide</a>
-<a href="/files/YH_Slides_P1_Parents_2024_25.pdf" rel="noopener nofollow" target="_blank">s</a>
+<p><a href="/files/Orientation_slides.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Slides</a>
+</p>
+<p><a href="/files/School_Leader_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">School Leader Briefing Slides</a>
+</p>
+<p><a href="/files/Year_Head_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">Year Head Briefing Slides</a>
 </p>
 <p><a href="/files/Eng_dept_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">EL Briefing Slides</a>
 </p>
