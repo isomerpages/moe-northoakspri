@@ -4,8 +4,7 @@ permalink: /p1-parents-briefing-slides/permalink/
 variant: tiptap
 description: ""
 ---
-<p><a href="/files/Orientation_slides.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Slides</a>
-</p>
+<p></p>
 <p><a href="/files/School_Leader_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">School Leader Briefing Slides</a>
 </p>
 <p><a href="/files/Year_Head_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">Year Head Briefing Slides</a>
