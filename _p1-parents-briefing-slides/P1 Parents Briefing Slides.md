@@ -13,7 +13,7 @@ description: ""
 </p>
 <p><a href="/files/MTL_dept_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">MTL Briefing Slides</a>
 </p>
-<p><a href="/files/PE_dept_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">PE &amp; Aesthetics Briefing Slides</a>
+<p><a href="/files/PE_dept_2025.pdf" rel="noopener nofollow" target="_blank">PE Briefing Slides</a>
 </p>
 <p></p>
 <p></p>
