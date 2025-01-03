@@ -30,7 +30,7 @@ third_nav_title: School Canteen Advertisement
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp; Chinese Cooked Food&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>
+<p>1.&nbsp; Chinese Noodles Cooked Food&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23-Jan-2025</p>
