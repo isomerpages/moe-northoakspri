@@ -96,7 +96,7 @@ programmes by MOE-approved external providers.</p>
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated &nbsp;to parents at the start of the year
 and is also downloadable <a href="/files/for_upload_2025_SEd_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> .</p>
-<p>The completed opt-out form is to be submitted by 15/02/2024.</p>
+<p>The completed opt-out form is to be submitted by 15/02/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <strong>&nbsp;</strong>
 <a href="https://www.google.com/search?q=northoaks+primary+school&amp;rlz=1C1GCEA_enSG1043SG1043&amp;oq=nort&amp;gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDkyEwgCEC4YgwEYrwEYxwEYsQMYgAQyEwgDEC4YgwEYxwEYsQMY0QMYgAQyDQgEEC4YgwEYsQMYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGD3SAQgxNjc4ajBqNKgCALACAA&amp;sourceid=chrome&amp;ie=UTF-8" rel="noopener noreferrer nofollow" target="_blank">6753 8835</a>for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
