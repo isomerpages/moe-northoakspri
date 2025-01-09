@@ -2,7 +2,6 @@ collections:
   moe-kindergarten-at-northoaks:
     output: true
     order:
-      - Our Team/MOE Kindergarten @ Northoaks.md
       - Our Team/.keep
       - Our Curriculum.md
       - Information for Parents.md
