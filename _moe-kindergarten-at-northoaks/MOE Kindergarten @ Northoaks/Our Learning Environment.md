@@ -6,6 +6,10 @@ description: ""
 third_nav_title: MOE Kindergarten @ Northoaks
 ---
 <h4>Our Learning Environment</h4>
+<p>A well-designed physical environment will enhance children’s development
+through learning and play. Find out how at MOE Kindergarten @ Northoaks,
+we strive to provide a conducive learning environment for the children
+where every space is a learning space.</p>
 <p><strong>MK Classrooms</strong>
 </p>
 <div class="isomer-image-wrapper">
