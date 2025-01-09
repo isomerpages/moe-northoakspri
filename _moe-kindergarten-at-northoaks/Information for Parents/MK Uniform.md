@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Information for Parents
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Northoaks.jpg">
+</div>
 <p>All children attending MOE Kindergarten are required to wear their kindergarten
 uniforms daily, unless otherwise specified (e.g., for certain festivals
 and celebrations, the kindergarten will notify parents about alternative
