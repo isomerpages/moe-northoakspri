@@ -11,13 +11,7 @@ experiences which include neighbourhood walks, field trips, Weeks of Wonder
 (WoW) projects and Celebrations, the children get to learn through different
 experiences and discover the joy of learning. These experiences engage
 the children in discovering and appreciating the world around them and
-allow them to share their learning experiences with their peers.
-<br>
-</p>
-<p>A well-designed physical environment will enhance children’s development
-through learning and play. Find out how at MOE Kindergarten @ Northoaks,
-we strive to provide a conducive learning environment for the children
-where every space is a learning space.</p>
+allow them to share their learning experiences with their peers.</p>
 <p>Please view the <a href="/files/For_Website_MKNK_MKOH_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">briefing slides</a> for
 our 2024 Open House.</p>
 <p><strong>MK Registration Exercise: 16 February 2024, 9.00am, - 20 February 2024, 4.00pm</strong>.
