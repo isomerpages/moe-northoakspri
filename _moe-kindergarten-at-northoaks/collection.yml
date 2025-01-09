@@ -2,12 +2,12 @@ collections:
   moe-kindergarten-at-northoaks:
     output: true
     order:
-      - Information for Parents/MK Uniform.md
-      - Information for Parents/MK Forms.md
-      - Information for Parents/.keep
       - MOE Kindergarten @ Northoaks/.keep
       - MOE Kindergarten @ Northoaks/Our Team.md
       - MOE Kindergarten @ Northoaks/Our Learning Environment.md
       - MOE Kindergarten @ Northoaks/Our Instagram.md
       - MOE Kindergarten @ Northoaks.md
       - Our Curriculum.md
+      - Information for Parents/.keep
+      - Information for Parents/MK Uniform.md
+      - Information for Parents/MK Forms.md
