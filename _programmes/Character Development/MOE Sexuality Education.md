@@ -21,7 +21,7 @@ on sexuality issues.</p>
 </li>
 </ol>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
-Education are to:</p>
+Education are:</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
 students in managing their physiological, social and emotional changes
 as they grow up and develop safe and healthy relationships.</p>
@@ -47,6 +47,8 @@ before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
+<p><strong>Overview of Northoaks Primary School’s Sexuality Education Programme for 2025</strong>
+</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
@@ -78,10 +80,10 @@ rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="S.E P5" src="/images/S_E_P5v2.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="sexuality 1" src="/images/sexuality_2025.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="sexuality" src="/images/sexuality_2025v1.png">
@@ -96,7 +98,8 @@ programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated &nbsp;to parents at the start of the year
-and is also downloadable <a href="/files/for_upload_2025_SEd_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> .</p>
+and is also downloadable <a href="https://go.gov.sg/sedoptoutnkps2025" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <p>The completed opt-out form is to be submitted by 15/02/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <strong>&nbsp;</strong>
 <a href="https://www.google.com/search?q=northoaks+primary+school&amp;rlz=1C1GCEA_enSG1043SG1043&amp;oq=nort&amp;gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDkyEwgCEC4YgwEYrwEYxwEYsQMYgAQyEwgDEC4YgwEYxwEYsQMY0QMYgAQyDQgEEC4YgwEYsQMYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGD3SAQgxNjc4ajBqNKgCALACAA&amp;sourceid=chrome&amp;ie=UTF-8" rel="noopener noreferrer nofollow" target="_blank">6753 8835</a>for discussion or to seek clarification about the school’s
