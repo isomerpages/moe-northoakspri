@@ -79,7 +79,9 @@ emotional changes in their growing years. They learn to build healthy and
 rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
-<p></p>
+<p>
+<br><strong>At Northoaks Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="sexuality 1" src="/images/sexuality_2025.png">
