@@ -63,7 +63,6 @@ shoes and bags.</p>
 </div>
 <p><strong>MK Playground</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_16_at_3_13_10_PM.jpg">
 </div>
