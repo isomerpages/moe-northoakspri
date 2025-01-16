@@ -10,8 +10,6 @@ third_nav_title: Information for Parents
 <p><strong>email:</strong>&nbsp;<a href="mailto:mk_riverside@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mk_northoaks@moe.edu.sg</u></a>
 </p>
 <h2><strong>For KCare-Related Matters</strong></h2>
-<p><strong>phone:</strong>&nbsp;9820 7809c</p>
-<p>Email: <a href="mailto:northoaks_kcareops@singaporeedusmart.edu.sg" rel="noopener noreferrer nofollow" target="_blank">northoaks_kcareops@singaporeedusmart.edu.sg</a>
-<a href="mailto:mk_riverside@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>g.com.sg</u>
-</a>
+<p><strong>phone:</strong>&nbsp;9820 7809</p>
+<p><strong>Email: <a href="mailto:northoaks_kcareops@singaporeedusmart.edu.sg" rel="noopener noreferrer nofollow" target="_blank">northoaks_kcareops@singaporeedusmart.edu.sg</a></strong>
 </p>
