@@ -5,14 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: MOE Kindergarten @ Northoaks
 ---
-<h5>A strong start for every child at MOE Kindergarten</h5>
-<p>It takes a big heart to teach little minds. At MOE Kindergarten @ Northoaks,
-our children learn through purposeful play. Through the variety of learning
-experiences which include neighbourhood walks, field trips, Weeks of Wonder
-(WoW) projects and Celebrations, the children get to learn through different
-experiences and discover the joy of learning. These experiences engage
-the children in discovering and appreciating the world around them and
-allow them to share their learning experiences with their peers.</p>
+<h5></h5>
 <p><strong>MK Registration Exercise: Friday, 7 February 2025, 9.00am, - Monday, 17 February 2025 at 4.00pm</strong>
 <br>
 <br>Open to Singapore Citizen and Permanent Resident children born between
