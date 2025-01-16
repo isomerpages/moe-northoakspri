@@ -5,6 +5,14 @@ variant: tiptap
 description: ""
 ---
 <h1>Our Programme</h1>
+<h5>A strong start for every child at MOE Kindergarten</h5>
+<p>It takes a big heart to teach little minds. At MOE Kindergarten @ Northoaks,
+our children learn through purposeful play. Through the variety of learning
+experiences which include neighbourhood walks, field trips, Weeks of Wonder
+(WoW) projects and Celebrations, the children get to learn through different
+experiences and discover the joy of learning. These experiences engage
+the children in discovering and appreciating the world around them and
+allow them to share their learning experiences with their peers.</p>
 <p>Our curriculum comprises 2 flagship programmes, the HI-Light Programme
 and Starlight Literacy Programme for English and Mother Tongue Language
 (MTL). In addition, each term at MK will conclude in a Weeks of Wonder
