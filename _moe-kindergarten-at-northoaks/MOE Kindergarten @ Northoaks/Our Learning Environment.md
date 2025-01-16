@@ -61,6 +61,16 @@ shoes and bags.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="13" src="/images/13.jpg">
 </div>
+<p><strong>MK Playground</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_16_at_3_13_10_PM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_16_at_3_13_07_PM.jpg">
+</div>
 <p><strong>KCare classroom</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -69,46 +79,7 @@ shoes and bags.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="15" src="/images/15.jpg">
 </div>
-<p>Click on the links below to discover the outdoor learning environment
-at <strong>MK @ Northoaks</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MK Playground - Currently under construction. Check back again in Semester
-2 for updated photos!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://goo.gl/maps/4as3HikL2GZE6eWc9" rel="noopener noreferrer nofollow" target="_blank">https://goo.gl/maps/4as3HikL2GZE6eWc9</a> 
-<br>
-<br><a href="https://goo.gl/maps/4nMbwaTbwzA5w8uX6" rel="noopener noreferrer nofollow" target="_blank">https://goo.gl/maps/4nMbwaTbwzA5w8uX6</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Garden and water/sand play area</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://goo.gl/maps/iRJ1prMnYHpYb8Hs6" rel="noopener noreferrer nofollow" target="_blank">https://goo.gl/maps/iRJ1prMnYHpYb8Hs6</a> 
-<br>
-<br><a href="https://goo.gl/maps/HSrPVp6rbqK7fh4S7" rel="noopener noreferrer nofollow" target="_blank">https://goo.gl/maps/HSrPVp6rbqK7fh4S7</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>Click <a href="https://goo.gl/maps/HSrPVp6rbqK7fh4S7" rel="noopener nofollow" target="_blank">here</a> to
+discover the garden and water/sand play area at <strong>MK @ Northoaks</strong>!</p>
 <p></p>
