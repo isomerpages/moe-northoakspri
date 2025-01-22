@@ -2,6 +2,7 @@ collections:
   moe-kindergarten-at-northoaks:
     output: true
     order:
+      - MOE Kindergarten @ Northoaks/Our Vision, Mission and Values.md
       - MOE Kindergarten @ Northoaks/General Information.md
       - MOE Kindergarten @ Northoaks/Open House 2025.md
       - MOE Kindergarten @ Northoaks/Registration.md
