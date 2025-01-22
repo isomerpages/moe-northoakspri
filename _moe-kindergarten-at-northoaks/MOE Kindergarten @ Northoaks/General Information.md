@@ -7,7 +7,10 @@ third_nav_title: MOE Kindergarten @ Northoaks
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_16_at_3_29_13_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Northoaks.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_16_at_3_29_13_PM.jpg">
 </div>
 <h5><strong>About MOE Kindergarten (MK)</strong></h5>
 <p>MK aims to provide quality and affordable Kindergarten 1 (K1) and Kindergarten
