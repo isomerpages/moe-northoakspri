@@ -23,6 +23,10 @@ options:</p>
 </li>
 </ul>
 <p>Learn more about our <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment" rel="noopener noreferrer nofollow" target="blank"><u>curriculum and learning environment</u></a>.</p>
+<p>All MOE Kindergartens offer three Mother Tongue Languages; Chinese, Malay
+and Tamil.</p>
+<p>We follow the MOE school calendar of four school terms, including scheduled
+school and public holidays.</p>
 <p>If you require a full-day service, you can register for Kindergarten Care
 (KCare), which is offered at all MKs. Your child will be in KCare before
 and after the MK session within the same premises.</p>
