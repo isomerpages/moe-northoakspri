@@ -18,9 +18,6 @@ options:</p>
 <li>
 <p>Morning session (8am to 12pm)</p>
 </li>
-<li>
-<p>Afternoon session (1pm to 5pm)</p>
-</li>
 </ul>
 <p>Learn more about our <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment" rel="noopener noreferrer nofollow" target="blank"><u>curriculum and learning environment</u></a>.</p>
 <p>If you require a full-day service, you can register for Kindergarten Care
