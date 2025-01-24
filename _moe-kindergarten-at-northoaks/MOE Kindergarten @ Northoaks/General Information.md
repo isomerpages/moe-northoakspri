@@ -31,3 +31,12 @@ school and public holidays.</p>
 (KCare), which is offered at all MKs. Your child will be in KCare before
 and after the MK session within the same premises.</p>
 <p><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener noreferrer nofollow" target="blank"><u>Learn more about KCare, their fees, and how to register</u></a>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/At_MKNK.jpg">
+</div>
+<p></p>
