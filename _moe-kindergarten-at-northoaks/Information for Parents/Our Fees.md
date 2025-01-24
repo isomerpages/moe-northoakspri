@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Information for Parents
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Northoaks.jpg">
+</div>
 <h2><strong>Fees</strong></h2>
 <p>The monthly fee for MK in 2024 is:</p>
 <ul data-tight="true" class="tight">
