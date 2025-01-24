@@ -4,7 +4,11 @@ permalink: /our-curriculum/
 variant: tiptap
 description: ""
 ---
-<h1>Our Programme</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Northoaks.jpg">
+</div>
+<h2>Our Programme</h2>
 <h5>A strong start for every child at MOE Kindergarten</h5>
 <p>It takes a big heart to teach little minds. At MOE Kindergarten @ Northoaks,
 our children learn through purposeful play. Through the variety of learning
