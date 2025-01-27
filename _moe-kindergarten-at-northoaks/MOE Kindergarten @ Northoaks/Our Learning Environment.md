@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: MOE Kindergarten @ Northoaks
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Northoaks.jpg">
+</div>
 <h4>Our Learning Environment</h4>
 <p>A well-designed physical environment will enhance children’s development
 through learning and play. Find out how at MOE Kindergarten @ Northoaks,
@@ -47,11 +51,13 @@ shoes and bags.</p>
 </div>
 <p><strong>Tamil Language Corner</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="10" src="/images/10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="11" src="/images/11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_4343.jpg">
 </div>
 <p><strong>Chinese Language Corner</strong>
 </p>
