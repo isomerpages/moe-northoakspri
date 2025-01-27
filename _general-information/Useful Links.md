@@ -27,7 +27,7 @@ variant: tiptap
 <br>Office Tel: 98626300</p>
 </li>
 <li>
-<p><a href="https://languagetrading.com.sg/" rel="noopener noreferrer nofollow" target="_blank">School Bookshop</a> 
+<p>School Bookshop
 <br>BL Marketing Pte Ltd
 <br>61 Ubi Road 1, #02-02 Oxley Bizhub
 <br>Singapore 408727
