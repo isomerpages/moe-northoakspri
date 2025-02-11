@@ -9,6 +9,10 @@ third_nav_title: MOE Kindergarten @ Northoaks
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Northoaks.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKRE_CFA.jpg">
+</div>
 <p><strong>MK Registration Exercise: Friday, 7 February 2025, 9.00am, - Monday, 17 February 2025 at 4.00pm</strong>
 <br>
 <br>Open to Singapore Citizen and Permanent Resident children born between
