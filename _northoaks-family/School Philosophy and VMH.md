@@ -35,10 +35,10 @@ Honesty, Empathy, Appreciation, Respect &amp; Responsibility, and &nbsp;&nbsp;&n
 Tenacity (H.E.A.R<sup>2</sup>.T.)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="hearts1" src="/images/Update for tanty/hearts1.png">
+<img style="width: 100%" height="auto" width="100%" alt="heart1" src="/images/Update for tanty/heart1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="hearts2" src="/images/Update for tanty/hearts2.png">
+<img style="width: 100%" height="auto" width="100%" alt="heart2" src="/images/Update for tanty/heart2.png">
 </div>
 <p></p>
