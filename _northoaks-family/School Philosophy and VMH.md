@@ -27,30 +27,18 @@ gates of the school.</p>
 <p><strong>Vision</strong>: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Future-ready Learners and Leaders with H.E.A.R<sup>2</sup>.T.</p>
 <p><strong>Mission (I<em><sup>3</sup></em><sup> </sup>): &nbsp;&nbsp;&nbsp; </strong>Instilling
-Core Values, Igniting the Love <u>of </u>Learning, Inspiring Excellence</p>
+Core Values, Igniting the Love of Learning, Inspiring Excellence</p>
 <p><strong>Motto: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>Grow
 &amp; Glow</p>
 <p><strong>Values</strong>: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Honesty, Empathy, Appreciation, Respect &amp; Responsibility, and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Tenacity (H.E.A.R<sup>2</sup>.T.)</p>
+Honesty, Empathy, Appreciation, Respect &amp; Responsibility, and Tenacity
+(H.E.A.R<sup>2</sup>.T.)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="heart1" src="/images/Update for tanty/heart1.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="honest" src="/images/Screenshot_2024_07_24_071228.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="empathy" src="/images/Screenshot_2024_07_24_071317.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="appreciate" src="/images/Screenshot_2024_07_24_071329.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="res" src="/images/Screenshot_2024_07_24_071342.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="res1" src="/images/Screenshot_2024_07_24_071351.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="tenacity" src="/images/Screenshot_2024_07_24_073046.png">
+<img style="width: 100%" height="auto" width="100%" alt="heart2" src="/images/Update for tanty/heart2.png">
 </div>
 <p></p>
