@@ -9,7 +9,13 @@ variant: tiptap
 <br>
 <br>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -82,104 +88,95 @@ allowed in school. Students are encouraged to wear a standard wrist watch.
 a reasonable period to assist in a disciplinary investigation. This belongings
 include but are not limited to mobile phones and smart watches.</p>
 <h2>School Dental</h2>
-<p>Operating Hours:
-<br>Please be informed that the dental clinic is opened in our school on the&nbsp;<strong>2nd</strong>&nbsp;and&nbsp;<strong>4th week</strong>&nbsp;of
-the month.</p>
-<table>
+<p>Northoaks Primary Dental Clinic: 85337652 (WhatsApp message)</p>
+<p>Open on alternative weeks</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday to Thursday</p>
+<p>Monday, Wednesday &amp; Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 am to 1 pm
-<br>2 pm to 5.30 pm</p>
+<p>8am to 5pm
+<br>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p>Tuesday &amp; Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 am to 1 pm
-<br>2 pm to 5 pm</p>
+<p>8am to 5.30pm
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(Closed from 1pm to 2pm daily for lunch)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Students, who need&nbsp;<strong>urgent</strong>&nbsp;treatment on days
-where the dental clinic is not operating in NKPS, can make appointment
-with the following dental clinics.</p>
-<table>
+<p>In case of emergencies, when the NKPS Dental Clinic is closed, please
+contact:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dental Clinic at</p>
+<p>1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Address</p>
+<p>Wellington Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Telephone number</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operation details</p>
+<p>87642254</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Endeavour Primary School&nbsp;</p>
+<p>2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;10 Admiralty Link, Singapore 757521</p>
+<p>Endeavour Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64816081&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Open during 1st and 3rd week of the month.&nbsp;</p>
+<p>85188307</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Greenwood Primary School&nbsp;</p>
+<p>3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;11 Woodlands Drive 62, Singapore 737942</p>
+<p>Canberra Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>68941981&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Open during 1st and 3rd week of the month.&nbsp;</p>
+<p>85187211</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Canberra Primary School</p>
+<p>4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 Admiralty Drive, Singapore 757714&nbsp;</p>
+<p>Sembawang Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;65555177</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Open during 2nd and 4th week of the month.&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Health Promotion Board</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Second Hospital Avenue, #04-00, Singapore 168937</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64353782</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Open on Monday to Saturday</p>
+<p>87641854</p>
 </td>
 </tr>
 </tbody>
