@@ -62,7 +62,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>1 Dhalia</p>
+<p>1 Dahlia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Loy-Ng Choon Guat Jeralynn</p>
