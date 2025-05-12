@@ -62,7 +62,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>4 Dhalia</p>
+<p>4 Dahlia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nurhanisah Binte Ahmad Jalani&nbsp;</p>
