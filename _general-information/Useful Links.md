@@ -29,11 +29,13 @@ variant: tiptap
 <li>
 <p>School Bookshop
 <br>BL Marketing Pte Ltd
-<br>61 Ubi Road 1, #02-02 Oxley Bizhub
-<br>Singapore 408727
-<br>Tel: 62848785
+<br>5000 Ang Mo Kio Avenue 5
+<br>Techplace II #05-10A
+<br>Singapore 569870
+<br>Tel: 62848785 / 65189611
 <br>
-<br>School bookshop operating hours:
+</p>
+<p>School bookshop operating hours:
 <br>Monday to Friday &amp; during school term: 8.30am - 2.00pm</p>
 </li>
 </ul>
