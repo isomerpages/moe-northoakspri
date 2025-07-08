@@ -17,6 +17,7 @@ third_nav_title: MOE Kindergarten @ Northoaks
 <p></p>
 <h4><strong>Mother Language Team</strong></h4>
 <p>Cikgu Shabrina</p>
+<p>Cikgu Fadhil</p>
 <p>Aasiriyar Zarinah</p>
 <p>Wu Laoshi</p>
 <p>Hu Laoshi</p>
