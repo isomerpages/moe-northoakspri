@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Overseas Immersion Programme.md
       - Curriculum/.keep
       - Curriculum/English Language.md
       - Curriculum/Mathematics.md
