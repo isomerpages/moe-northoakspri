@@ -40,22 +40,6 @@ insights into China's education system and way of life.</p>
 </div>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
@@ -65,7 +49,6 @@ insights into China's education system and way of life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="x2" src="/images/WhatsApp_Image_2025_07_03_at_12_57_57_PM.jpg">
 </div>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -81,8 +64,16 @@ insights into China's education system and way of life.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="x6" src="/images/WhatsApp_Image_2025_07_03_at_12_57_58_PM__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="x6i" src="/images/WhatsApp_Image_2025_07_03_at_12_58_00_PM.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="x2i" src="/images/WhatsApp_Image_2025_07_03_at_12_57_57_PM__1_.jpg">
 </div>
 </th>
 </tr>
@@ -90,21 +81,7 @@ insights into China's education system and way of life.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="x7" src="/images/WhatsApp_Image_2025_07_03_at_12_58_00_PM.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="x8" src="/images/WhatsApp_Image_2025_07_03_at_12_57_59_PM.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="x7i" src="/images/WhatsApp_Image_2025_07_03_at_12_57_57_PM__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="x7i" src="/images/WhatsApp_Image_2025_07_03_at_12_57_58_PM.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,9 +100,6 @@ insights into China's education system and way of life.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="x12" src="/images/WhatsApp_Image_2025_07_03_at_12_57_58_PM.jpg">
-</div>
 </td>
 </tr>
 <tr>
