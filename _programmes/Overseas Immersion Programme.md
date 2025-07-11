@@ -87,19 +87,8 @@ insights into China's education system and way of life.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="x10" src="/images/WhatsApp_Image_2025_07_03_at_12_57_59_PM__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="x8i" src="/images/WhatsApp_Image_2025_07_03_at_12_57_59_PM__1_.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="x11" src="/images/WhatsApp_Image_2025_07_03_at_12_57_59_PM__1_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
