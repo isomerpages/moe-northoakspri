@@ -37,7 +37,7 @@ variant: tiptap
 <p>School Uniform Operating Hours:
 <br>Mon to Sat – 11.30am to 8.00pm
 <br>Sun and Public Holiday – 11.30am to 6.00pm
-<br>School Uniform Online Purchase : <a href="www.euniforms.com.sg" rel="noopener nofollow" target="_blank">www.euniforms.com.sg</a>
+<br>School Uniform Online Purchase : <a href="https://www.euniforms.com.sg/shop/" rel="noopener nofollow" target="_blank">www.euniforms.com.sg</a>
 </p>
 </li>
 <li>
