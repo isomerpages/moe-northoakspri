@@ -27,6 +27,16 @@ variant: tiptap
 <br>Office Tel: 98626300</p>
 </li>
 <li>
+<p>School Bookshop
+<br>BL Marketing Pte Ltd
+<br>5000 Ang Mo Kio Avenue 5
+<br>Techplace II #05-10A
+<br>Singapore 569870
+<br>Tel: 62848785 / 65189611</p>
+<p>School bookshop operating hours:
+<br>Monday to Friday &amp; during school term: 8.30am - 2.00pm</p>
+</li>
+<li>
 <p>School Uniform
 <br>Kong Chong Pte Ltd
 <br>Sembawang Shopping Centre
@@ -39,18 +49,7 @@ variant: tiptap
 <br>Sun and Public Holiday – 11.30am to 6.00pm
 <br>School Uniform Online Purchase : <a href="https://www.euniforms.com.sg/shop/" rel="noopener nofollow" target="_blank">www.euniforms.com.sg</a>
 </p>
-</li>
-<li>
-<p>School Bookshop
-<br>BL Marketing Pte Ltd
-<br>5000 Ang Mo Kio Avenue 5
-<br>Techplace II #05-10A
-<br>Singapore 569870
-<br>Tel: 62848785 / 65189611
-<br>
-</p>
-<p>School bookshop operating hours:
-<br>Monday to Friday &amp; during school term: 8.30am - 2.00pm</p>
+<p></p>
 </li>
 </ul>
 <p>
