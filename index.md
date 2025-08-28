@@ -11,7 +11,6 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: Northoaks Primary School is celebrating Teacher's Day on Thursday
           date: 04 September 2025
