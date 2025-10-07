@@ -2,6 +2,7 @@ collections:
   moe-kindergarten-at-northoaks:
     output: true
     order:
+      - MOE Kindergarten @ Northoaks/K1 Y2026 Orientation.md
       - MOE Kindergarten @ Northoaks/.keep
       - MOE Kindergarten @ Northoaks/General Information.md
       - MOE Kindergarten @ Northoaks/Open House 2025.md
