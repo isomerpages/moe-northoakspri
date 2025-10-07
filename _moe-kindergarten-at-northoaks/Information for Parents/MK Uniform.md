@@ -53,8 +53,60 @@ attire arrangements in advance).</p>
 </table>
 <p></p>
 <h3>Sales of Uniform</h3>
-<p>Purchase MK uniforms at&nbsp;<strong><a href="https://jeepsinguniform.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.jeepsinguniform.com</u></a></strong>&nbsp;<strong>or</strong>&nbsp;<strong><a href="https://beauvoix.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.beauvoix.com.sg</u></a></strong>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Uniform Supplier</strong>
 </p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Address</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Website</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Beau Voix Uniform</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Sims Close #03-08, Gemini @ Sims, Singapore 387298</p>
+<p>Tel: 6743 6645</p>
+<p>Email: <a href="mailto:info@beauvoix.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>info@beauvoix.com.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://beauvoix.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.beauvoix.com.sg</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Jeep Sing Fashion</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 4012 Ang Mo Kio Ave 10, Techplace1, #01-09, Singapore 569628</p>
+<p>Tel: 6452 9723</p>
+<p>Email: <a href="mailto:mk@jeepsinguniform.com" rel="noopener noreferrer nofollow" target="_blank"><u>mk@jeepsinguniform.com</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://jeepsinguniform.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.jeepsinguniform.com</u></a></strong>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>Shoes &amp; Socks</h3>
 <p>Your child should wear socks and well-fitted shoes for safety during activities.
 The following guidelines should be observed:</p>
