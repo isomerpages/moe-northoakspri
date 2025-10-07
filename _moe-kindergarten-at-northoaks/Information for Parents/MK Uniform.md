@@ -53,7 +53,7 @@ attire arrangements in advance).</p>
 </table>
 <p></p>
 <h3>Sales of Uniform</h3>
-<p>Purchase MK uniforms at&nbsp;<strong><a href="https://jeepsinguniform.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.jeepsinguniform.com</u></a></strong>&nbsp;<strong>or</strong>&nbsp;<strong><a href="https://jeepsinguniform.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.beauvoix.com.sg</u></a></strong>
+<p>Purchase MK uniforms at&nbsp;<strong><a href="https://jeepsinguniform.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.jeepsinguniform.com</u></a></strong>&nbsp;<strong>or</strong>&nbsp;<strong><a href="https://beauvoix.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.beauvoix.com.sg</u></a></strong>
 </p>
 <h3>Shoes &amp; Socks</h3>
 <p>Your child should wear socks and well-fitted shoes for safety during activities.
