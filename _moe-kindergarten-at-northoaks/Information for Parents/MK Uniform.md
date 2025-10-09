@@ -77,6 +77,8 @@ attire arrangements in advance).</p>
 <td rowspan="1" colspan="1">
 <p><strong>Beau Voix Uniform</strong>
 </p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Sims Close #03-08, Gemini @ Sims, Singapore 387298</p>
@@ -87,6 +89,11 @@ attire arrangements in advance).</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://beauvoix.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.beauvoix.com.sg</u></a></strong>
 </p>
+<p></p>
+<p>Scan the QR to order online:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BeauVoix_QR_code.bmp">
+</div>
 </td>
 </tr>
 <tr>
