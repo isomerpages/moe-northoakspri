@@ -10,18 +10,39 @@ third_nav_title: MOE Kindergarten @ Northoaks
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Northoaks.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKRE_CFA.jpg">
-</div>
-<p><strong>MK Registration Exercise: Friday, 7 February 2025, 9.00am, - Monday, 17 February 2025 at 4.00pm</strong>
-<br>
-<br>Open to Singapore Citizen and Permanent Resident children born between
-2 January 2021 and 1 January 2022 (both dates inclusive)
-<br>
-<br>Parents will be informed of the registration outcome by <strong>Tuesday, 15 April 2025</strong>.
-Outside this registration period, parents can contact the MK directly to
-check for vacancies.</p>
-<p><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register" rel="noopener nofollow" target="_blank">Register</a> here!</p>
+<p>To register your child with us, please fill in the waitlist form in the
+FormSG <a href="https://form.gov.sg/684a334b5f74c92238b709c4" rel="noopener nofollow" target="_blank">here</a>!</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Please attach the following documents in the FormSG submission.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Child’s Birth Certificate / Entry Permit
+for SPR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Both parents’ NRIC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Child’s immunisation record retrieved
+from the National Immunisation Registry website (<a rel="noopener noreferrer nofollow" target="_blank">www.nir.hpb.gov.sg</a>)
+via your Singpass.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>
 <br>Office Tel: 6481 2018, Fax: 64813106</p>
 <p></p>
