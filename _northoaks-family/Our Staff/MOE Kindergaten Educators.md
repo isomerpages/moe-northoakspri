@@ -49,38 +49,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wu Rongshun</p>
+<p>Ms Elizabeth Cassandra Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wu_rongshun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_rongshun@moe.edu.sg</a>
+<p><a href="mailto:elizabeth_cassandra_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elizabeth_cassandra_tan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MK Educator (MTL)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Zarinah Begum Binte Liaqat Ali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zarinah_begum_liaqat_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zarinah_begum_liaqat_ali@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MK Educator (MTL)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Hu Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hu_ying_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hu_ying_1@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MK Educator (MTL)</p>
+<p>MK Educator (EL)</p>
 </td>
 </tr>
 <tr>
@@ -121,6 +97,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Muhammad Fadhil Bin Jamaludin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_fadhil_jamaludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_fadhil_jamaludin@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MK Educator (ML)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Nur Shabrina Binte Nordin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -133,14 +121,38 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Elizabeth Cassandra Tan</p>
+<p>Ms Zarinah Begum Binte Liaqat Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:elizabeth_cassandra_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elizabeth_cassandra_tan@moe.edu.sg</a>
+<p><a href="mailto:zarinah_begum_liaqat_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zarinah_begum_liaqat_ali@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MK Educator (EL)</p>
+<p>MK Educator (TL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wu Rongshun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wu_rongshun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_rongshun@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MK Educator (CL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hu Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hu_ying_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hu_ying_1@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MK Educator (CL)</p>
 </td>
 </tr>
 <tr>
