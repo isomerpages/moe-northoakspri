@@ -89,6 +89,10 @@ use, copy, edit or share digital files in an unauthorised or illegal manner.</p>
 </p>
 <p><em>The use of Artificial Intelligence (AI) tools in school is guided by age-appropriate practices. While many AI tools (such as ChatGPT) are designed for users </em><strong><em>aged 13 and above</em></strong><em>, the following serves as guidance for how AI-related learning experiences are designed for primary school students. Teachers will guide students in understanding how AI works, its benefits and limitations, and how to use it ethically and safely for learning purposes.</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AUP" src="/images/AUP.jpg">
+</div>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to be
 honest and take responsibility for their own learning when using AI, &nbsp;understanding
 that they are ultimately short-changing themselves if they pass off other’s
