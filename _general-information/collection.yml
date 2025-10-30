@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Information/.keep
-      - School Information.md
       - Student Learning Space.md
       - Useful Links.md
       - School Bus Service/.keep
