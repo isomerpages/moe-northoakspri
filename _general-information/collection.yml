@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - School Information/Useful Links.md
       - School Information/Student Learning Space.md
       - School Information/School Information1.md
       - School Information/.keep
