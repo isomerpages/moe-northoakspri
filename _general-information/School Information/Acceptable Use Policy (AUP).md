@@ -60,8 +60,8 @@ responsible way. They should not post online remarks that are:</p>
 <p>hurtful to others.</p>
 </li>
 </ul>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students should not
-use any devices to:</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students should not use any
+devices to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>store, modify, create or share content (e.g. documents, presentations,
@@ -73,17 +73,17 @@ defamatory, hurtful to self or others); or</p>
 others.</p>
 </li>
 </ul>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students should not
-use MOE/school-deployed ICT system accounts for any commercial activities
-(e.g. buying and selling of goods and services).</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students should not use MOE/school-deployed
+ICT system accounts for any commercial activities (e.g. buying and selling
+of goods and services).</p>
 <p><em>Non-compliance with the above will lead to disciplinary action in accordance with the school’s discipline policy.</em>
 </p>
 <p><strong>Respecting Copyright</strong>
 </p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students should always
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students should always
 acknowledge or cite the sources of information, pictures, or videos used
 in their school projects to show respect for other’s work.</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students should not
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students should not
 use, copy, edit or share digital files in an unauthorised or illegal manner.</p>
 <p><strong>Using Artificial Intelligence (AI)</strong>
 </p>
@@ -93,13 +93,13 @@ use, copy, edit or share digital files in an unauthorised or illegal manner.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="AUP" src="/images/AUP.jpg">
 </div>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to be
-honest and take responsibility for their own learning when using AI, &nbsp;understanding
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students are to be honest
+and take responsibility for their own learning when using AI, &nbsp;understanding
 that they are ultimately short-changing themselves if they pass off other’s
 work as their own.</p>
 <p><strong>Staying Safe and Secure Online</strong>
 </p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students should report
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students should report
 any incidents (e.g. unusual device behaviour or inappropriate use of devices),
 to the school.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp; Students are reminded to develop online safety
