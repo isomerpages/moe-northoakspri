@@ -132,7 +132,7 @@ responses, inherent biases and outdated information.</p>
 with other activities including physical exercise and face-to-face social
 interactions.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp; Students should avoid excessive use of devices
-outside learning hours. For guidance, please refer to <a href="https://www.healthhub.sg/programmes/parent-hub/grow-well-sg/nurture-healthy-behaviours/#learn-well" rel="noopener noreferrer nofollow" target="_blank">Parent Hub: Grow Well SG - Nurturing Healthy Behaviours</a>.</p>
+outside learning hours. For guidance, please refer to <a href="https://www.healthhub.sg/programmes/parent-hub/grow-well-sg/nurture-healthy-behaviours#exercise-well" rel="noopener nofollow" target="_blank">Parent Hub: Grow Well SG - Nurturing Healthy Behaviours</a>.</p>
 <p>14.&nbsp;&nbsp;&nbsp;&nbsp; Students should take regular breaks to rest
 their eyes and mind.</p>
 <p>15.&nbsp;&nbsp;&nbsp;&nbsp; Students are reminded to practice good sleep
