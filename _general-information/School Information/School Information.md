@@ -3,6 +3,7 @@ title: School Information
 permalink: /about-us/school-information/
 description: ""
 variant: tiptap
+third_nav_title: School Information
 ---
 <h2>School Hours:</h2>
 <p>
