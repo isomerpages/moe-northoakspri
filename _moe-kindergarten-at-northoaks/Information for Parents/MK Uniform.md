@@ -90,7 +90,7 @@ attire arrangements in advance).</p>
 <p><strong><a href="https://beauvoix.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.beauvoix.com.sg</u></a></strong>
 </p>
 <p></p>
-<p>Scan the QR to order online:</p>
+<p>Scan the QR code to order online:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BeauVoix_QR_code.bmp">
 </div>
