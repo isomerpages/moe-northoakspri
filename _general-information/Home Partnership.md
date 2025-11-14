@@ -78,7 +78,7 @@ of our</p>
 </p>
 <p>OUR CONTACT DETAILS:</p>
 <p>General Office : 6753 8835</p>
-<p>Email : <a href="northoaks_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">northoaks_ps@moe.edu.sg</a>
+<p>Email : <a href="mailto:northoaks_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">northoaks_ps@moe.edu.sg</a>
 </p>
 <p>School Website : <a href="http://www.northoakspri.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">http://www.northoakspri.moe.edu.sg</a>
 </p>
