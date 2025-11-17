@@ -240,11 +240,11 @@ not apply nail polish on their nails.</p>
 <li>
 <p>Students are to refer to the images below for the correct way to wear
 the school uniform and P.E. attire.</p>
-</li>
-<li>
-<p>Hair&nbsp;</p>
+<p></p>
 </li>
 </ol>
+<p>Please refer to the table below for students' hair grooming and appearance
+standards</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
