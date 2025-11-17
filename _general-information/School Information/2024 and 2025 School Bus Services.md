@@ -10,7 +10,7 @@ variant: tiptap
 <p>Operator: Tong Tar Transport Service Pte Ltd</p>
 <p>Telephone: 6261-5537 / 9150 1041</p>
 <p>Period: 01 Jan 2024 to 31 Dec 2025</p>
-<p>School Bus Services</p>
+<h4>School Bus Services</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -25,29 +25,36 @@ variant: tiptap
 <p>Distance</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Up to 15 seater</p>
+<p><strong>Up to 15 seater</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>&gt;15 seater</p>
+<p><strong>&gt;15 seater</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 way</p>
+<p><strong>1 way</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 way</p>
+<p><strong>2 way</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 way</p>
+<p><strong>1 way</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 way</p>
+<p><strong>2 way</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Up to 2km</p>
+<p><strong>Up to 2km</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$ 150.00</p>
@@ -64,7 +71,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&gt;2 – 4km</p>
+<p><strong>&gt;2 – 4km</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$ 200.00</p>
