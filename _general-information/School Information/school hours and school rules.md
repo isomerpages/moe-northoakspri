@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Information
 ---
-<h2>School Hours:</h2>
+<h2><strong>School Hours</strong>:</h2>
 <p>
 <br>
 </p>
@@ -54,36 +54,85 @@ third_nav_title: School Information
 <p>There will be silent reading programme or pre-assembly from 7.30 am to
 7.40 am, followed by morning assembly at 7.40am. All students must attend
 the morning assembly.</p>
-<h2>School Rules</h2>
-<p>1. Be neatly dressed in the correct school attire.
-<br>2. Be punctual for school.
-<br>3. Be courteous and considerate at all times.
-<br>4. Take proper care of school property.
-<br>5. Keep the school premises clean.
-<br>6. Queue up for food and drinks in the canteen.
-<br>7. Line up quietly during assembly and after recess.
-<br>8. Walk quietly and speak softly in the school premises.
-<br>9. Do not leave the school compound without permission during school hours.
-<br>10. Greet teachers, staff or any visitors to the school.
-<br>11. Students are to wear the prescribed school uniform. Modification to
-the school uniform is not allowed.
-<br>12. Students who are Singapore Citizens must sing the National Anthem
-and take the Pledge. Students will take the&nbsp; Pledge with the right
-fist placed over the heart.
-<br>13. All male students must be clean-shaven at all times. Moustache and
-beards are not allowed.
-<br>14. All students are not allowed to have in their possession any weapon.
-They are also not allowed to bring any weapon-like item which is used or
-intended to be used to cause harm to others.
-<br>15. Students are strongly discouraged to bring mobile phones to school.
-If the mobile phones are brought to school, the phone must be switched
-off and kept in the school bags during curriculum hours and after-school
-programmes. This is to minimise disruptions to teaching and learning. Students
-are not allowed to use their mobile phones in school at all times. The
-school shall not bear any responsibility for the loss or damage of any
-mobile phones.
-<br>16. For the safety and security of all students, smart watches are not
-allowed in school. Students are encouraged to wear a standard wrist watch.
-<br>17. The school may require students to surrender their belongings for
-a reasonable period to assist in a disciplinary investigation. This belongings
-include but are not limited to mobile phones and smart watches.</p>
+<h2><strong>School Rules</strong></h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>Be neatly dressed in the correct school attire.</p>
+</li>
+<li>
+<p>Be punctual for school.</p>
+</li>
+<li>
+<p>Be courteous and considerate at all times.</p>
+</li>
+<li>
+<p>Take proper care of school property.</p>
+</li>
+<li>
+<p>Keep the school premises clean.</p>
+</li>
+<li>
+<p>Queue up for food and drinks in the canteen.</p>
+</li>
+<li>
+<p>Line up quietly during assembly and after recess.</p>
+</li>
+<li>
+<p>Walk quietly and speak softly in the school premises.</p>
+</li>
+<li>
+<p>Do not leave the school compound without permission during school hours.</p>
+</li>
+<li>
+<p>Greet teachers, staff or any visitors to the school.</p>
+</li>
+<li>
+<p>Students are to wear the prescribed school uniform. Modifications to the
+school uniform is not allowed.</p>
+</li>
+<li>
+<p>Students who are Singapore Citizens must sing the National Anthem and
+take the Pledge. Students will take the Pledge with the right fist placed
+over the heart.</p>
+</li>
+<li>
+<p>All male students must be clean-shaven at all times. Moustache and beards
+are not allowed.</p>
+</li>
+<li>
+<p>Students are not allowed to have in their possession any weapon. They
+are also not allowed to bring any weapon-like item which is intended to
+be used to cause harm to others.</p>
+</li>
+<li>
+<p>Students are not to use personal digital devices, including smartphones,
+during school hours including recess, CCA and after-school programmes (e.g.
+supplmentary/ enrichment/ remedial lessons).</p>
+</li>
+<li>
+<p>Students who bring such devices are to put them in lockers or their school
+bags (in the absence of lockers) before school start time. They can retrieve
+the devices after the school ends. Students should bear responsibility
+for safekeeping of devices.</p>
+</li>
+<li>
+<p>Students should not attempt to access data, system and information that
+they are not authorised to.</p>
+</li>
+<li>
+<p>Students are reminded that the use of learning devices and school’s EdTech
+resources should solely be for the purpose of learning.</p>
+</li>
+<li>
+<p>For the safety and security of all students, smartwatches are not allowed
+in the school (except for POSB Smart Buddy). Students are highly encouraged
+to wear a standard wristwatch. Students will be asked to put away their
+smartwatches, and they should bear responsibility for their safekeeping.</p>
+</li>
+<li>
+<p>The school may require students to surrender their belongings for a reasonable
+period to assist in a disciplinary investigation. These belongings include
+but are not limited to mobile phones and smartwatches.</p>
+</li>
+</ol>
+<p></p>
