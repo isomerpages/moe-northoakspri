@@ -9,7 +9,7 @@ third_nav_title: School Information
 </p>
 <p>The school is progressively transiting to new school uniform to provide
 thermal comfort for our students. Please refer to the table below for the
-implementation timeline (2026-2028)</p>
+implementation timeline (2026-2028).</p>
 <p><u>Phase 1(2026)</u>
 </p>
 <table style="minWidth: 100px">
