@@ -244,7 +244,7 @@ the school uniform and P.E. attire.</p>
 </li>
 </ol>
 <p>Please refer to the table below for students' hair grooming and appearance
-standards</p>
+standards:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
