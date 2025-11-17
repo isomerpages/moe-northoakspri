@@ -22,10 +22,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>Operations Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr S Rajandyan</p>
+<p>Mr Chan Jun Jie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Quek Hian Hua</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +49,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Norafidah Anwar</p>
+<p>Ms Joanne Pung Hong Eng</p>
 </td>
 </tr>
 <tr>
@@ -97,23 +105,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sadiah Binte Abdul Rais</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Tan Li Cheng Jessie</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Abu Bakar Bin Abd Hamid</p>
 </td>
 </tr>
 </tbody>
