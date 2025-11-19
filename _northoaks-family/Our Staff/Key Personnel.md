@@ -335,7 +335,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/Mathematics</p>
+<p>LT/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Siva-Lim Hui San</p>
@@ -359,7 +359,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/Science</p>
+<p>LT/Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Toh Kian Chong</p>
