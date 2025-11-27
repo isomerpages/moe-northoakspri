@@ -143,7 +143,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Education Needs Officer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Special Educational Needs Officer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Evangelyn Lim Xuan</p>
