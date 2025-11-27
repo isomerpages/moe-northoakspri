@@ -143,10 +143,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Special Education Needs Officer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Evangelyn Lim Xuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Joyce Vera Lim Jieyi</p>
+<p>Choo Siew Hwee&nbsp;<strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+</p>
 </td>
 </tr>
 </tbody>
