@@ -146,7 +146,7 @@ variant: tiptap
 <p>Special Educational Needs Officer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Evangelyn Lim Xuan</p>
+<p>Ms Evangelyn Lim Xuan</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ variant: tiptap
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choo Siew Hwee&nbsp;<strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p>Ms Choo Siew Hwee&nbsp;<strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 </td>
 </tr>
