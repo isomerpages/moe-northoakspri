@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p><a href="/files/P1_Orientation_Slides_24_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Orientation Slides 2025</a>
+</p>
 <p><a href="/files/School_Leader_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">School Leader Briefing Slides</a>
 </p>
 <p><a href="/files/Year_Head_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">Year Head Briefing Slides</a>
