@@ -212,7 +212,8 @@ variant: tiptap
 <p>Mdm Sumathi d/o Vadiveloo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sumathi_vadiveloo@moe.edu.sg</p>
+<p><a href="mailto:sumathi_vadiveloo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sumathi_vadiveloo@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
