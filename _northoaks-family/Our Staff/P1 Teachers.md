@@ -15,24 +15,19 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
-<p>P1 Angsana</p>
+<p>1 Angsana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JACQUELINE OH</p>
+<p>Miss Jacqueline Oh&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUR HAFIZHAH</p>
+<p>Miss Nur Hafizhah Bibi Binte M Omar&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">oh_bee_tin@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">oh_bee_tin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,63 +37,64 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>P1 Cypress</p>
+<p>1 Cypress</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DOREEN TAN</p>
+<p>Mdm Tan Wai Li Doreen&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BIANCA ANG</p>
+<p>Ms Ang Hui Ying</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_wai_li_doreen@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_wai_li_doreen@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_hui_ying@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>P1 Dahlia&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GHAFUR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHRISTINE ANG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_ghafur_abdul_sukor@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_poh_poh_christine@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ang_hui_ying@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>P1 Eucalyptus</p>
+<p>1 Dahlia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MICHELLE YONG</p>
+<p>Mr Muhammad Ghafur Bin Abdul Sukor&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>XU WENLI</p>
+<p>Miss Ang Poh Poh Christine&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_ghafur_abdul_sukor@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">xu_wenli@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ang_poh_poh_christine@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>1 Eucalyptus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Yong-Loi Mingli Michelle&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Xu Wenli&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">loi_mingli_michelle@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">xu_wenli@moe.edu.sg</a>
 </p>
 </td>
 </tr>
