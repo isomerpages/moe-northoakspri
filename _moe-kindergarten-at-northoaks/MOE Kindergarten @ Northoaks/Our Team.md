@@ -14,6 +14,7 @@ third_nav_title: MOE Kindergarten @ Northoaks
 <p>Ms. Farhana</p>
 <p>Ms. Elizabeth</p>
 <p>Ms. Junaidah</p>
+<p>Ms. Saleha</p>
 <p></p>
 <h4><strong>Mother Language Team</strong></h4>
 <p>Cikgu Shabrina</p>

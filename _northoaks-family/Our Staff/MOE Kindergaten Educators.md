@@ -97,6 +97,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Nur Saleha Binte Mohamed Isa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_saleha_mohamed_isa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_saleha_mohamed_isa@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MK Educator (EL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Muhammad Fadhil Bin Jamaludin</p>
 </td>
 <td rowspan="1" colspan="1">
