@@ -102,10 +102,10 @@ variant: tiptap
 <p>HOD/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Valerie Tan Hui Ling</p>
+<p>Ms Lim Pei Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_hui_ling_valerie@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lim_pei_shan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -162,7 +162,7 @@ variant: tiptap
 <p>HOD/ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Thuhaila Binte Sainy</p>
+<p>Ms Thuhaila Binte Sainy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">thuhaila_sainy@moe.edu.sg</a>
@@ -194,18 +194,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH/Lower Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Pei Shan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_pei_shan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>YH/Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -221,10 +209,10 @@ variant: tiptap
 <p>YH/Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim Mei Leng</p>
+<p>Mdm Sumathi d/o Vadiveloo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_mei_leng@moe.edu.sg</a>
+<p><a href="mailto:sumathi_vadiveloo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sumathi_vadiveloo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -241,25 +229,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Student Well-being</p>
+<p>LH/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Evon Lee Seok Hui</p>
+<p>Mdm Lim Mui Hong&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_seok_hui_evon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LH/English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Sim-Ng Xin Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_xin_yi_p@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lim_mui_hong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -272,6 +248,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">sahairi_ramri@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH/Student Well-being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Evon Lee Seok Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">lee_seok_hui_evon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -347,18 +335,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Noor Aini Binte Jamin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">noor_aini_jamin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LT/Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -366,6 +342,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">toh_kian_chong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST/Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noor Aini Binte Jamin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">noor_aini_jamin@moe.edu.sg</a>
 </p>
 </td>
 </tr>

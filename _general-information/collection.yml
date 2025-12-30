@@ -2,7 +2,7 @@ collections:
   general-information:
     output: true
     order:
-      - Home Partnership.md
+      - Home School Partnership.md
       - School Information/.keep
       - School Information/School Hours and School Rules.md
       - School Information/Attire and Appearance.md

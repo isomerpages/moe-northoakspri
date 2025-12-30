@@ -1,5 +1,5 @@
 ---
-title: Home Partnership
+title: Home School Partnership
 permalink: /home-partnership/
 variant: tiptap
 description: ""

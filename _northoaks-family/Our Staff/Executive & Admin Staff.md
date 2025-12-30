@@ -108,6 +108,22 @@ variant: tiptap
 <p>Mdm Tan Li Cheng Jessie</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Moy Keng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Chuan Lock</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Allied Educators</h2>
