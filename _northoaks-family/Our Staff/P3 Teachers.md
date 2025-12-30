@@ -27,7 +27,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;lim_mui_hong@moe.edu.sg</p>
+<p>lim_mui_hong@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lakshmikanthan_s@moe.edu.sg</a>
