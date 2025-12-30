@@ -14,7 +14,7 @@ third_nav_title: Our Staff
 <tbody>
 <tr>
 <td rowspan="6" colspan="1">
-<p>CAJT</p>
+<h4><strong>CAJT</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Goh Kah Peck Robin&nbsp;</p>
@@ -51,7 +51,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="28" colspan="1">
-<p>FAJT&nbsp;</p>
+<h4><strong>FAJT&nbsp;</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jeralynn Loy&nbsp;</p>
