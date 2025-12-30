@@ -229,25 +229,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Student Well-being</p>
+<p>LH/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Evon Lee Seok Hui</p>
+<p>Mdm Lim Mui Hong&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_seok_hui_evon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LH/English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Sim-Ng Xin Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_xin_yi_p@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lim_mui_hong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -264,6 +252,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>SH/Student Well-being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Evon Lee Seok Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">lee_seok_hui_evon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p>&nbsp;</p>
 </td>
@@ -276,7 +276,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>AYH/Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Eric Tan Aik Hong</p>
