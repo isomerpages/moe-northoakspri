@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>P1C</p>
+<p>P1 Cypress</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DOREEN TAN</p>
@@ -63,7 +63,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>P1D&nbsp;</p>
+<p>P1 Dahlia&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>GHAFUR</p>
@@ -84,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>P1E</p>
+<p>P1 Eucalyptus</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MICHELLE YONG</p>
