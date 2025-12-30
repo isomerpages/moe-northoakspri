@@ -99,6 +99,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Please allow teachers up to 3 days to reply to your email queries.
-<br>For urgent matters, please contact the teacher through the General Office
-at 6753 8835.</p>
+<p></p>
