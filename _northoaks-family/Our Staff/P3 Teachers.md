@@ -19,102 +19,99 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>3 Angsana</p>
+<td rowspan="1" colspan="1">
+<p>P2 Angsana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nirwani Binte Yusof&nbsp;</p>
+<p>FAN KWAI LIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ang Lay Chen&nbsp;</p>
+<p>KHOO WAN XIN</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nirwani_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nirwani_yusof@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_lay_chen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lay_chen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>3 Cypress</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jocelyn Ang Huiyue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Hameeta D/O Myden Pillai&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jocelyn_ang_huiyue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jocelyn_ang_huiyue@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hameeta_myden_pillai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hameeta_myden_pillai@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>3 Dahlia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Chow-Choo Chai Leng Michelle&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ang Kok Leong&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><a href="mailto:choo_chai_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_chai_leng@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><a href="mailto:ang_kok_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_kok_leong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr></tr>
-<tr>
-<td rowspan="4" colspan="1">
-<p>3 Eucalyptus</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Faith Yee Xue Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Woan Mey</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yee_xue_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yee_xue_ying@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_woan_mey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_woan_mey@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nurdiyanah Binte Samsuri&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>fan_kwai_lin@schools.gov.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>khoo_wan_xin@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurdiyanah_samsuri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurdiyanah_samsuri@moe.edu.sg</a>
-</p>
+<p>P2 Cypress</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JULIANA LEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ENRICO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>juliana_sulaiman@schools.gov.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Enrico_Elifh_Abdul_Lathif@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 Dahlia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JERALYNN LOY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FARZIANAH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LoyNg_Choon_Guat_Jeralynn@schools.gov.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>noor_farzianah_noor@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 Eeucalyptus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MABLE JAMES</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>APRIL LEONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>cynthia_mable_j_stephen@schools.gov.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>leong_teng_eng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
