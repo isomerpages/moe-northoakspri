@@ -154,7 +154,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ivy Tan</p>
+<p>Mdm Ivy Tan</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +165,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joyce Lim&nbsp;</p>
+<p>Mdm Joyce Lim&nbsp;</p>
 </td>
 </tr>
 <tr>
