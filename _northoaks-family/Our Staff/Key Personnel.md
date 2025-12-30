@@ -102,10 +102,10 @@ variant: tiptap
 <p>HOD/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Valerie Tan Hui Ling</p>
+<p>Ms Lim Pei Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_hui_ling_valerie@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lim_pei_shan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -162,7 +162,7 @@ variant: tiptap
 <p>HOD/ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Thuhaila Binte Sainy</p>
+<p>Ms Thuhaila Binte Sainy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">thuhaila_sainy@moe.edu.sg</a>
@@ -194,18 +194,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH/Lower Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Pei Shan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_pei_shan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>YH/Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -221,11 +209,10 @@ variant: tiptap
 <p>YH/Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim Mei Leng</p>
+<p>Mdm Sumathi d/o Vadiveloo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_mei_leng@moe.edu.sg</a>
-</p>
+<p>sumathi_vadiveloo@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -288,7 +275,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH/Lower Primary</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Eric Tan Aik Hong</p>
@@ -347,18 +334,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Noor Aini Binte Jamin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">noor_aini_jamin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LT/Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -366,6 +341,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">toh_kian_chong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST/Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noor Aini Binte Jamin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">noor_aini_jamin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
