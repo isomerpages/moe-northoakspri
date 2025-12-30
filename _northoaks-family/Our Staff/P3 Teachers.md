@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
+<p><strong>Primary 3 Form Teachers</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -13,108 +15,86 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong>Primary 3 Form Teachers</strong>
+<td rowspan="2" colspan="1">
+<p>3 Angsana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Mui Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lakshmikanthan&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">lakshmikanthan_s@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>P2 Angsana</p>
+<td rowspan="2" colspan="1">
+<p>3 Cypress</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FAN KWAI LIN</p>
+<p>Mrs Chua-Ho Shuyi Cheryl&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KHOO WAN XIN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>fan_kwai_lin@schools.gov.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>khoo_wan_xin@schools.gov.sg</p>
+<p>Mr Ng Chan Siong&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2 Cypress</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ho_shuyi_cheryl@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JULIANA LEE</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ng_chan_siong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>3 Dahlia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENRICO</p>
+<p>Ms Nurhanisah Binte Ahmad Jalani&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Wan Rong&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">nurhanisah_ahmad_jalani@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>juliana_sulaiman@schools.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lim_wan_rong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>3 Eucalyptus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Enrico_Elifh_Abdul_Lathif@schools.gov.sg</p>
+<p>Mrs Jong-Bin Wern Hwei&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Goh Kah Peck Robin&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2 Dahlia</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">jong_bin_wern_hwei@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JERALYNN LOY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FARZIANAH</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LoyNg_Choon_Guat_Jeralynn@schools.gov.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>noor_farzianah_noor@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P2 Eeucalyptus</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MABLE JAMES</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>APRIL LEONG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>cynthia_mable_j_stephen@schools.gov.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>leong_teng_eng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">goh_kah_peck_robin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
