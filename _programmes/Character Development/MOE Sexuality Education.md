@@ -80,29 +80,31 @@ rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <p>
-<br><strong>At Northoaks Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<br><strong>At Northoaks Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="sexualityv2" src="/images/sexuality_2025v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="test" src="/images/2026v2_sexuality.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="sexuality" src="/images/sexuality_2025v1.png">
+<img style="width: 100%" height="auto" width="100%" alt="test2" src="/images/2026v1_sexuality_1.png">
 </div>
 <p><strong><br></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="test3" src="/images/2026v3_sexualty.png">
+</div>
 <p><strong>Information for Parents</strong>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
 out of Sexuality Education lessons, and/or supplementary Sexuality Education
 programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the Sexuality Education lessons need to complete an <a href="https://go.gov.sg/sedoptoutnkps2025" rel="noopener nofollow" target="_blank">Opt Out Form</a> .
+out of the Sexuality Education lessons need to complete an <a href="https://go.gov.sg/optoutsednkps2026" rel="noopener nofollow" target="_blank">Opt Out Form</a> .
 This form will be communicated &nbsp;to parents at the start of the year
-and is also downloadable <a href="/files/for_upload_2025_SEd_Opt_Out_Form__002_.pdf" rel="noopener nofollow" target="_blank">here</a>
+and is also downloadable <a href="/files/for_upload_2026_SEd_Opt_Out_Form__002_.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
-<p>The completed opt-out form is to be submitted by 15/02/2025.</p>
+<p>The completed opt-out form is to be submitted by 31/01/2026.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <strong>&nbsp;</strong>
-<a href="https://www.google.com/search?q=northoaks+primary+school&amp;rlz=1C1GCEA_enSG1043SG1043&amp;oq=nort&amp;gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDkyEwgCEC4YgwEYrwEYxwEYsQMYgAQyEwgDEC4YgwEYxwEYsQMY0QMYgAQyDQgEEC4YgwEYsQMYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGD3SAQgxNjc4ajBqNKgCALACAA&amp;sourceid=chrome&amp;ie=UTF-8" rel="noopener noreferrer nofollow" target="_blank">6753 8835</a>for discussion or to seek clarification about the school’s
+<a href="https://www.google.com/search?q=northoaks+primary+school&amp;rlz=1C1GCEA_enSG1043SG1043&amp;oq=northoaks+pri&amp;gs_lcrp=EgZjaHJvbWUqEAgAEAAYkQIY4wIYgAQYigUyEAgAEAAYkQIY4wIYgAQYigUyEwgBEC4YrwEYxwEYkQIYgAQYigUyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIGCAUQRRg9MgYIBhBFGDwyBggHEEUYPKgCALACAQ&amp;sourceid=chrome&amp;ie=UTF-8&amp;safe=active&amp;ssui=on" rel="noopener noreferrer nofollow" target="_blank">6753 8835</a>for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
