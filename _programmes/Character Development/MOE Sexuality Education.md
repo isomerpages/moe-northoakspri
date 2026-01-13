@@ -47,7 +47,7 @@ before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Northoaks Primary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Northoaks Primary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
@@ -87,7 +87,7 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <img style="width: 100%" height="auto" width="100%" alt="test3" src="/images/2026v4_sexuality.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="test2" src="/images/2026v1_sexuality_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="P5 sexuality lesson" src="/images/sexuality_P5_v3.png">
 </div>
 <p><strong><br></strong>
 </p>
