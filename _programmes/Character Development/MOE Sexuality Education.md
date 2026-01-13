@@ -86,9 +86,8 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="test3" src="/images/2026v4_sexuality.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="sexual lesson" src="/images/sexualv2.png">
+<img style="width: 100%" height="auto" width="100%" alt="P5 sexuality lesson" src="/images/sexuality_P5_v3.png">
 </div>
 <p><strong><br></strong>
 </p>
