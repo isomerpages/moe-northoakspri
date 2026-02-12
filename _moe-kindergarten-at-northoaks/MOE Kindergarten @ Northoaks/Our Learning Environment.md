@@ -30,8 +30,9 @@ where every space is a learning space.</p>
 <p>Children are provided with individually labelled cubby holes for their
 shoes and bags.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="4" src="/images/4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_2704.jpg">
 </div>
+<p></p>
 <p>Colourful and inviting learning centres in the classrooms fostering opportunities
 for purposeful play and quality interactions!</p>
 <div class="isomer-image-wrapper">
