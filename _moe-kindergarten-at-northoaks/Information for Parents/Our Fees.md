@@ -10,7 +10,7 @@ third_nav_title: Information for Parents
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Northoaks.jpg">
 </div>
 <h2><strong>Fees</strong></h2>
-<p>The monthly fee for MK in 2024 is:</p>
+<p>The monthly fee for MK in 2025 is:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>$160 for Singapore Citizens.</p>
