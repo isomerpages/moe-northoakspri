@@ -20,12 +20,13 @@ where every space is a learning space.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Mk classroom" src="/images/Screenshot_2024_01_26_174517.jpg">
 </div>
 <p>MK classrooms are equipped with comfortable child-sized tables and chairs.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2" src="/images/2.jpg">
-</div>
 <p>Children’s works are clearly displayed to brighten up the classrooms!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="3" src="/images/3.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/IMG_2700.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0028.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="4" src="/images/4.jpg">
@@ -44,28 +45,33 @@ shoes and bags.</p>
 <p><strong>Malay Language Corner</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="8" src="/images/8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_2698.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="9" src="/images/9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0030.jpg">
 </div>
 <p><strong>Tamil Language Corner</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0032.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_4343.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0033.jpg">
 </div>
 <p><strong>Chinese Language Corner</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="12" src="/images/12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0026.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="13" src="/images/13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0023.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0027.jpg">
 </div>
 <p><strong>MK Playground</strong>
 </p>
