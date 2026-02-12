@@ -9,7 +9,11 @@ third_nav_title: MOE Kindergarten @ Northoaks
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Northoaks.jpg">
 </div>
-<p>Stay tuned for more details on Open House 2026!
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_NK_Open_House_Instagram_Post.png">
+</div>
+<p>
 <br>
 </p>
 <p>Office Tel: 6481 2018, Fax: 64813106</p>
