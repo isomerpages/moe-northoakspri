@@ -10,39 +10,20 @@ third_nav_title: MOE Kindergarten @ Northoaks
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Northoaks.jpg">
 </div>
 <p></p>
-<p>To register your child with us, please fill in the waitlist form in the
-FormSG <a href="https://form.gov.sg/684a334b5f74c92238b709c4" rel="noopener nofollow" target="_blank">here</a>!</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Please attach the following documents in the FormSG submission.</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Child’s Birth Certificate / Entry Permit
-for SPR</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Both parents’ NRIC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Child’s immunisation record retrieved
-from the National Immunisation Registry website (<a rel="noopener noreferrer nofollow" target="_blank">www.nir.hpb.gov.sg</a>)
-via your Singpass.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<p><strong>2026 MK Registration Exercise</strong>
+</p>
+<p>The 2026 MK Registration Exercise is open to SC and PR children born between
+2 January 2022 and 1 January 2023, both dates inclusive.</p>
+<p>Parents can register their child for admission to an MK via the MK website
+(<a href="https://www.moe.gov.sg/mk" rel="noopener" target="_blank"><u>www.moe.gov.sg/mk</u></a>),
+from <strong>9am on Monday, 23 March 2026 to 4.30pm on Tuesday, 31 March 2026</strong>
+<a href="https://www.moe.gov.sg/news/press-releases/20260211-2026-moe-kindergarten-open-house-and-registration-exercise#footnote-4" rel="noopener noreferrer nofollow" target="_blank"><u><sup>4</sup></u>
+</a>.</p>
+<p>Parents will be informed of the registration outcome by <strong>Monday, 1 June 2026</strong>.</p>
+<p>Parents seeking admission to K1 or K2 for their child outside the registration
+period should contact the MK directly to check if there are vacancies
+<a href="https://www.moe.gov.sg/news/press-releases/20260211-2026-moe-kindergarten-open-house-and-registration-exercise#footnote-5" rel="noopener noreferrer nofollow" target="_blank"><u><sup>5</sup></u>
+</a>.</p>
 <p>
 <br>Office Tel: 6481 2018, Fax: 64813106</p>
 <p></p>
