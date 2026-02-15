@@ -134,5 +134,12 @@ smartwatches, and they should bear responsibility for their safekeeping.</p>
 period to assist in a disciplinary investigation. These belongings include
 but are not limited to mobile phones and smartwatches.</p>
 </li>
+<li>
+<p>The school may also photograph or record students’ conduct when necessary
+for disciplinary investigations or safety documentation. Recordings will
+be made by our school staff using available devices as part of the school’s
+educational and pastoral responsibilities to ensure student safety and
+maintain a conducive learning environment.</p>
+</li>
 </ol>
 <p></p>
