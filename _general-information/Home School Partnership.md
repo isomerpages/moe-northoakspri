@@ -87,6 +87,20 @@ note or letter submitted through the *PG app.</p>
 guardian is required to fetch the child from the General Office and sign
 the “Student Early Dismissal Record” book. This procedure is in place to
 ensure the safety of our students.</p>
+</li>
+<li>
+<p>During the course of the years, photographs and videos of students may
+be taken during school activities and events such as classroom lessons,
+CCAs, camps, competitions, school concerts, disciplinary investigations,
+intervention support and other official events. The photographs and video
+recordings may be used in school publications, other communication channels,
+and for educational or administrative purposes including disciplinary matters.
+By enrolling your child/ward, parents provide deemed consent for such photography
+and recording. All recordings are conducted in accordance with the school's
+duty of care when necessary for student safety, disciplinary processes
+and intervention support. If you have concerns about the school using images
+of your child/ward, you may approach the General Office or write to the
+school at <a href="mailto:northoaks_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">northoaks_ps@moe.edu.sg</a>.</p>
 <p></p>
 <p></p>
 </li>
