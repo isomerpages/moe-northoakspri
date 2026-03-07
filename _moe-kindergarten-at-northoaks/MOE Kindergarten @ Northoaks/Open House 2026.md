@@ -15,7 +15,7 @@ third_nav_title: MOE Kindergarten @ Northoaks
 </div>
 <p>Thank you for coming to our 2026 MK Open House!</p>
 <p>To view the slides shown during the Open House, you can access it here:
-<a href="/files/2026_MK_OH_Presentation.pdf" rel="noopener nofollow" target="_blank">2026 MK OH Presentation Deck</a>
+<a href="/files/1__2026_MK_OH_Presentation_Deck__website_.pdf" rel="noopener nofollow" target="_blank">2026 MK OH Presentation Deck</a>
 <br>
 </p>
 <p>Office Tel: 6481 2018, Fax: 64813106</p>
