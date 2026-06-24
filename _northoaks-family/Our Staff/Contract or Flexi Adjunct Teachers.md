@@ -50,7 +50,7 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="24" colspan="1">
+<td rowspan="16" colspan="1">
 <h4><strong>FAJT&nbsp;</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,17 +88,6 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Raj</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">thanam_manickam@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Sri Murniati Mohamed Amin</p>
 </td>
 </tr>
@@ -116,39 +105,6 @@ third_nav_title: Our Staff
 <tr>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">angela_lye@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Serena Yong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">serena_tay_hwee_khim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chin Shu Fei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chin_shu_fei_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Soh Hui Leng&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">soh_hui_leng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
