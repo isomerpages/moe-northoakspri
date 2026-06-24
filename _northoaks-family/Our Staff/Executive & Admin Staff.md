@@ -57,7 +57,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maryani Endot</p>
+<p>Ms Siow Xueli</p>
 </td>
 </tr>
 <tr>
@@ -197,14 +197,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Danial Bin Ramadan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ram Sakthivel</p>
 </td>
 </tr>
 <tr>
